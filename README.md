@@ -1,20 +1,19 @@
 # Player Action Value & Possession Threat Explorer
 
-This repository is organized around a single polished Jupyter notebook that presents the project as a football analytics case study built on possession value.
+This repository is organized around a single Jupyter notebook that presents the project as a football analytics case study built on possession value, action quality, and player style.
 
-The notebook uses processed StatsBomb-based action data, xT-style action valuation, pandas, Plotly, and scikit-learn to answer a practical set of questions: which players add the most value, which actions are driving that value, how teams differ in their threat creation patterns, and what player-style clustering adds beyond standard leaderboards.
-
-## Why This Project Matters
-
-Goals and assists are useful outcomes, but they miss much of the work that improves a possession before the final action. A progression pass, carry, or dribble can materially raise the quality of an attack without appearing in headline output.
-
-This project uses action-level possession framing and expected threat to make that value visible. The result is a notebook designed to feel closer to club-style reporting than to a fan dashboard or a purely academic model walk-through.
+The notebook uses processed StatsBomb-based action data, xT-style action valuation, pandas, Plotly, and scikit-learn to answer a practical set of questions: which players add the most possession value, which actions drive that value, how teams differ in their threat creation patterns, and what clustering reveals about player style beyond standard leaderboards.
 
 ## Main Notebook
 
-The primary artifact in this repository is:
+- [Open the notebook](notebooks/player_action_value_explorer.ipynb)
+- nbviewer template: `https://nbviewer.org/github/<your-github-username>/<your-repo-name>/blob/main/notebooks/player_action_value_explorer.ipynb`
 
-- [notebooks/player_action_value_explorer.ipynb](/Users/ahannair/Desktop/player-action-value-explorer/notebooks/player_action_value_explorer.ipynb)
+## Why This Project Matters
+
+Goals and assists are useful outcomes, but they miss much of the work that improves a possession before the final action. A progression pass, carry, or dribble can materially improve the quality of an attack without appearing in headline output.
+
+This project uses action-level possession framing and expected threat to make that value visible. The result is a notebook designed to feel closer to club-style reporting than to a fan dashboard or a purely academic model walk-through.
 
 ## What Data Is Used
 
@@ -43,9 +42,27 @@ The notebook is organized into these sections:
 10. Key findings
 11. Next steps
 
+## GitHub-Friendly Static Views
+
+GitHub does not reliably preserve interactive Plotly outputs inside notebooks. To keep the project readable on GitHub, the notebook now exports the main figures as static PNG files into `assets/` when it runs locally.
+
+Running the notebook refreshes these chart exports:
+
+![Top players by total xT](assets/top_players_total_xt.png)
+
+![Top players by xT per 90](assets/top_players_xt_per90.png)
+
+![xT by action type](assets/action_type_xt.png)
+
+![Team progression vs final-third threat](assets/team_progression_vs_final_third.png)
+
+![Teams by xT per match](assets/teams_xt_per_match.png)
+
+![Player style clusters](assets/player_style_clusters.png)
+
 ## What The ML Extension Adds
 
-The notebook now includes a player-style clustering and similarity section built from interpretable action-value features. The aim is not just to rank players by output, but to show different ways they generate value and identify stylistic matches that could support profiling or scouting work.
+The notebook includes a player-style clustering and similarity section built from interpretable action-value features. The aim is not just to rank players by output, but to show different ways they generate value and identify stylistic matches that could support profiling, comparison, and scouting work.
 
 ## Repository Structure
 
