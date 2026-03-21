@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+pyarrow>=16.1
+scikit-learn>=1.5
+jupyter>=1.0
+jupyterlab>=4.2
+notebook>=7.2
+ipykernel>=6.29
+nbformat>=5.10
+statsbombpy>=1.13
+socceraction>=1.5

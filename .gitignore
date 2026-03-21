@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Local Jupyter artifacts
+.jupyter/
+
+# Legacy Quarto outputs
+site/.quarto/
+site/_site/
+site/.sass-cache/
+site/_freeze/
+site/*.quarto_ipynb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.html.tmp
+
+# Local config
+.env
+.env.*

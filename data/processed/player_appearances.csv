@@ -1,0 +1,1791 @@
+player_id,player_name,position_id,position_name,jersey_number,extra,game_id,team_id,team_name,minutes_played,starting_position_name,is_starter
+5172,Igor Akinfeev,1,Goalkeeper,1.0,{},7525,796,Russia,96,Goalkeeper,True
+5170,Mário Figueira Fernandes,2,Right Back,2.0,{},7525,796,Russia,96,Right Back,True
+5175,Ilya Kutepov,3,Right Center Back,3.0,{},7525,796,Russia,96,Right Center Back,True
+5174,Sergei Ignashevich,5,Left Center Back,4.0,{},7525,796,Russia,96,Left Center Back,True
+5193,Yuri Zhirkov,6,Left Back,18.0,{},7525,796,Russia,96,Left Back,True
+5182,Aleksandr Samedov,12,Right Midfield,19.0,{},7525,796,Russia,65,Right Midfield,True
+5171,Roman Zobnin,13,Right Center Midfield,11.0,{},7525,796,Russia,96,Right Center Midfield,True
+5181,Yury Gazinskiy,15,Left Center Midfield,8.0,{},7525,796,Russia,96,Left Center Midfield,True
+5177,Aleksandr Golovin,16,Left Midfield,17.0,{},7525,796,Russia,96,Left Midfield,True
+5180,Alan Dzagoev,19,Center Attacking Midfield,9.0,{},7525,796,Russia,23,Center Attacking Midfield,True
+5194,Fyodor Smolov,23,Center Forward,10.0,{},7525,796,Russia,71,Center Forward,True
+5189,Abdullah Ibrahim Al Maiouf,1,Goalkeeper,1.0,{},7525,799,Saudi Arabia,96,Goalkeeper,True
+5191,Mohammed Al Burayk,2,Right Back,6.0,{},7525,799,Saudi Arabia,96,Right Back,True
+5184,Osama Abdulrezag Hawsawi,3,Right Center Back,3.0,{},7525,799,Saudi Arabia,96,Right Center Back,True
+5197,Omar Ibrahim Omar Othman Hawsawi,5,Left Center Back,5.0,{},7525,799,Saudi Arabia,96,Left Center Back,True
+5183,Yasir Gharsan Al Shahrani,6,Left Back,13.0,{},7525,799,Saudi Arabia,96,Left Back,True
+5173,Abdullah Ibrahim Otayf,10,Center Defensive Midfield,14.0,{},7525,799,Saudi Arabia,65,Center Defensive Midfield,True
+5192,Yehya Sulaiman Ali Al-Shehri,12,Right Midfield,8.0,{},7525,799,Saudi Arabia,73,Right Midfield,True
+5185,Taisir Jabir Al Jassim,13,Right Center Midfield,17.0,{},7525,799,Saudi Arabia,96,Right Center Midfield,True
+5178,Salman Mohammed Al Faraj,15,Left Center Midfield,7.0,{},7525,799,Saudi Arabia,96,Left Center Midfield,True
+5187,Salem Mohammed Al Dawsari,16,Left Midfield,18.0,{},7525,799,Saudi Arabia,96,Left Midfield,True
+5196,Mohammad Ibrahim Al Sahlawi,23,Center Forward,10.0,{},7525,799,Saudi Arabia,85,Center Forward,True
+5186,Denis Cheryshev,0,0,0.0,0,7525,796,Russia,73,,False
+5190,Fahad Mosaed Al Muwallad Al Harbi,0,0,0.0,0,7525,799,Saudi Arabia,31,,False
+5179,Daler Kuzyaev,0,0,0.0,0,7525,796,Russia,31,,False
+5195,Artem Dzyuba,0,0,0.0,0,7525,796,Russia,25,,False
+5188,Hattan Babhir,0,0,0.0,0,7525,799,Saudi Arabia,23,,False
+5176,Mohanad Aseri Abu Radiah,0,0,0.0,0,7525,799,Saudi Arabia,11,,False
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},7529,785,Croatia,95,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},7529,785,Croatia,95,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},7529,785,Croatia,95,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},7529,785,Croatia,95,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},7529,785,Croatia,95,Left Back,True
+5463,Luka Modrić,13,Right Center Midfield,10.0,{},7529,785,Croatia,95,Right Center Midfield,True
+5470,Ivan Rakitić,15,Left Center Midfield,7.0,{},7529,785,Croatia,95,Left Center Midfield,True
+5474,Ivan Perišić,17,Right Wing,4.0,{},7529,785,Croatia,95,Right Wing,True
+5460,Andrej Kramarić,19,Center Attacking Midfield,9.0,{},7529,785,Croatia,60,Center Attacking Midfield,True
+5465,Ante Rebić,21,Left Wing,18.0,{},7529,785,Croatia,78,Left Wing,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},7529,785,Croatia,85,Center Forward,True
+5454,Francis Odinaka Uzoho,1,Goalkeeper,23.0,{},7529,775,Nigeria,95,Goalkeeper,True
+5471,Abdullahi Shehu,2,Right Back,12.0,{},7529,775,Nigeria,95,Right Back,True
+5455,William Troost-Ekong,3,Right Center Back,5.0,{},7529,775,Nigeria,95,Right Center Back,True
+5467,Leon Aderemi Balogun,5,Left Center Back,6.0,{},7529,775,Nigeria,95,Left Center Back,True
+5462,Brian Oladapo Idowu,6,Left Back,2.0,{},7529,775,Nigeria,95,Left Back,True
+3647,Alex Iwobi,11,Left Defensive Midfield,18.0,{},7529,775,Nigeria,62,Left Defensive Midfield,True
+3338,Onyinye Wilfred Ndidi,13,Right Center Midfield,4.0,{},7529,775,Nigeria,95,Right Center Midfield,True
+5466,Oghenekaro Etebo,15,Left Center Midfield,8.0,{},7529,775,Nigeria,95,Left Center Midfield,True
+3963,Victor Moses,17,Right Wing,11.0,{},7529,775,Nigeria,95,Right Wing,True
+5475,John Michael Nchekwube Obinna,19,Center Attacking Midfield,10.0,{},7529,775,Nigeria,88,Center Attacking Midfield,True
+5458,Odion Jude Ighalo,23,Center Forward,9.0,{},7529,775,Nigeria,72,Center Forward,True
+5469,Marcelo Brozović,0,0,0.0,0,7529,785,Croatia,35,,False
+5473,Ahmed Musa,0,0,0.0,0,7529,775,Nigeria,33,,False
+3708,Kelechi Promise Iheanacho,0,0,0.0,0,7529,775,Nigeria,23,,False
+5456,Mateo Kovačić,0,0,0.0,0,7529,785,Croatia,17,,False
+5459,Marko Pjaca,0,0,0.0,0,7529,785,Croatia,10,,False
+5464,Simeon Tochukwu Nwankwo,0,0,0.0,0,7529,775,Nigeria,7,,False
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},7530,771,France,96,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},7530,771,France,96,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},7530,771,France,96,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},7530,771,France,96,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},7530,771,France,96,Left Back,True
+3961,N''Golo Kanté,10,Center Defensive Midfield,13.0,{},7530,771,France,96,Center Defensive Midfield,True
+5480,Corentin Tolisso,13,Right Center Midfield,12.0,{},7530,771,France,78,Right Center Midfield,True
+20004,Paul Pogba,15,Left Center Midfield,6.0,{},7530,771,France,96,Left Center Midfield,True
+3009,Kylian Mbappé Lottin,17,Right Wing,10.0,{},7530,771,France,96,Right Wing,True
+5477,Ousmane Dembélé,21,Left Wing,11.0,{},7530,771,France,70,Left Wing,True
+5487,Antoine Griezmann,23,Center Forward,7.0,{},7530,771,France,70,Center Forward,True
+3240,Mathew Ryan,1,Goalkeeper,1.0,{},7530,792,Australia,96,Goalkeeper,True
+5482,Josh Risdon,2,Right Back,19.0,{},7530,792,Australia,96,Right Back,True
+5478,Trent Sainsbury,3,Right Center Back,20.0,{},7530,792,Australia,96,Right Center Back,True
+5488,Mark Milligan,5,Left Center Back,5.0,{},7530,792,Australia,96,Left Center Back,True
+5479,Aziz Eraltay Behich,6,Left Back,16.0,{},7530,792,Australia,96,Left Back,True
+5481,Mathew Leckie,12,Right Midfield,7.0,{},7530,792,Australia,96,Right Midfield,True
+5489,Mile Jedinak,13,Right Center Midfield,15.0,{},7530,792,Australia,96,Right Center Midfield,True
+3281,Aaron Mooy,15,Left Center Midfield,13.0,{},7530,792,Australia,96,Left Center Midfield,True
+5494,Robbie Kruse,16,Left Midfield,10.0,{},7530,792,Australia,84,Left Midfield,True
+5491,Tom Rogić,19,Center Attacking Midfield,23.0,{},7530,792,Australia,71,Center Attacking Midfield,True
+5486,Andrew Nabbout,23,Center Forward,11.0,{},7530,792,Australia,64,Center Forward,True
+5493,Tomi Jurić,0,0,0.0,0,7530,792,Australia,32,,False
+3604,Olivier Giroud,0,0,0.0,0,7530,771,France,26,,False
+2948,Nabil Fekir,0,0,0.0,0,7530,771,France,26,,False
+5490,Jackson Irvine,0,0,0.0,0,7530,792,Australia,25,,False
+4375,Blaise Matuidi,0,0,0.0,0,7530,771,France,18,,False
+5483,Daniel Arzani,0,0,0.0,0,7530,792,Australia,12,,False
+3659,Wilfredo Daniel Caballero,1,Goalkeeper,23.0,{},7531,779,Argentina,96,Goalkeeper,True
+5513,Eduardo Antonio Salvio,2,Right Back,18.0,{},7531,779,Argentina,96,Right Back,True
+3090,Nicolás Hernán Otamendi,3,Right Center Back,17.0,{},7531,779,Argentina,96,Right Center Back,True
+3602,Faustino Marcos Alberto Rojo,5,Left Center Back,16.0,{},7531,779,Argentina,96,Left Center Back,True
+5507,Nicolás Alejandro Tagliafico,6,Left Back,3.0,{},7531,779,Argentina,96,Left Back,True
+5499,Maximiliano Eduardo Meza,12,Right Midfield,13.0,{},7531,779,Argentina,84,Right Midfield,True
+5510,Lucas Rodrigo Biglia,13,Right Center Midfield,5.0,{},7531,779,Argentina,54,Right Center Midfield,True
+5506,Javier Alejandro Mascherano,15,Left Center Midfield,14.0,{},7531,779,Argentina,96,Left Center Midfield,True
+2995,Ángel Fabián Di María Hernández,16,Left Midfield,11.0,{},7531,779,Argentina,75,Left Midfield,True
+5503,Lionel Andrés Messi Cuccittini,19,Center Attacking Midfield,10.0,{},7531,779,Argentina,96,Center Attacking Midfield,True
+3237,Sergio Leonel Agüero del Castillo,23,Center Forward,19.0,{},7531,779,Argentina,96,Center Forward,True
+5498,Hannes Þór Halldórsson,1,Goalkeeper,1.0,{},7531,793,Iceland,96,Goalkeeper,True
+5508,Birkir Már Sævarsson,2,Right Back,2.0,{},7531,793,Iceland,96,Right Back,True
+5505,Kári Árnason,3,Right Center Back,14.0,{},7531,793,Iceland,96,Right Center Back,True
+5511,Ragnar Sigurðsson,5,Left Center Back,6.0,{},7531,793,Iceland,96,Left Center Back,True
+5501,Hörður Björgvin Magnússon,6,Left Back,18.0,{},7531,793,Iceland,96,Left Back,True
+5515,Aron Einar Gunnarsson,9,Right Defensive Midfield,17.0,{},7531,793,Iceland,76,Right Defensive Midfield,True
+5512,Emil Hallfreðsson,11,Left Defensive Midfield,20.0,{},7531,793,Iceland,96,Left Defensive Midfield,True
+3720,Johann Berg Guðmunds­son,12,Right Midfield,7.0,{},7531,793,Iceland,63,Right Midfield,True
+5509,Birkir Bjarnason,16,Left Midfield,8.0,{},7531,793,Iceland,96,Left Midfield,True
+5514,Alfreð Finnbogason,23,Center Forward,11.0,{},7531,793,Iceland,89,Center Forward,True
+3944,Gylfi Þór Sigurðsson,25,Secondary Striker,10.0,{},7531,793,Iceland,96,Secondary Striker,True
+5504,Éver Maximiliano David Banega,0,0,0.0,0,7531,779,Argentina,42,,False
+5495,Rúrik Gíslason,0,0,0.0,0,7531,793,Iceland,33,,False
+5496,Cristian David Pavón,0,0,0.0,0,7531,779,Argentina,21,,False
+5502,Ari Freyr Skúlason,0,0,0.0,0,7531,793,Iceland,20,,False
+5497,Gonzalo Gerardo Higuaín,0,0,0.0,0,7531,779,Argentina,12,,False
+5500,Björn Bergmann Sigurðarson,0,0,0.0,0,7531,793,Iceland,7,,False
+5528,Pedro David Gallese Quiróz,1,Goalkeeper,1.0,{},7532,784,Peru,98,Goalkeeper,True
+5521,Luis Jan Piers Advíncula Castrillón,2,Right Back,17.0,{},7532,784,Peru,98,Right Back,True
+5530,Christian Guillermo Martín Ramos Garagay,3,Right Center Back,15.0,{},7532,784,Peru,98,Right Center Back,True
+5532,Alberto Junior Rodríguez Valdelomar,5,Left Center Back,2.0,{},7532,784,Peru,98,Left Center Back,True
+5518,Miguel Ángel Trauco Saavedra,6,Left Back,6.0,{},7532,784,Peru,98,Left Back,True
+5523,Renato Fabrizio Tapia Cortijo,13,Right Center Midfield,13.0,{},7532,784,Peru,89,Right Center Midfield,True
+5529,Víctor Yoshimar Yotún Flores,15,Left Center Midfield,19.0,{},7532,784,Peru,98,Left Center Midfield,True
+3632,André Martín Carrillo Díaz,17,Right Wing,18.0,{},7532,784,Peru,98,Right Wing,True
+5519,Christian Alberto Cueva Bravo,19,Center Attacking Midfield,8.0,{},7532,784,Peru,98,Center Attacking Midfield,True
+5525,Édison Michael Flores Peralta,21,Left Wing,20.0,{},7532,784,Peru,64,Left Wing,True
+5531,Jefferson Agustín Farfán Guadalupe,23,Center Forward,10.0,{},7532,784,Peru,87,Center Forward,True
+3815,Kasper Schmeichel,1,Goalkeeper,1.0,{},7532,776,Denmark,98,Goalkeeper,True
+4763,Henrik Dalsgaard,2,Right Back,14.0,{},7532,776,Denmark,98,Right Back,True
+5534,Simon Thorup Kjær,3,Right Center Back,4.0,{},7532,776,Denmark,98,Right Center Back,True
+3959,Andreas Christensen,5,Left Center Back,6.0,{},7532,776,Denmark,83,Left Center Back,True
+5524,Jens Stryger Larsen,6,Left Back,17.0,{},7532,776,Denmark,98,Left Back,True
+5517,William Vitved Kvist Jørgensen,13,Right Center Midfield,7.0,{},7532,776,Denmark,35,Right Center Midfield,True
+5527,Thomas Delaney,15,Left Center Midfield,8.0,{},7532,776,Denmark,98,Left Center Midfield,True
+5536,Yussuf Yurary Poulsen,17,Right Wing,20.0,{},7532,776,Denmark,98,Right Wing,True
+3043,Christian Dannemann Eriksen,19,Center Attacking Midfield,10.0,{},7532,776,Denmark,98,Center Attacking Midfield,True
+5516,Pione Sisto Ifolo Emirmija,21,Left Wing,23.0,{},7532,776,Denmark,69,Left Wing,True
+5522,Nicolai Jørgensen,23,Center Forward,9.0,{},7532,776,Denmark,98,Center Forward,True
+5520,Lasse Schöne,0,0,0.0,0,7532,776,Denmark,63,,False
+5535,José Paolo Guerrero Gonzáles,0,0,0.0,0,7532,784,Peru,34,,False
+4447,Martin Braithwaite Christensen,0,0,0.0,0,7532,776,Denmark,29,,False
+3027,Mathias Jattah-Njie Jørgensen,0,0,0.0,0,7532,776,Denmark,15,,False
+5533,Raúl Mario Ruidíaz Misitich,0,0,0.0,0,7532,784,Peru,11,,False
+5526,Pedro Jesús Aquino Sánchez,0,0,0.0,0,7532,784,Peru,9,,False
+5547,Alisson Ramsés Becker,1,Goalkeeper,1.0,{},7533,781,Brazil,98,Goalkeeper,True
+3063,Danilo Luiz da Silva,2,Right Back,14.0,{},7533,781,Brazil,98,Right Back,True
+3295,Thiago Emiliano da Silva,3,Right Center Back,2.0,{},7533,781,Brazil,98,Right Center Back,True
+5551,João Miranda de Souza Filho,5,Left Center Back,3.0,{},7533,781,Brazil,98,Left Center Back,True
+5552,Marcelo Vieira da Silva Júnior,6,Left Back,12.0,{},7533,781,Brazil,98,Left Back,True
+5539,Carlos Henrique Casimiro,10,Center Defensive Midfield,5.0,{},7533,781,Brazil,61,Center Defensive Midfield,True
+5542,José Paulo Bezzera Maciel Júnior,13,Right Center Midfield,15.0,{},7533,781,Brazil,68,Right Center Midfield,True
+3501,Philippe Coutinho Correia,15,Left Center Midfield,11.0,{},7533,781,Brazil,98,Left Center Midfield,True
+3472,Willian Borges da Silva,17,Right Wing,19.0,{},7533,781,Brazil,98,Right Wing,True
+4320,Neymar da Silva Santos Junior,21,Left Wing,10.0,{},7533,781,Brazil,98,Left Wing,True
+3202,Gabriel Fernando de Jesus,23,Center Forward,9.0,{},7533,781,Brazil,80,Center Forward,True
+5550,Yann Sommer,1,Goalkeeper,1.0,{},7533,773,Switzerland,98,Goalkeeper,True
+5541,Stephan Lichtsteiner,2,Right Back,2.0,{},7533,773,Switzerland,88,Right Back,True
+5537,Fabian Lukas Schär,3,Right Center Back,22.0,{},7533,773,Switzerland,98,Right Center Back,True
+5549,Manuel Obafemi Akanji,5,Left Center Back,5.0,{},7533,773,Switzerland,98,Left Center Back,True
+5544,Ricardo Iván Rodríguez Araya,6,Left Back,13.0,{},7533,773,Switzerland,98,Left Back,True
+5540,Valon Behrami,13,Right Center Midfield,11.0,{},7533,773,Switzerland,71,Right Center Midfield,True
+3500,Granit Xhaka,15,Left Center Midfield,10.0,{},7533,773,Switzerland,98,Left Center Midfield,True
+3533,Xherdan Shaqiri,17,Right Wing,23.0,{},7533,773,Switzerland,98,Right Wing,True
+5554,Blerim Džemaili,19,Center Attacking Midfield,15.0,{},7533,773,Switzerland,98,Center Attacking Midfield,True
+5548,Steven Zuber,21,Left Wing,14.0,{},7533,773,Switzerland,98,Left Wing,True
+5543,Haris Seferović,23,Center Forward,9.0,{},7533,773,Switzerland,81,Center Forward,True
+3054,Fernando Luiz Rosa,0,0,0.0,0,7533,781,Brazil,37,,False
+5553,Renato Soares de Oliveira Augusto,0,0,0.0,0,7533,781,Brazil,30,,False
+5538,Denis Lemi Zakaria Lako Lado,0,0,0.0,0,7533,773,Switzerland,27,,False
+3535,Roberto Firmino Barbosa de Oliveira,0,0,0.0,0,7533,781,Brazil,18,,False
+5545,Breel-Donald Embolo,0,0,0.0,0,7533,773,Switzerland,17,,False
+5546,Michael Lang,0,0,0.0,0,7533,773,Switzerland,10,,False
+5570,Manuel Neuer,1,Goalkeeper,1.0,{},7534,770,Germany,94,Goalkeeper,True
+5579,Joshua Kimmich,2,Right Back,18.0,{},7534,770,Germany,94,Right Back,True
+5578,Jérôme Boateng,3,Right Center Back,17.0,{},7534,770,Germany,94,Right Center Back,True
+5572,Mats Hummels,5,Left Center Back,5.0,{},7534,770,Germany,94,Left Center Back,True
+5569,Marvin Plattenhardt,6,Left Back,2.0,{},7534,770,Germany,79,Left Back,True
+5566,Sami Khedira,13,Right Center Midfield,6.0,{},7534,770,Germany,60,Right Center Midfield,True
+5574,Toni Kroos,15,Left Center Midfield,8.0,{},7534,770,Germany,94,Left Center Midfield,True
+5562,Thomas Müller,17,Right Wing,13.0,{},7534,770,Germany,94,Right Wing,True
+3496,Mesut Özil,19,Center Attacking Midfield,10.0,{},7534,770,Germany,94,Center Attacking Midfield,True
+3186,Julian Draxler,21,Left Wing,7.0,{},7534,770,Germany,94,Left Wing,True
+5557,Timo Werner,23,Center Forward,9.0,{},7534,770,Germany,86,Center Forward,True
+5577,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,13.0,{},7534,794,Mexico,94,Goalkeeper,True
+5564,Carlos Joel Salcedo Hernández,2,Right Back,3.0,{},7534,794,Mexico,94,Right Back,True
+5561,Hugo Ayala Castro,3,Right Center Back,2.0,{},7534,794,Mexico,94,Right Center Back,True
+5573,Héctor Alfredo Moreno Herrera,5,Left Center Back,15.0,{},7534,794,Mexico,94,Left Center Back,True
+5576,Jesús Daniel Gallardo Vasconcelos,6,Left Back,23.0,{},7534,794,Mexico,94,Left Back,True
+5575,Héctor Miguel Herrera López,13,Right Center Midfield,16.0,{},7534,794,Mexico,94,Right Center Midfield,True
+5563,José Andrés Guardado Hernández,15,Left Center Midfield,18.0,{},7534,794,Mexico,73,Left Center Midfield,True
+5556,Miguel Arturo Layún Prado,17,Right Wing,7.0,{},7534,794,Mexico,94,Right Wing,True
+5560,Carlos Alberto Vela Garrido,19,Center Attacking Midfield,11.0,{},7534,794,Mexico,58,Center Attacking Midfield,True
+5571,Hirving Rodrigo Lozano Bahena,21,Left Wing,22.0,{},7534,794,Mexico,66,Left Wing,True
+3058,Javier Hernández Balcázar,23,Center Forward,14.0,{},7534,794,Mexico,94,Center Forward,True
+5567,Edson Omar Álvarez Velázquez,0,0,0.0,0,7534,794,Mexico,36,,False
+5559,Marco Reus,0,0,0.0,0,7534,770,Germany,34,,False
+5568,Raúl Alonso Jiménez Rodríguez,0,0,0.0,0,7534,794,Mexico,28,,False
+5558,Rafael Márquez Álvarez,0,0,0.0,0,7534,794,Mexico,21,,False
+5565,Mario Gómez García,0,0,0.0,0,7534,770,Germany,15,,False
+5555,Julian Brandt,0,0,0.0,0,7534,770,Germany,8,,False
+5597,Keylor Navas Gamboa,1,Goalkeeper,1.0,{},7535,795,Costa Rica,99,Goalkeeper,True
+5590,Johnny Acosta Zamora,3,Right Center Back,2.0,{},7535,795,Costa Rica,99,Right Center Back,True
+5584,Giancarlo González Castro,4,Center Back,3.0,{},7535,795,Costa Rica,99,Center Back,True
+5598,Óscar Esau Duarte Gaitán,5,Left Center Back,6.0,{},7535,795,Costa Rica,99,Left Center Back,True
+5602,Cristian Gamboa Luna,7,Right Wing Back,16.0,{},7535,795,Costa Rica,99,Right Wing Back,True
+5600,Francisco Javier Calvo Quesada,8,Left Wing Back,15.0,{},7535,795,Costa Rica,99,Left Wing Back,True
+5582,Celso Borges Mora,13,Right Center Midfield,5.0,{},7535,795,Costa Rica,99,Right Center Midfield,True
+5599,David Alberto Guzmán Pérez,15,Left Center Midfield,20.0,{},7535,795,Costa Rica,74,Left Center Midfield,True
+5592,Bryan Ruiz González,17,Right Wing,10.0,{},7535,795,Costa Rica,99,Right Wing,True
+5595,Johan Alberto Venegas Ulloa,21,Left Wing,11.0,{},7535,795,Costa Rica,61,Left Wing,True
+5586,Marcos Danilo Ureña Porras,23,Center Forward,21.0,{},7535,795,Costa Rica,68,Center Forward,True
+5601,Vladimir Stojković,1,Goalkeeper,1.0,{},7535,786,Serbia,99,Goalkeeper,True
+5594,Branislav Ivanović,2,Right Back,6.0,{},7535,786,Serbia,99,Right Back,True
+5603,Nikola Milenković,3,Right Center Back,15.0,{},7535,786,Serbia,99,Right Center Back,True
+5580,Duško Tošić,5,Left Center Back,3.0,{},7535,786,Serbia,99,Left Center Back,True
+5596,Aleksandar Kolarov,6,Left Back,11.0,{},7535,786,Serbia,99,Left Back,True
+3831,Dušan Tadić,12,Right Midfield,10.0,{},7535,786,Serbia,83,Right Midfield,True
+3455,Luka Milivojević,13,Right Center Midfield,4.0,{},7535,786,Serbia,99,Right Center Midfield,True
+3381,Nemanja Matić,15,Left Center Midfield,21.0,{},7535,786,Serbia,99,Left Center Midfield,True
+5587,Adem Ljajić,16,Left Midfield,22.0,{},7535,786,Serbia,71,Left Midfield,True
+5589,Sergej Milinković-Savić,19,Center Attacking Midfield,20.0,{},7535,786,Serbia,99,Center Attacking Midfield,True
+4269,Aleksandar Mitrović,23,Center Forward,9.0,{},7535,786,Serbia,90,Center Forward,True
+5593,Christian Bolaños Navarro,0,0,0.0,0,7535,795,Costa Rica,38,,False
+5581,Joel Nathaniel Campbell Samuels,0,0,0.0,0,7535,795,Costa Rica,31,,False
+5591,Filip Kostić,0,0,0.0,0,7535,786,Serbia,28,,False
+5585,Daniel Colindres Solera,0,0,0.0,0,7535,795,Costa Rica,25,,False
+5588,Antonio Rukavina,0,0,0.0,0,7535,786,Serbia,16,,False
+5583,Aleksandar Prijović,0,0,0.0,0,7535,786,Serbia,9,,False
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},7536,782,Belgium,96,Goalkeeper,True
+20005,Toby Alderweireld,3,Right Center Back,2.0,{},7536,782,Belgium,96,Right Center Back,True
+5639,Anga Dedryck Boyata,4,Center Back,20.0,{},7536,782,Belgium,96,Center Back,True
+3077,Jan Vertonghen,5,Left Center Back,5.0,{},7536,782,Belgium,96,Left Center Back,True
+3176,Thomas Meunier,7,Right Wing Back,15.0,{},7536,782,Belgium,96,Right Wing Back,True
+5633,Yannick Ferreira Carrasco,8,Left Wing Back,11.0,{},7536,782,Belgium,75,Left Wing Back,True
+3089,Kevin De Bruyne,13,Right Center Midfield,7.0,{},7536,782,Belgium,96,Right Center Midfield,True
+5642,Axel Witsel,15,Left Center Midfield,6.0,{},7536,782,Belgium,91,Left Center Midfield,True
+5630,Dries Mertens,18,Right Attacking Midfield,14.0,{},7536,782,Belgium,84,Right Attacking Midfield,True
+3621,Eden Hazard,20,Left Attacking Midfield,10.0,{},7536,782,Belgium,96,Left Attacking Midfield,True
+3289,Romelu Lukaku Menama,23,Center Forward,9.0,{},7536,782,Belgium,96,Center Forward,True
+5636,Jaime Manuel Penedo Cano,1,Goalkeeper,1.0,{},7536,798,Panama,96,Goalkeeper,True
+5641,Michael Amir Murillo Bermudez,2,Right Back,2.0,{},7536,798,Panama,96,Right Back,True
+5635,Román Aureliano Torres Morcillo,3,Right Center Back,5.0,{},7536,798,Panama,96,Right Center Back,True
+5638,Fidel Escobar Mendieta,5,Left Center Back,4.0,{},7536,798,Panama,96,Left Center Back,True
+5634,Erick Javier Davis Grajales,6,Left Back,15.0,{},7536,798,Panama,96,Left Back,True
+5640,Gabriel Enrique Gómez Girón,10,Center Defensive Midfield,6.0,{},7536,798,Panama,96,Center Defensive Midfield,True
+5645,Armando Enrique Cooper Whitaker,13,Right Center Midfield,11.0,{},7536,798,Panama,96,Right Center Midfield,True
+5646,Aníbal Cesis Godoy,15,Left Center Midfield,20.0,{},7536,798,Panama,96,Left Center Midfield,True
+5637,Edgar Yoel Bárcenas Herrera,17,Right Wing,8.0,{},7536,798,Panama,64,Right Wing,True
+5628,José Luis Rodríguez Francis,21,Left Wing,21.0,{},7536,798,Panama,64,Left Wing,True
+5631,Blas Antonio Miguel Pérez Ortega,23,Center Forward,7.0,{},7536,798,Panama,75,Center Forward,True
+5629,Gabriel Arturo Torres Tejada,0,0,0.0,0,7536,798,Panama,32,,False
+5644,Ismael Díaz De León,0,0,0.0,0,7536,798,Panama,32,,False
+5643,Luis Carlos Tejada Hansell,0,0,0.0,0,7536,798,Panama,21,,False
+3037,Mousa Sidi Yaya Dembélé,0,0,0.0,0,7536,782,Belgium,21,,False
+5632,Thorgan Hazard,0,0,0.0,0,7536,782,Belgium,12,,False
+4831,Nacer Chadli,0,0,0.0,0,7536,782,Belgium,5,,False
+5653,Mouez Hassen,1,Goalkeeper,22.0,{},7537,777,Tunisia,14,Goalkeeper,True
+5655,Dylan Daniel Mahmoud Bronn,2,Right Back,11.0,{},7537,777,Tunisia,97,Right Back,True
+5656,Syam Ben Youssef,3,Right Center Back,2.0,{},7537,777,Tunisia,97,Right Center Back,True
+5651,Yassine Meriah,5,Left Center Back,4.0,{},7537,777,Tunisia,97,Left Center Back,True
+5647,Ali Maâloul,6,Left Back,12.0,{},7537,777,Tunisia,97,Left Back,True
+3767,Ellyes Joris Skhiri,10,Center Defensive Midfield,17.0,{},7537,777,Tunisia,97,Center Defensive Midfield,True
+5654,Fakhreddine Ben Youssef,12,Right Midfield,8.0,{},7537,777,Tunisia,97,Right Midfield,True
+5650,Ferjani Sassi,13,Right Center Midfield,13.0,{},7537,777,Tunisia,97,Right Center Midfield,True
+5649,Anice Badri,15,Left Center Midfield,9.0,{},7537,777,Tunisia,97,Left Center Midfield,True
+3557,Naïm Sliti,16,Left Midfield,23.0,{},7537,777,Tunisia,75,Left Midfield,True
+3196,Wahbi Khazri,23,Center Forward,10.0,{},7537,777,Tunisia,87,Center Forward,True
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},7537,768,England,97,Goalkeeper,True
+3205,Kyle Walker,3,Right Center Back,2.0,{},7537,768,England,97,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},7537,768,England,97,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},7537,768,England,97,Left Center Back,True
+3532,Jordan Brian Henderson,10,Center Defensive Midfield,8.0,{},7537,768,England,97,Center Defensive Midfield,True
+3308,Kieran Trippier,12,Right Midfield,12.0,{},7537,768,England,97,Right Midfield,True
+3293,Jesse Lingard,13,Right Center Midfield,7.0,{},7537,768,England,94,Right Center Midfield,True
+3094,Bamidele Alli,15,Left Center Midfield,20.0,{},7537,768,England,82,Left Center Midfield,True
+3612,Ashley Young,16,Left Midfield,18.0,{},7537,768,England,97,Left Midfield,True
+3233,Raheem Sterling,22,Right Center Forward,10.0,{},7537,768,England,70,Right Center Forward,True
+10955,Harry Kane,24,Left Center Forward,9.0,{},7537,768,England,97,Left Center Forward,True
+5648,Farouk Ben Mustapha,0,0,0.0,0,7537,777,Tunisia,83,,False
+3318,Marcus Rashford,0,0,0.0,0,7537,768,England,27,,False
+5657,Mohamed Amine Ben Amor,0,0,0.0,0,7537,777,Tunisia,22,,False
+3504,Ruben Loftus-Cheek,0,0,0.0,0,7537,768,England,15,,False
+5652,Saber Khalifa,0,0,0.0,0,7537,777,Tunisia,10,,False
+10956,Eric Dier,0,0,0.0,0,7537,768,England,3,,False
+5622,Robin Olsen,1,Goalkeeper,1.0,{},7538,790,Sweden,96,Goalkeeper,True
+5612,Mikael Lustig,2,Right Back,2.0,{},7538,790,Sweden,96,Right Back,True
+4709,Pontus Jansson,3,Right Center Back,18.0,{},7538,790,Sweden,96,Right Center Back,True
+5607,Andreas Granqvist,5,Left Center Back,4.0,{},7538,790,Sweden,96,Left Center Back,True
+5621,Ludwig Augustinsson,6,Left Back,6.0,{},7538,790,Sweden,96,Left Back,True
+5613,Viktor Claesson,12,Right Midfield,17.0,{},7538,790,Sweden,96,Right Midfield,True
+5617,Sebastian Larsson,13,Right Center Midfield,7.0,{},7538,790,Sweden,82,Right Center Midfield,True
+5624,Albin Ekdal,15,Left Center Midfield,8.0,{},7538,790,Sweden,72,Left Center Midfield,True
+5625,Emil Peter Forsberg,16,Left Midfield,10.0,{},7538,790,Sweden,96,Left Midfield,True
+11098,Marcus Berg,22,Right Center Forward,9.0,{},7538,790,Sweden,96,Right Center Forward,True
+4417,Ola Toivonen,24,Left Center Forward,20.0,{},7538,790,Sweden,78,Left Center Forward,True
+5619,Hyeon-Woo Jo,1,Goalkeeper,23.0,{},7538,791,South Korea,96,Goalkeeper,True
+5608,Yong Lee,2,Right Back,2.0,{},7538,791,South Korea,96,Right Back,True
+5606,Hyun-Soo Jang,3,Right Center Back,20.0,{},7538,791,South Korea,96,Right Center Back,True
+5604,Young-Gwon Kim,5,Left Center Back,19.0,{},7538,791,South Korea,96,Left Center Back,True
+5609,Joo-Ho Park,6,Left Back,6.0,{},7538,791,South Korea,27,Left Back,True
+3605,Sung-Yeung Ki,10,Center Defensive Midfield,16.0,{},7538,791,South Korea,96,Center Defensive Midfield,True
+5623,Jae-Sung Lee,13,Right Center Midfield,17.0,{},7538,791,South Korea,96,Right Center Midfield,True
+5627,Ja-Cheol Koo,15,Left Center Midfield,13.0,{},7538,791,South Korea,74,Left Center Midfield,True
+5620,Hee-Chan Hwang,17,Right Wing,11.0,{},7538,791,South Korea,96,Right Wing,True
+3083,Heung-Min Son,21,Left Wing,7.0,{},7538,791,South Korea,96,Left Wing,True
+5626,Shin-Wook Kim,23,Center Forward,9.0,{},7538,791,South Korea,68,Center Forward,True
+5610,Min-Woo Kim,0,0,0.0,0,7538,791,South Korea,69,,False
+5618,Woo-Young Jung,0,0,0.0,0,7538,791,South Korea,28,,False
+5605,Oscar Hiljemark,0,0,0.0,0,7538,790,Sweden,24,,False
+5616,Seung-Woo Lee,0,0,0.0,0,7538,791,South Korea,22,,False
+5615,Isaac Kiese Thelin,0,0,0.0,0,7538,790,Sweden,18,,False
+5611,Gustav Svensson,0,0,0.0,0,7538,790,Sweden,14,,False
+5669,Wojciech Szczęsny,1,Goalkeeper,1.0,{},7539,789,Poland,95,Goalkeeper,True
+5658,Łukasz Piszczek,2,Right Back,20.0,{},7539,789,Poland,83,Right Back,True
+5662,Thiago Rangel Cionek,3,Right Center Back,4.0,{},7539,789,Poland,95,Right Center Back,True
+5670,Michał Pazdan,5,Left Center Back,2.0,{},7539,789,Poland,95,Left Center Back,True
+5672,Maciej Rybus,6,Left Back,13.0,{},7539,789,Poland,95,Left Back,True
+3637,Grzegorz Krychowiak,13,Right Center Midfield,10.0,{},7539,789,Poland,95,Right Center Midfield,True
+5660,Piotr Zieliński,15,Left Center Midfield,19.0,{},7539,789,Poland,95,Left Center Midfield,True
+5663,Jakub Błaszczykowski,17,Right Wing,16.0,{},7539,789,Poland,45,Right Wing,True
+5665,Arkadiusz Milik,19,Center Attacking Midfield,7.0,{},7539,789,Poland,73,Center Attacking Midfield,True
+5667,Kamil Grosicki,21,Left Wing,11.0,{},7539,789,Poland,95,Left Wing,True
+5668,Robert Lewandowski,23,Center Forward,9.0,{},7539,789,Poland,95,Center Forward,True
+5659,"Khadim N""Diaye",1,Goalkeeper,16.0,{},7539,787,Senegal,95,Goalkeeper,True
+5674,Moussa Wagué,2,Right Back,22.0,{},7539,787,Senegal,95,Right Back,True
+5664,Salif Sané,3,Right Center Back,6.0,{},7539,787,Senegal,95,Right Center Back,True
+5675,Kalidou Koulibaly,5,Left Center Back,3.0,{},7539,787,Senegal,95,Left Center Back,True
+3404,Youssouf Sabaly,6,Left Back,12.0,{},7539,787,Senegal,95,Left Back,True
+3436,Idrissa Gana Gueye,13,Right Center Midfield,5.0,{},7539,787,Senegal,95,Right Center Midfield,True
+5671,Alfred John Momar N''Diaye,15,Left Center Midfield,13.0,{},7539,787,Senegal,87,Left Center Midfield,True
+2941,Ismaïla Sarr,17,Right Wing,18.0,{},7539,787,Senegal,95,Right Wing,True
+3629,Sadio Mané,21,Left Wing,10.0,{},7539,787,Senegal,95,Left Wing,True
+3603,Mame Biram Diouf,22,Right Center Forward,9.0,{},7539,787,Senegal,62,Right Center Forward,True
+5661,M''Baye Babacar Niang,24,Left Center Forward,19.0,{},7539,787,Senegal,75,Left Center Forward,True
+4626,Jan Bednarek,0,0,0.0,0,7539,789,Poland,50,,False
+5676,Cheikh N''Doye,0,0,0.0,0,7539,787,Senegal,33,,False
+5666,Dawid Kownacki,0,0,0.0,0,7539,789,Poland,22,,False
+3555,Pape Moussa Konaté,0,0,0.0,0,7539,787,Senegal,20,,False
+5673,Bartosz Bereszyński,0,0,0.0,0,7539,789,Poland,12,,False
+3684,Cheikhou Kouyaté,0,0,0.0,0,7539,787,Senegal,8,,False
+5172,Igor Akinfeev,1,Goalkeeper,1.0,{},7540,796,Russia,94,Goalkeeper,True
+5170,Mário Figueira Fernandes,2,Right Back,2.0,{},7540,796,Russia,94,Right Back,True
+5175,Ilya Kutepov,3,Right Center Back,3.0,{},7540,796,Russia,94,Right Center Back,True
+5174,Sergei Ignashevich,5,Left Center Back,4.0,{},7540,796,Russia,94,Left Center Back,True
+5193,Yuri Zhirkov,6,Left Back,18.0,{},7540,796,Russia,85,Left Back,True
+5181,Yury Gazinskiy,9,Right Defensive Midfield,8.0,{},7540,796,Russia,94,Right Defensive Midfield,True
+5171,Roman Zobnin,11,Left Defensive Midfield,11.0,{},7540,796,Russia,94,Left Defensive Midfield,True
+5182,Aleksandr Samedov,17,Right Wing,19.0,{},7540,796,Russia,94,Right Wing,True
+5177,Aleksandr Golovin,19,Center Attacking Midfield,17.0,{},7540,796,Russia,94,Center Attacking Midfield,True
+5186,Denis Cheryshev,21,Left Wing,6.0,{},7540,796,Russia,73,Left Wing,True
+5195,Artem Dzyuba,23,Center Forward,22.0,{},7540,796,Russia,78,Center Forward,True
+5265,Mohamed El Sayed Mohamed El Shenawy Gomaa,1,Goalkeeper,23.0,{},7540,774,Egypt,94,Goalkeeper,True
+5250,Ahmed Fathy Abdel Meneim Ibrahim,2,Right Back,7.0,{},7540,774,Egypt,94,Right Back,True
+5254,Ali Gabr,3,Right Center Back,2.0,{},7540,774,Egypt,94,Right Center Back,True
+4063,Ahmed Elsayed Ali Elsayed Hegazy,5,Left Center Back,6.0,{},7540,774,Egypt,94,Left Center Back,True
+5263,Mohamed Abdul Shafy Sayed Abouezeid,6,Left Back,13.0,{},7540,774,Egypt,94,Left Back,True
+3568,Mohamed Naser Elsayed Elneny,9,Right Defensive Midfield,17.0,{},7540,774,Egypt,63,Right Defensive Midfield,True
+5262,Tarek Hamed,11,Left Defensive Midfield,8.0,{},7540,774,Egypt,94,Left Defensive Midfield,True
+3531,Mohamed Salah,17,Right Wing,10.0,{},7540,774,Egypt,94,Right Wing,True
+5251,Abdalla Mahmoud El Said Bekhit,19,Center Attacking Midfield,19.0,{},7540,774,Egypt,94,Center Attacking Midfield,True
+5261,Mahmoud Ibrahim Hassan,21,Left Wing,21.0,{},7540,774,Egypt,67,Left Wing,True
+5252,Marwan Mohsen,23,Center Forward,9.0,{},7540,774,Egypt,81,Center Forward,True
+5253,Amr Medhat Warda,0,0,0.0,0,7540,774,Egypt,31,,False
+3536,Ramadan Sobhi Ramadan Ahmed,0,0,0.0,0,7540,774,Egypt,27,,False
+5179,Daler Kuzyaev,0,0,0.0,0,7540,796,Russia,21,,False
+5194,Fyodor Smolov,0,0,0.0,0,7540,796,Russia,16,,False
+5257,Mahmoud Abdul Monem Abdelhamid Soliman,0,0,0.0,0,7540,774,Egypt,13,,False
+5677,Fedor Kudryashov,0,0,0.0,0,7540,796,Russia,9,,False
+4276,David Ospina Ramírez,1,Goalkeeper,1.0,{},7541,769,Colombia,96,Goalkeeper,True
+5696,Santiago Arias Naranjo,2,Right Back,4.0,{},7541,769,Colombia,96,Right Back,True
+3494,Davinson Sánchez Mina,3,Right Center Back,23.0,{},7541,769,Colombia,96,Right Center Back,True
+5680,Oscar Fabián Murillo Murillo,5,Left Center Back,3.0,{},7541,769,Colombia,96,Left Center Back,True
+5691,Johan Andrés Mojica Palacio,6,Left Back,17.0,{},7541,769,Colombia,96,Left Back,True
+5678,Jefferson Andrés Lerma Solís,13,Right Center Midfield,16.0,{},7541,769,Colombia,96,Right Center Midfield,True
+5685,Carlos Alberto Sánchez Moreno,15,Left Center Midfield,6.0,{},7541,769,Colombia,2,Left Center Midfield,True
+5689,Juan Guillermo Cuadrado Bello,17,Right Wing,11.0,{},7541,769,Colombia,30,Right Wing,True
+5692,Juan Fernando Quintero Paniagua,19,Center Attacking Midfield,20.0,{},7541,769,Colombia,58,Center Attacking Midfield,True
+3279,José Heriberto Izquierdo Mena,21,Left Wing,21.0,{},7541,769,Colombia,70,Left Wing,True
+3445,Radamel Falcao García Zárate,23,Center Forward,9.0,{},7541,769,Colombia,96,Center Forward,True
+3175,Eiji Kawashima,1,Goalkeeper,1.0,{},7541,778,Japan,96,Goalkeeper,True
+3530,Hiroki Sakai,2,Right Back,19.0,{},7541,778,Japan,96,Right Back,True
+3300,Maya Yoshida,3,Right Center Back,22.0,{},7541,778,Japan,96,Right Center Back,True
+5682,Gen Shōji,5,Left Center Back,3.0,{},7541,778,Japan,96,Left Center Back,True
+5690,Yuto Nagatomo,6,Left Back,5.0,{},7541,778,Japan,96,Left Back,True
+5693,Gaku Shibasaki,13,Right Center Midfield,7.0,{},7541,778,Japan,80,Right Center Midfield,True
+5681,Makoto Hasebe,15,Left Center Midfield,17.0,{},7541,778,Japan,96,Left Center Midfield,True
+5697,Genki Haraguchi,17,Right Wing,8.0,{},7541,778,Japan,96,Right Wing,True
+5684,Shinji Kagawa,19,Center Attacking Midfield,10.0,{},7541,778,Japan,70,Center Attacking Midfield,True
+5687,Takashi Inui,21,Left Wing,14.0,{},7541,778,Japan,96,Left Wing,True
+5679,Yūya Ōsako,23,Center Forward,15.0,{},7541,778,Japan,85,Center Forward,True
+5686,Wílmar Enrique Barrios Terán,0,0,0.0,0,7541,769,Colombia,66,,False
+5695,James David Rodríguez Rubio,0,0,0.0,0,7541,769,Colombia,38,,False
+5683,Keisuke Honda,0,0,0.0,0,7541,778,Japan,26,,False
+5688,Carlos Arturo Bacca Ahumada,0,0,0.0,0,7541,769,Colombia,26,,False
+5694,Hotaru Yamaguchi,0,0,0.0,0,7541,778,Japan,16,,False
+3810,Shinji Okazaki,0,0,0.0,0,7541,778,Japan,11,,False
+5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,1.0,{},7542,780,Portugal,98,Goalkeeper,True
+3329,Cédric Ricardo Alves Soares,2,Right Back,21.0,{},7542,780,Portugal,98,Right Back,True
+20016,Kléper Laveran Lima Ferreira,3,Right Center Back,3.0,{},7542,780,Portugal,98,Right Center Back,True
+3960,José Miguel da Rocha Fonte,5,Left Center Back,6.0,{},7542,780,Portugal,98,Left Center Back,True
+5209,Raphaël Adelino José Guerreiro,6,Left Back,5.0,{},7542,780,Portugal,98,Left Back,True
+3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,11.0,{},7542,780,Portugal,61,Right Midfield,True
+3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,8.0,{},7542,780,Portugal,91,Right Center Midfield,True
+5214,William Silva de Carvalho,15,Left Center Midfield,14.0,{},7542,780,Portugal,98,Left Center Midfield,True
+4272,João Mário Naval da Costa Eduardo,16,Left Midfield,10.0,{},7542,780,Portugal,72,Left Midfield,True
+4367,Gonçalo Manuel Ganchinho Guedes,22,Right Center Forward,17.0,{},7542,780,Portugal,98,Right Center Forward,True
+5207,Cristiano Ronaldo dos Santos Aveiro,24,Left Center Forward,7.0,{},7542,780,Portugal,98,Left Center Forward,True
+5233,Munir Mohand Mohamedi,1,Goalkeeper,12.0,{},7542,788,Morocco,98,Goalkeeper,True
+5727,Nabil Dirar,2,Right Back,17.0,{},7542,788,Morocco,98,Right Back,True
+5244,Medhi Amine El Mouttaqi Benatia,3,Right Center Back,5.0,{},7542,788,Morocco,98,Right Center Back,True
+5221,Manuel Marouan da Costa Trinidade,5,Left Center Back,4.0,{},7542,788,Morocco,98,Left Center Back,True
+5245,Achraf Hakimi Mouh,6,Left Back,2.0,{},7542,788,Morocco,98,Left Back,True
+5236,Karim El Ahmadi Al Aroos,9,Right Defensive Midfield,8.0,{},7542,788,Morocco,88,Right Defensive Midfield,True
+5232,Mbark Boussoufa,11,Left Defensive Midfield,14.0,{},7542,788,Morocco,98,Left Defensive Midfield,True
+3302,Nordin Amrabat,17,Right Wing,16.0,{},7542,788,Morocco,98,Right Wing,True
+5242,Younès Belhanda,19,Center Attacking Midfield,10.0,{},7542,788,Morocco,77,Center Attacking Midfield,True
+5237,Hakim Ziyech,21,Left Wing,7.0,{},7542,788,Morocco,98,Left Wing,True
+5726,Khalid Boutaïb,23,Center Forward,13.0,{},7542,788,Morocco,71,Center Forward,True
+5723,Gelson Dany Batalha Martins,0,0,0.0,0,7542,780,Portugal,37,,False
+5229,Ayoub El Kaabi,0,0,0.0,0,7542,788,Morocco,27,,False
+5204,Bruno Miguel Borges Fernandes,0,0,0.0,0,7542,780,Portugal,26,,False
+5725,Mehdi Carcela-González,0,0,0.0,0,7542,788,Morocco,21,,False
+5724,Fayçal Fajr,0,0,0.0,0,7542,788,Morocco,10,,False
+3707,Adrien Sebastian Perruchet Silva,0,0,0.0,0,7542,780,Portugal,7,,False
+5227,Alireza Safar Beiranvand,1,Goalkeeper,1.0,{},7543,797,Iran,97,Goalkeeper,True
+5235,Ramin Rezaeian,2,Right Back,23.0,{},7543,797,Iran,97,Right Back,True
+5220,Morteza Pouraliganji,3,Right Center Back,8.0,{},7543,797,Iran,97,Right Center Back,True
+5228,Seyed Majid Hosseini,5,Left Center Back,19.0,{},7543,797,Iran,97,Left Center Back,True
+5230,Ehsan Hajsafi,6,Left Back,3.0,{},7543,797,Iran,71,Left Back,True
+5722,Saeid Ezatolahi Afagh,10,Center Defensive Midfield,6.0,{},7543,797,Iran,97,Center Defensive Midfield,True
+5225,Omid Ebrahimi,13,Right Center Midfield,9.0,{},7543,797,Iran,97,Right Center Midfield,True
+5241,Vahid Amiri,15,Left Center Midfield,11.0,{},7543,797,Iran,88,Left Center Midfield,True
+5226,Mehdi Taremi,17,Right Wing,17.0,{},7543,797,Iran,97,Right Wing,True
+5231,Karim Ansarifard,21,Left Wing,10.0,{},7543,797,Iran,76,Left Wing,True
+5224,Sardar Azmoun,23,Center Forward,20.0,{},7543,797,Iran,97,Center Forward,True
+3333,David de Gea Quintana,1,Goalkeeper,1.0,{},7543,772,Spain,97,Goalkeeper,True
+5721,Daniel Carvajal Ramos,2,Right Back,2.0,{},7543,772,Spain,97,Right Back,True
+5213,Gerard Piqué Bernabéu,3,Right Center Back,3.0,{},7543,772,Spain,97,Right Center Back,True
+5201,Sergio Ramos García,5,Left Center Back,15.0,{},7543,772,Spain,97,Left Center Back,True
+5211,Jordi Alba Ramos,6,Left Back,18.0,{},7543,772,Spain,97,Left Back,True
+5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,5.0,{},7543,772,Spain,97,Center Defensive Midfield,True
+5200,Lucas Vázquez Iglesias,12,Right Midfield,11.0,{},7543,772,Spain,81,Right Midfield,True
+3064,David Josué Jiménez Silva,13,Right Center Midfield,21.0,{},7543,772,Spain,97,Right Center Midfield,True
+5216,Andrés Iniesta Luján,15,Left Center Midfield,6.0,{},7543,772,Spain,73,Left Center Midfield,True
+4926,Francisco Román Alarcón Suárez,16,Left Midfield,22.0,{},7543,772,Spain,97,Left Midfield,True
+5198,Diego da Silva Costa,23,Center Forward,19.0,{},7543,772,Spain,90,Center Forward,True
+5720,Milad Mohammadi,0,0,0.0,0,7543,797,Iran,26,,False
+5199,Jorge Resurrección Merodio,0,0,0.0,0,7543,772,Spain,24,,False
+5239,Alireza Jahanbakhsh,0,0,0.0,0,7543,797,Iran,21,,False
+5719,Marco Asensio Willemsen,0,0,0.0,0,7543,772,Spain,16,,False
+5240,Saman Ghoddos,0,0,0.0,0,7543,797,Iran,9,,False
+5718,Rodrigo Moreno Machado,0,0,0.0,0,7543,772,Spain,7,,False
+5267,Néstor Fernando Muslera Micol,1,Goalkeeper,1.0,{},7544,783,Uruguay,96,Goalkeeper,True
+5264,Guillermo Varela Olivera,2,Right Back,4.0,{},7544,783,Uruguay,96,Right Back,True
+5259,José María Giménez de Vargas,3,Right Center Back,2.0,{},7544,783,Uruguay,96,Right Center Back,True
+5249,Diego Roberto Godín Leal,5,Left Center Back,3.0,{},7544,783,Uruguay,96,Left Center Back,True
+5248,José Martín Cáceres Silva,6,Left Back,22.0,{},7544,783,Uruguay,96,Left Back,True
+5255,Matías Vecino Falero,13,Right Center Midfield,15.0,{},7544,783,Uruguay,60,Right Center Midfield,True
+5260,Rodrigo Bentancur Colmán,15,Left Center Midfield,6.0,{},7544,783,Uruguay,96,Left Center Midfield,True
+5268,Carlos Andrés Sánchez Arcosa,17,Right Wing,5.0,{},7544,783,Uruguay,83,Right Wing,True
+5256,Cristian Gabriel Rodríguez Barrotti,21,Left Wing,7.0,{},7544,783,Uruguay,60,Left Wing,True
+4319,Edinson Roberto Cavani Gómez,22,Right Center Forward,21.0,{},7544,783,Uruguay,96,Right Center Forward,True
+5246,Luis Alberto Suárez Díaz,24,Left Center Forward,9.0,{},7544,783,Uruguay,96,Left Center Forward,True
+5714,Mohammed Khalil Al Owais,1,Goalkeeper,22.0,{},7544,799,Saudi Arabia,96,Goalkeeper,True
+5191,Mohammed Al Burayk,2,Right Back,6.0,{},7544,799,Saudi Arabia,96,Right Back,True
+5184,Osama Abdulrezag Hawsawi,3,Right Center Back,3.0,{},7544,799,Saudi Arabia,96,Right Center Back,True
+5715,Ali Albulayhi,5,Left Center Back,4.0,{},7544,799,Saudi Arabia,96,Left Center Back,True
+5183,Yasir Gharsan Al Shahrani,6,Left Back,13.0,{},7544,799,Saudi Arabia,96,Left Back,True
+5185,Taisir Jabir Al Jassim,13,Right Center Midfield,17.0,{},7544,799,Saudi Arabia,43,Right Center Midfield,True
+5173,Abdullah Ibrahim Otayf,15,Left Center Midfield,14.0,{},7544,799,Saudi Arabia,96,Left Center Midfield,True
+5188,Hattan Babhir,17,Right Wing,9.0,{},7544,799,Saudi Arabia,76,Right Wing,True
+5178,Salman Mohammed Al Faraj,19,Center Attacking Midfield,7.0,{},7544,799,Saudi Arabia,96,Center Attacking Midfield,True
+5187,Salem Mohammed Al Dawsari,21,Left Wing,18.0,{},7544,799,Saudi Arabia,96,Left Wing,True
+5190,Fahad Mosaed Al Muwallad Al Harbi,23,Center Forward,19.0,{},7544,799,Saudi Arabia,79,Center Forward,True
+5716,Hussain Al Mogahwi,0,0,0.0,0,7544,799,Saudi Arabia,53,,False
+5717,Diego Sebastián Laxalt Suárez,0,0,0.0,0,7544,783,Uruguay,36,,False
+5266,Lucas Torreira Di Pascua,0,0,0.0,0,7544,783,Uruguay,36,,False
+5713,Mohammed Kanoo,0,0,0.0,0,7544,799,Saudi Arabia,20,,False
+5196,Mohammad Ibrahim Al Sahlawi,0,0,0.0,0,7544,799,Saudi Arabia,17,,False
+5247,Nahitan Michel Nández Acosta,0,0,0.0,0,7544,783,Uruguay,13,,False
+3659,Wilfredo Daniel Caballero,1,Goalkeeper,23.0,{},7545,779,Argentina,96,Goalkeeper,True
+5742,Gabriel Iván Mercado,3,Right Center Back,2.0,{},7545,779,Argentina,96,Right Center Back,True
+3090,Nicolás Hernán Otamendi,4,Center Back,17.0,{},7545,779,Argentina,96,Center Back,True
+5507,Nicolás Alejandro Tagliafico,5,Left Center Back,3.0,{},7545,779,Argentina,96,Left Center Back,True
+5513,Eduardo Antonio Salvio,12,Right Midfield,18.0,{},7545,779,Argentina,57,Right Midfield,True
+5741,Enzo Nicolás Pérez,13,Right Center Midfield,15.0,{},7545,779,Argentina,69,Right Center Midfield,True
+5506,Javier Alejandro Mascherano,15,Left Center Midfield,14.0,{},7545,779,Argentina,96,Left Center Midfield,True
+19597,Marcos Javier Acuña,16,Left Midfield,8.0,{},7545,779,Argentina,96,Left Midfield,True
+5503,Lionel Andrés Messi Cuccittini,18,Right Attacking Midfield,10.0,{},7545,779,Argentina,96,Right Attacking Midfield,True
+5499,Maximiliano Eduardo Meza,20,Left Attacking Midfield,13.0,{},7545,779,Argentina,96,Left Attacking Midfield,True
+3237,Sergio Leonel Agüero del Castillo,23,Center Forward,19.0,{},7545,779,Argentina,55,Center Forward,True
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},7545,785,Croatia,96,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},7545,785,Croatia,96,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},7545,785,Croatia,96,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},7545,785,Croatia,96,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},7545,785,Croatia,96,Left Back,True
+5469,Marcelo Brozović,10,Center Defensive Midfield,11.0,{},7545,785,Croatia,96,Center Defensive Midfield,True
+5465,Ante Rebić,12,Right Midfield,18.0,{},7545,785,Croatia,58,Right Midfield,True
+5463,Luka Modrić,13,Right Center Midfield,10.0,{},7545,785,Croatia,96,Right Center Midfield,True
+5470,Ivan Rakitić,15,Left Center Midfield,7.0,{},7545,785,Croatia,96,Left Center Midfield,True
+5474,Ivan Perišić,16,Left Midfield,4.0,{},7545,785,Croatia,83,Left Midfield,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},7545,785,Croatia,94,Center Forward,True
+5497,Gonzalo Gerardo Higuaín,0,0,0.0,0,7545,779,Argentina,41,,False
+5496,Cristian David Pavón,0,0,0.0,0,7545,779,Argentina,39,,False
+5460,Andrej Kramarić,0,0,0.0,0,7545,785,Croatia,38,,False
+5743,Paulo Bruno Exequiel Dybala,0,0,0.0,0,7545,779,Argentina,27,,False
+5456,Mateo Kovačić,0,0,0.0,0,7545,785,Croatia,13,,False
+5739,Vedran Ćorluka,0,0,0.0,0,7545,785,Croatia,2,,False
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},7546,771,France,95,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},7546,771,France,95,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},7546,771,France,95,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},7546,771,France,95,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},7546,771,France,95,Left Back,True
+3961,N''Golo Kanté,13,Right Center Midfield,13.0,{},7546,771,France,95,Right Center Midfield,True
+20004,Paul Pogba,15,Left Center Midfield,6.0,{},7546,771,France,89,Left Center Midfield,True
+3009,Kylian Mbappé Lottin,17,Right Wing,10.0,{},7546,771,France,74,Right Wing,True
+5487,Antoine Griezmann,19,Center Attacking Midfield,7.0,{},7546,771,France,80,Center Attacking Midfield,True
+4375,Blaise Matuidi,21,Left Wing,14.0,{},7546,771,France,95,Left Wing,True
+3604,Olivier Giroud,23,Center Forward,9.0,{},7546,771,France,95,Center Forward,True
+5528,Pedro David Gallese Quiróz,1,Goalkeeper,1.0,{},7546,784,Peru,95,Goalkeeper,True
+5521,Luis Jan Piers Advíncula Castrillón,2,Right Back,17.0,{},7546,784,Peru,95,Right Back,True
+5530,Christian Guillermo Martín Ramos Garagay,3,Right Center Back,15.0,{},7546,784,Peru,95,Right Center Back,True
+5532,Alberto Junior Rodríguez Valdelomar,5,Left Center Back,2.0,{},7546,784,Peru,45,Left Center Back,True
+5518,Miguel Ángel Trauco Saavedra,6,Left Back,6.0,{},7546,784,Peru,95,Left Back,True
+5526,Pedro Jesús Aquino Sánchez,9,Right Defensive Midfield,23.0,{},7546,784,Peru,95,Right Defensive Midfield,True
+5529,Víctor Yoshimar Yotún Flores,11,Left Defensive Midfield,19.0,{},7546,784,Peru,45,Left Defensive Midfield,True
+3632,André Martín Carrillo Díaz,12,Right Midfield,18.0,{},7546,784,Peru,95,Right Midfield,True
+5525,Édison Michael Flores Peralta,16,Left Midfield,20.0,{},7546,784,Peru,95,Left Midfield,True
+5519,Christian Alberto Cueva Bravo,19,Center Attacking Midfield,8.0,{},7546,784,Peru,82,Center Attacking Midfield,True
+5535,José Paolo Guerrero Gonzáles,23,Center Forward,9.0,{},7546,784,Peru,95,Center Forward,True
+5738,Anderson Santamaría Bardales,0,0,0.0,0,7546,784,Peru,50,,False
+5531,Jefferson Agustín Farfán Guadalupe,0,0,0.0,0,7546,784,Peru,50,,False
+5477,Ousmane Dembélé,0,0,0.0,0,7546,771,France,21,,False
+2948,Nabil Fekir,0,0,0.0,0,7546,771,France,15,,False
+5533,Raúl Mario Ruidíaz Misitich,0,0,0.0,0,7546,784,Peru,13,,False
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,0,0,0.0,0,7546,771,France,6,,False
+3815,Kasper Schmeichel,1,Goalkeeper,1.0,{},7547,776,Denmark,95,Goalkeeper,True
+4763,Henrik Dalsgaard,2,Right Back,14.0,{},7547,776,Denmark,95,Right Back,True
+5534,Simon Thorup Kjær,3,Right Center Back,4.0,{},7547,776,Denmark,95,Right Center Back,True
+3959,Andreas Christensen,5,Left Center Back,6.0,{},7547,776,Denmark,95,Left Center Back,True
+5524,Jens Stryger Larsen,6,Left Back,17.0,{},7547,776,Denmark,95,Left Back,True
+5520,Lasse Schöne,9,Right Defensive Midfield,19.0,{},7547,776,Denmark,95,Right Defensive Midfield,True
+5527,Thomas Delaney,11,Left Defensive Midfield,8.0,{},7547,776,Denmark,95,Left Defensive Midfield,True
+5536,Yussuf Yurary Poulsen,17,Right Wing,20.0,{},7547,776,Denmark,60,Right Wing,True
+3043,Christian Dannemann Eriksen,19,Center Attacking Midfield,10.0,{},7547,776,Denmark,95,Center Attacking Midfield,True
+5516,Pione Sisto Ifolo Emirmija,21,Left Wing,23.0,{},7547,776,Denmark,95,Left Wing,True
+5522,Nicolai Jørgensen,23,Center Forward,9.0,{},7547,776,Denmark,69,Center Forward,True
+3240,Mathew Ryan,1,Goalkeeper,1.0,{},7547,792,Australia,95,Goalkeeper,True
+5482,Josh Risdon,2,Right Back,19.0,{},7547,792,Australia,95,Right Back,True
+5478,Trent Sainsbury,3,Right Center Back,20.0,{},7547,792,Australia,95,Right Center Back,True
+5488,Mark Milligan,5,Left Center Back,5.0,{},7547,792,Australia,95,Left Center Back,True
+5479,Aziz Eraltay Behich,6,Left Back,16.0,{},7547,792,Australia,95,Left Back,True
+3281,Aaron Mooy,13,Right Center Midfield,13.0,{},7547,792,Australia,95,Right Center Midfield,True
+5489,Mile Jedinak,15,Left Center Midfield,15.0,{},7547,792,Australia,95,Left Center Midfield,True
+5481,Mathew Leckie,17,Right Wing,7.0,{},7547,792,Australia,95,Right Wing,True
+5494,Robbie Kruse,21,Left Wing,10.0,{},7547,792,Australia,69,Left Wing,True
+5486,Andrew Nabbout,23,Center Forward,11.0,{},7547,792,Australia,76,Center Forward,True
+5491,Tom Rogić,25,Secondary Striker,23.0,{},7547,792,Australia,83,Secondary Striker,True
+4447,Martin Braithwaite Christensen,0,0,0.0,0,7547,776,Denmark,35,,False
+5732,Andreas Evald Cornelius,0,0,0.0,0,7547,776,Denmark,26,,False
+5483,Daniel Arzani,0,0,0.0,0,7547,792,Australia,26,,False
+5493,Tomi Jurić,0,0,0.0,0,7547,792,Australia,19,,False
+5490,Jackson Irvine,0,0,0.0,0,7547,792,Australia,12,,False
+5547,Alisson Ramsés Becker,1,Goalkeeper,1.0,{},7548,781,Brazil,99,Goalkeeper,True
+5838,Fágner Conserva Lemos,2,Right Back,22.0,{},7548,781,Brazil,99,Right Back,True
+3295,Thiago Emiliano da Silva,3,Right Center Back,2.0,{},7548,781,Brazil,99,Right Center Back,True
+5551,João Miranda de Souza Filho,5,Left Center Back,3.0,{},7548,781,Brazil,99,Left Center Back,True
+5552,Marcelo Vieira da Silva Júnior,6,Left Back,12.0,{},7548,781,Brazil,99,Left Back,True
+5539,Carlos Henrique Casimiro,10,Center Defensive Midfield,5.0,{},7548,781,Brazil,99,Center Defensive Midfield,True
+5542,José Paulo Bezzera Maciel Júnior,13,Right Center Midfield,15.0,{},7548,781,Brazil,68,Right Center Midfield,True
+3501,Philippe Coutinho Correia,15,Left Center Midfield,11.0,{},7548,781,Brazil,99,Left Center Midfield,True
+3472,Willian Borges da Silva,17,Right Wing,19.0,{},7548,781,Brazil,45,Right Wing,True
+4320,Neymar da Silva Santos Junior,21,Left Wing,10.0,{},7548,781,Brazil,99,Left Wing,True
+3202,Gabriel Fernando de Jesus,23,Center Forward,9.0,{},7548,781,Brazil,93,Center Forward,True
+5597,Keylor Navas Gamboa,1,Goalkeeper,1.0,{},7548,795,Costa Rica,99,Goalkeeper,True
+5590,Johnny Acosta Zamora,3,Right Center Back,2.0,{},7548,795,Costa Rica,99,Right Center Back,True
+5584,Giancarlo González Castro,4,Center Back,3.0,{},7548,795,Costa Rica,99,Center Back,True
+5598,Óscar Esau Duarte Gaitán,5,Left Center Back,6.0,{},7548,795,Costa Rica,99,Left Center Back,True
+5602,Cristian Gamboa Luna,7,Right Wing Back,16.0,{},7548,795,Costa Rica,75,Right Wing Back,True
+5836,Bryan Oviedo,8,Left Wing Back,8.0,{},7548,795,Costa Rica,99,Left Wing Back,True
+5582,Celso Borges Mora,13,Right Center Midfield,5.0,{},7548,795,Costa Rica,99,Right Center Midfield,True
+5599,David Alberto Guzmán Pérez,15,Left Center Midfield,20.0,{},7548,795,Costa Rica,83,Left Center Midfield,True
+5595,Johan Alberto Venegas Ulloa,17,Right Wing,11.0,{},7548,795,Costa Rica,99,Right Wing,True
+5592,Bryan Ruiz González,21,Left Wing,10.0,{},7548,795,Costa Rica,99,Left Wing,True
+5586,Marcos Danilo Ureña Porras,23,Center Forward,21.0,{},7548,795,Costa Rica,54,Center Forward,True
+5837,Douglas Costa de Souza,0,0,0.0,0,7548,781,Brazil,54,,False
+5593,Christian Bolaños Navarro,0,0,0.0,0,7548,795,Costa Rica,45,,False
+3535,Roberto Firmino Barbosa de Oliveira,0,0,0.0,0,7548,781,Brazil,31,,False
+5600,Francisco Javier Calvo Quesada,0,0,0.0,0,7548,795,Costa Rica,24,,False
+5839,Yeltsin Ignacio Tejeda Valverde,0,0,0.0,0,7548,795,Costa Rica,16,,False
+3054,Fernando Luiz Rosa,0,0,0.0,0,7548,781,Brazil,6,,False
+5454,Francis Odinaka Uzoho,1,Goalkeeper,23.0,{},7549,775,Nigeria,98,Goalkeeper,True
+5467,Leon Aderemi Balogun,3,Right Center Back,6.0,{},7549,775,Nigeria,98,Right Center Back,True
+5455,William Troost-Ekong,4,Center Back,5.0,{},7549,775,Nigeria,98,Center Back,True
+5830,Kenneth Josiah Omeruo,5,Left Center Back,22.0,{},7549,775,Nigeria,98,Left Center Back,True
+3963,Victor Moses,12,Right Midfield,11.0,{},7549,775,Nigeria,98,Right Midfield,True
+3338,Onyinye Wilfred Ndidi,13,Right Center Midfield,4.0,{},7549,775,Nigeria,98,Right Center Midfield,True
+5475,John Michael Nchekwube Obinna,14,Center Midfield,10.0,{},7549,775,Nigeria,98,Center Midfield,True
+5466,Oghenekaro Etebo,15,Left Center Midfield,8.0,{},7549,775,Nigeria,91,Left Center Midfield,True
+5462,Brian Oladapo Idowu,16,Left Midfield,2.0,{},7549,775,Nigeria,45,Left Midfield,True
+5473,Ahmed Musa,22,Right Center Forward,7.0,{},7549,775,Nigeria,98,Right Center Forward,True
+3708,Kelechi Promise Iheanacho,24,Left Center Forward,14.0,{},7549,775,Nigeria,86,Left Center Forward,True
+5498,Hannes Þór Halldórsson,1,Goalkeeper,1.0,{},7549,793,Iceland,98,Goalkeeper,True
+5508,Birkir Már Sævarsson,2,Right Back,2.0,{},7549,793,Iceland,98,Right Back,True
+5505,Kári Árnason,3,Right Center Back,14.0,{},7549,793,Iceland,98,Right Center Back,True
+5511,Ragnar Sigurðsson,5,Left Center Back,6.0,{},7549,793,Iceland,66,Left Center Back,True
+5501,Hörður Björgvin Magnússon,6,Left Back,18.0,{},7549,793,Iceland,98,Left Back,True
+5515,Aron Einar Gunnarsson,9,Right Defensive Midfield,17.0,{},7549,793,Iceland,88,Right Defensive Midfield,True
+3944,Gylfi Þór Sigurðsson,11,Left Defensive Midfield,10.0,{},7549,793,Iceland,98,Left Defensive Midfield,True
+5495,Rúrik Gíslason,12,Right Midfield,19.0,{},7549,793,Iceland,98,Right Midfield,True
+5509,Birkir Bjarnason,16,Left Midfield,8.0,{},7549,793,Iceland,98,Left Midfield,True
+5514,Alfreð Finnbogason,22,Right Center Forward,11.0,{},7549,793,Iceland,98,Right Center Forward,True
+5829,Jón Daði Böðvarsson,24,Left Center Forward,22.0,{},7549,793,Iceland,72,Left Center Forward,True
+5832,Tyronne Ebuehi,0,0,0.0,0,7549,775,Nigeria,53,,False
+5831,Sverrir Ingi Ingason,0,0,0.0,0,7549,793,Iceland,32,,False
+5500,Björn Bergmann Sigurðarson,0,0,0.0,0,7549,793,Iceland,26,,False
+5458,Odion Jude Ighalo,0,0,0.0,0,7549,775,Nigeria,12,,False
+5502,Ari Freyr Skúlason,0,0,0.0,0,7549,793,Iceland,10,,False
+3647,Alex Iwobi,0,0,0.0,0,7549,775,Nigeria,7,,False
+5601,Vladimir Stojković,1,Goalkeeper,1.0,{},7550,786,Serbia,97,Goalkeeper,True
+5594,Branislav Ivanović,2,Right Back,6.0,{},7550,786,Serbia,97,Right Back,True
+5603,Nikola Milenković,3,Right Center Back,15.0,{},7550,786,Serbia,97,Right Center Back,True
+5580,Duško Tošić,5,Left Center Back,3.0,{},7550,786,Serbia,97,Left Center Back,True
+5596,Aleksandar Kolarov,6,Left Back,11.0,{},7550,786,Serbia,97,Left Back,True
+3455,Luka Milivojević,13,Right Center Midfield,4.0,{},7550,786,Serbia,82,Right Center Midfield,True
+3381,Nemanja Matić,15,Left Center Midfield,21.0,{},7550,786,Serbia,97,Left Center Midfield,True
+3831,Dušan Tadić,17,Right Wing,10.0,{},7550,786,Serbia,97,Right Wing,True
+5589,Sergej Milinković-Savić,19,Center Attacking Midfield,20.0,{},7550,786,Serbia,97,Center Attacking Midfield,True
+5591,Filip Kostić,21,Left Wing,17.0,{},7550,786,Serbia,65,Left Wing,True
+4269,Aleksandar Mitrović,23,Center Forward,9.0,{},7550,786,Serbia,97,Center Forward,True
+5550,Yann Sommer,1,Goalkeeper,1.0,{},7550,773,Switzerland,97,Goalkeeper,True
+5541,Stephan Lichtsteiner,2,Right Back,2.0,{},7550,773,Switzerland,97,Right Back,True
+5537,Fabian Lukas Schär,3,Right Center Back,22.0,{},7550,773,Switzerland,97,Right Center Back,True
+5549,Manuel Obafemi Akanji,5,Left Center Back,5.0,{},7550,773,Switzerland,97,Left Center Back,True
+5544,Ricardo Iván Rodríguez Araya,6,Left Back,13.0,{},7550,773,Switzerland,97,Left Back,True
+5540,Valon Behrami,13,Right Center Midfield,11.0,{},7550,773,Switzerland,97,Right Center Midfield,True
+3500,Granit Xhaka,15,Left Center Midfield,10.0,{},7550,773,Switzerland,97,Left Center Midfield,True
+3533,Xherdan Shaqiri,17,Right Wing,23.0,{},7550,773,Switzerland,97,Right Wing,True
+5554,Blerim Džemaili,19,Center Attacking Midfield,15.0,{},7550,773,Switzerland,74,Center Attacking Midfield,True
+5548,Steven Zuber,21,Left Wing,14.0,{},7550,773,Switzerland,94,Left Wing,True
+5543,Haris Seferović,25,Secondary Striker,9.0,{},7550,773,Switzerland,45,Secondary Striker,True
+5834,Mario Gavranović,0,0,0.0,0,7550,773,Switzerland,52,,False
+5587,Adem Ljajić,0,0,0.0,0,7550,786,Serbia,32,,False
+5545,Breel-Donald Embolo,0,0,0.0,0,7550,773,Switzerland,23,,False
+5833,Nemanja Radonjić,0,0,0.0,0,7550,786,Serbia,15,,False
+5835,Josip Drmic,0,0,0.0,0,7550,773,Switzerland,3,,False
+5570,Manuel Neuer,1,Goalkeeper,1.0,{},7551,770,Germany,99,Goalkeeper,True
+5579,Joshua Kimmich,2,Right Back,18.0,{},7551,770,Germany,99,Right Back,True
+5578,Jérôme Boateng,3,Right Center Back,17.0,{},7551,770,Germany,82,Right Center Back,True
+3167,Antonio Rüdiger,5,Left Center Back,16.0,{},7551,770,Germany,99,Left Center Back,True
+6040,Jonas Hector,6,Left Back,3.0,{},7551,770,Germany,88,Left Back,True
+6039,Sebastian Rudy,9,Right Defensive Midfield,19.0,{},7551,770,Germany,30,Right Defensive Midfield,True
+5574,Toni Kroos,11,Left Defensive Midfield,8.0,{},7551,770,Germany,99,Left Defensive Midfield,True
+5562,Thomas Müller,17,Right Wing,13.0,{},7551,770,Germany,99,Right Wing,True
+5559,Marco Reus,19,Center Attacking Midfield,11.0,{},7551,770,Germany,99,Center Attacking Midfield,True
+3186,Julian Draxler,21,Left Wing,7.0,{},7551,770,Germany,45,Left Wing,True
+5557,Timo Werner,23,Center Forward,9.0,{},7551,770,Germany,99,Center Forward,True
+5622,Robin Olsen,1,Goalkeeper,1.0,{},7551,790,Sweden,99,Goalkeeper,True
+5612,Mikael Lustig,2,Right Back,2.0,{},7551,790,Sweden,99,Right Back,True
+3702,Victor Nilsson Lindelöf,3,Right Center Back,3.0,{},7551,790,Sweden,99,Right Center Back,True
+5607,Andreas Granqvist,5,Left Center Back,4.0,{},7551,790,Sweden,99,Left Center Back,True
+5621,Ludwig Augustinsson,6,Left Back,6.0,{},7551,790,Sweden,99,Left Back,True
+5613,Viktor Claesson,12,Right Midfield,17.0,{},7551,790,Sweden,75,Right Midfield,True
+5617,Sebastian Larsson,13,Right Center Midfield,7.0,{},7551,790,Sweden,99,Right Center Midfield,True
+5624,Albin Ekdal,15,Left Center Midfield,8.0,{},7551,790,Sweden,99,Left Center Midfield,True
+5625,Emil Peter Forsberg,16,Left Midfield,10.0,{},7551,790,Sweden,99,Left Midfield,True
+4417,Ola Toivonen,22,Right Center Forward,20.0,{},7551,790,Sweden,79,Right Center Forward,True
+11098,Marcus Berg,24,Left Center Forward,9.0,{},7551,790,Sweden,91,Left Center Forward,True
+10287,İlkay Gündoğan,0,0,0.0,0,7551,770,Germany,69,,False
+5565,Mario Gómez García,0,0,0.0,0,7551,770,Germany,54,,False
+19988,Jimmy Durmaz,0,0,0.0,0,7551,790,Sweden,24,,False
+6038,John Guidetti,0,0,0.0,0,7551,790,Sweden,20,,False
+5555,Julian Brandt,0,0,0.0,0,7551,770,Germany,11,,False
+5615,Isaac Kiese Thelin,0,0,0.0,0,7551,790,Sweden,8,,False
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},7552,782,Belgium,97,Goalkeeper,True
+20005,Toby Alderweireld,2,Right Back,2.0,{},7552,782,Belgium,97,Right Back,True
+5639,Anga Dedryck Boyata,4,Center Back,20.0,{},7552,782,Belgium,97,Center Back,True
+3077,Jan Vertonghen,5,Left Center Back,5.0,{},7552,782,Belgium,97,Left Center Back,True
+3176,Thomas Meunier,12,Right Midfield,15.0,{},7552,782,Belgium,97,Right Midfield,True
+3089,Kevin De Bruyne,13,Right Center Midfield,7.0,{},7552,782,Belgium,97,Right Center Midfield,True
+5642,Axel Witsel,15,Left Center Midfield,6.0,{},7552,782,Belgium,97,Left Center Midfield,True
+5633,Yannick Ferreira Carrasco,16,Left Midfield,11.0,{},7552,782,Belgium,97,Left Midfield,True
+5630,Dries Mertens,17,Right Wing,14.0,{},7552,782,Belgium,89,Right Wing,True
+3621,Eden Hazard,21,Left Wing,10.0,{},7552,782,Belgium,71,Left Wing,True
+3289,Romelu Lukaku Menama,23,Center Forward,9.0,{},7552,782,Belgium,62,Center Forward,True
+5648,Farouk Ben Mustapha,1,Goalkeeper,1.0,{},7552,777,Tunisia,97,Goalkeeper,True
+5655,Dylan Daniel Mahmoud Bronn,2,Right Back,11.0,{},7552,777,Tunisia,23,Right Back,True
+5656,Syam Ben Youssef,3,Right Center Back,2.0,{},7552,777,Tunisia,40,Right Center Back,True
+5651,Yassine Meriah,5,Left Center Back,4.0,{},7552,777,Tunisia,97,Left Center Back,True
+5647,Ali Maâloul,6,Left Back,12.0,{},7552,777,Tunisia,97,Left Back,True
+3767,Ellyes Joris Skhiri,10,Center Defensive Midfield,17.0,{},7552,777,Tunisia,97,Center Defensive Midfield,True
+5650,Ferjani Sassi,13,Right Center Midfield,13.0,{},7552,777,Tunisia,63,Right Center Midfield,True
+2974,Saîf-Eddine Khaoui,15,Left Center Midfield,7.0,{},7552,777,Tunisia,97,Left Center Midfield,True
+5654,Fakhreddine Ben Youssef,17,Right Wing,8.0,{},7552,777,Tunisia,97,Right Wing,True
+3196,Wahbi Khazri,23,Center Forward,10.0,{},7552,777,Tunisia,97,Center Forward,True
+5649,Anice Badri,24,Left Center Forward,9.0,{},7552,777,Tunisia,97,Left Center Forward,True
+5936,Hamdi Nagguez,0,0,0.0,0,7552,777,Tunisia,74,,False
+4826,Yohan Benalouane,0,0,0.0,0,7552,777,Tunisia,57,,False
+3296,Marouane Fellaini-Bakkioui,0,0,0.0,0,7552,782,Belgium,35,,False
+3557,Naïm Sliti,0,0,0.0,0,7552,777,Tunisia,34,,False
+3457,Michy Batshuayi Tunga,0,0,0.0,0,7552,782,Belgium,26,,False
+2954,Youri Tielemans,0,0,0.0,0,7552,782,Belgium,8,,False
+5619,Hyeon-Woo Jo,1,Goalkeeper,23.0,{},7553,791,South Korea,96,Goalkeeper,True
+5608,Yong Lee,2,Right Back,2.0,{},7553,791,South Korea,96,Right Back,True
+5606,Hyun-Soo Jang,3,Right Center Back,20.0,{},7553,791,South Korea,96,Right Center Back,True
+5604,Young-Gwon Kim,5,Left Center Back,19.0,{},7553,791,South Korea,96,Left Center Back,True
+5610,Min-Woo Kim,6,Left Back,12.0,{},7553,791,South Korea,84,Left Back,True
+5988,Se-Jong Ju,9,Right Defensive Midfield,8.0,{},7553,791,South Korea,64,Right Defensive Midfield,True
+3605,Sung-Yeung Ki,11,Left Defensive Midfield,16.0,{},7553,791,South Korea,96,Left Defensive Midfield,True
+5989,Seon-Min Moon,17,Right Wing,18.0,{},7553,791,South Korea,77,Right Wing,True
+5623,Jae-Sung Lee,19,Center Attacking Midfield,17.0,{},7553,791,South Korea,96,Center Attacking Midfield,True
+5620,Hee-Chan Hwang,21,Left Wing,11.0,{},7553,791,South Korea,96,Left Wing,True
+3083,Heung-Min Son,23,Center Forward,7.0,{},7553,791,South Korea,96,Center Forward,True
+5577,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,13.0,{},7553,794,Mexico,96,Goalkeeper,True
+5567,Edson Omar Álvarez Velázquez,2,Right Back,21.0,{},7553,794,Mexico,96,Right Back,True
+5564,Carlos Joel Salcedo Hernández,3,Right Center Back,3.0,{},7553,794,Mexico,96,Right Center Back,True
+5573,Héctor Alfredo Moreno Herrera,5,Left Center Back,15.0,{},7553,794,Mexico,96,Left Center Back,True
+5576,Jesús Daniel Gallardo Vasconcelos,6,Left Back,23.0,{},7553,794,Mexico,96,Left Back,True
+5575,Héctor Miguel Herrera López,9,Right Defensive Midfield,16.0,{},7553,794,Mexico,96,Right Defensive Midfield,True
+5563,José Andrés Guardado Hernández,11,Left Defensive Midfield,18.0,{},7553,794,Mexico,68,Left Defensive Midfield,True
+5556,Miguel Arturo Layún Prado,17,Right Wing,7.0,{},7553,794,Mexico,96,Right Wing,True
+5560,Carlos Alberto Vela Garrido,19,Center Attacking Midfield,11.0,{},7553,794,Mexico,77,Center Attacking Midfield,True
+5571,Hirving Rodrigo Lozano Bahena,21,Left Wing,22.0,{},7553,794,Mexico,71,Left Wing,True
+3058,Javier Hernández Balcázar,23,Center Forward,14.0,{},7553,794,Mexico,96,Center Forward,True
+5616,Seung-Woo Lee,0,0,0.0,0,7553,791,South Korea,32,,False
+5558,Rafael Márquez Álvarez,0,0,0.0,0,7553,794,Mexico,28,,False
+5985,Jesús Manuel Corona Ruíz,0,0,0.0,0,7553,794,Mexico,25,,False
+5987,Giovani dos Santos Ramírez,0,0,0.0,0,7553,794,Mexico,19,,False
+5618,Woo-Young Jung,0,0,0.0,0,7553,791,South Korea,19,,False
+5986,Chul Hong,0,0,0.0,0,7553,791,South Korea,12,,False
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},7554,768,England,97,Goalkeeper,True
+3205,Kyle Walker,3,Right Center Back,2.0,{},7554,768,England,97,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},7554,768,England,97,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},7554,768,England,97,Left Center Back,True
+3532,Jordan Brian Henderson,10,Center Defensive Midfield,8.0,{},7554,768,England,97,Center Defensive Midfield,True
+3308,Kieran Trippier,12,Right Midfield,12.0,{},7554,768,England,72,Right Midfield,True
+3293,Jesse Lingard,13,Right Center Midfield,7.0,{},7554,768,England,65,Right Center Midfield,True
+3504,Ruben Loftus-Cheek,15,Left Center Midfield,21.0,{},7554,768,England,97,Left Center Midfield,True
+3612,Ashley Young,16,Left Midfield,18.0,{},7554,768,England,97,Left Midfield,True
+3233,Raheem Sterling,22,Right Center Forward,10.0,{},7554,768,England,97,Right Center Forward,True
+10955,Harry Kane,24,Left Center Forward,9.0,{},7554,768,England,65,Left Center Forward,True
+5636,Jaime Manuel Penedo Cano,1,Goalkeeper,1.0,{},7554,798,Panama,97,Goalkeeper,True
+5641,Michael Amir Murillo Bermudez,2,Right Back,2.0,{},7554,798,Panama,97,Right Back,True
+5635,Román Aureliano Torres Morcillo,3,Right Center Back,5.0,{},7554,798,Panama,97,Right Center Back,True
+5638,Fidel Escobar Mendieta,5,Left Center Back,4.0,{},7554,798,Panama,97,Left Center Back,True
+5634,Erick Javier Davis Grajales,6,Left Back,15.0,{},7554,798,Panama,97,Left Back,True
+5640,Gabriel Enrique Gómez Girón,10,Center Defensive Midfield,6.0,{},7554,798,Panama,71,Center Defensive Midfield,True
+5645,Armando Enrique Cooper Whitaker,13,Right Center Midfield,11.0,{},7554,798,Panama,97,Right Center Midfield,True
+5646,Aníbal Cesis Godoy,15,Left Center Midfield,20.0,{},7554,798,Panama,64,Left Center Midfield,True
+5637,Edgar Yoel Bárcenas Herrera,17,Right Wing,8.0,{},7554,798,Panama,71,Right Wing,True
+5628,José Luis Rodríguez Francis,21,Left Wing,21.0,{},7554,798,Panama,97,Left Wing,True
+5631,Blas Antonio Miguel Pérez Ortega,23,Center Forward,7.0,{},7554,798,Panama,97,Center Forward,True
+6138,Ricardo Guardia Avila,0,0,0.0,0,7554,798,Panama,33,,False
+10960,Jamie Vardy,0,0,0.0,0,7554,768,England,32,,False
+4597,Fabian Delph,0,0,0.0,0,7554,768,England,32,,False
+6140,Abdiel Arroyo Molinar,0,0,0.0,0,7554,798,Panama,26,,False
+6139,Felipe Abdiel Baloy Ramírez,0,0,0.0,0,7554,798,Panama,26,,False
+3594,Danny Rose,0,0,0.0,0,7554,768,England,25,,False
+5669,Wojciech Szczęsny,1,Goalkeeper,1.0,{},7555,789,Poland,99,Goalkeeper,True
+5658,Łukasz Piszczek,3,Right Center Back,20.0,{},7555,789,Poland,99,Right Center Back,True
+4626,Jan Bednarek,4,Center Back,5.0,{},7555,789,Poland,99,Center Back,True
+5670,Michał Pazdan,5,Left Center Back,2.0,{},7555,789,Poland,83,Left Center Back,True
+5673,Bartosz Bereszyński,12,Right Midfield,18.0,{},7555,789,Poland,75,Right Midfield,True
+3637,Grzegorz Krychowiak,13,Right Center Midfield,10.0,{},7555,789,Poland,99,Right Center Midfield,True
+6195,Jacek Góralski,15,Left Center Midfield,6.0,{},7555,789,Poland,99,Left Center Midfield,True
+5672,Maciej Rybus,16,Left Midfield,13.0,{},7555,789,Poland,99,Left Midfield,True
+5660,Piotr Zieliński,17,Right Wing,19.0,{},7555,789,Poland,99,Right Wing,True
+5666,Dawid Kownacki,21,Left Wing,23.0,{},7555,789,Poland,60,Left Wing,True
+5668,Robert Lewandowski,23,Center Forward,9.0,{},7555,789,Poland,99,Center Forward,True
+4276,David Ospina Ramírez,1,Goalkeeper,1.0,{},7555,769,Colombia,99,Goalkeeper,True
+5696,Santiago Arias Naranjo,2,Right Back,4.0,{},7555,769,Colombia,99,Right Back,True
+6196,Yerry Fernando Mina González,3,Right Center Back,13.0,{},7555,769,Colombia,99,Right Center Back,True
+3494,Davinson Sánchez Mina,5,Left Center Back,23.0,{},7555,769,Colombia,99,Left Center Back,True
+5691,Johan Andrés Mojica Palacio,6,Left Back,17.0,{},7555,769,Colombia,99,Left Back,True
+6192,Abel Enrique Aguilar Tapia,9,Right Defensive Midfield,8.0,{},7555,769,Colombia,31,Right Defensive Midfield,True
+5686,Wílmar Enrique Barrios Terán,11,Left Defensive Midfield,5.0,{},7555,769,Colombia,99,Left Defensive Midfield,True
+5689,Juan Guillermo Cuadrado Bello,17,Right Wing,11.0,{},7555,769,Colombia,99,Right Wing,True
+5692,Juan Fernando Quintero Paniagua,19,Center Attacking Midfield,20.0,{},7555,769,Colombia,76,Center Attacking Midfield,True
+5695,James David Rodríguez Rubio,21,Left Wing,10.0,{},7555,769,Colombia,99,Left Wing,True
+3445,Radamel Falcao García Zárate,23,Center Forward,9.0,{},7555,769,Colombia,81,Center Forward,True
+6193,Andrés Mateus Uribe Villa,0,0,0.0,0,7555,769,Colombia,68,,False
+5667,Kamil Grosicki,0,0,0.0,0,7555,789,Poland,39,,False
+6194,Łukasz Teodorczyk,0,0,0.0,0,7555,789,Poland,24,,False
+5678,Jefferson Andrés Lerma Solís,0,0,0.0,0,7555,769,Colombia,23,,False
+5688,Carlos Arturo Bacca Ahumada,0,0,0.0,0,7555,769,Colombia,18,,False
+3034,Kamil Glik,0,0,0.0,0,7555,789,Poland,16,,False
+3175,Eiji Kawashima,1,Goalkeeper,1.0,{},7556,778,Japan,94,Goalkeeper,True
+3530,Hiroki Sakai,2,Right Back,19.0,{},7556,778,Japan,94,Right Back,True
+3300,Maya Yoshida,3,Right Center Back,22.0,{},7556,778,Japan,94,Right Center Back,True
+5682,Gen Shōji,5,Left Center Back,3.0,{},7556,778,Japan,94,Left Center Back,True
+5690,Yuto Nagatomo,6,Left Back,5.0,{},7556,778,Japan,94,Left Back,True
+5681,Makoto Hasebe,9,Right Defensive Midfield,17.0,{},7556,778,Japan,94,Right Defensive Midfield,True
+5693,Gaku Shibasaki,11,Left Defensive Midfield,7.0,{},7556,778,Japan,94,Left Defensive Midfield,True
+5697,Genki Haraguchi,12,Right Midfield,8.0,{},7556,778,Japan,74,Right Midfield,True
+5687,Takashi Inui,16,Left Midfield,14.0,{},7556,778,Japan,86,Left Midfield,True
+5684,Shinji Kagawa,19,Center Attacking Midfield,10.0,{},7556,778,Japan,71,Center Attacking Midfield,True
+5679,Yūya Ōsako,23,Center Forward,15.0,{},7556,778,Japan,94,Center Forward,True
+5659,Khadim N''Diaye,1,Goalkeeper,16.0,{},7556,787,Senegal,94,Goalkeeper,True
+5674,Moussa Wagué,2,Right Back,22.0,{},7556,787,Senegal,94,Right Back,True
+5664,Salif Sané,3,Right Center Back,6.0,{},7556,787,Senegal,94,Right Center Back,True
+5675,Kalidou Koulibaly,5,Left Center Back,3.0,{},7556,787,Senegal,94,Left Center Back,True
+3404,Youssouf Sabaly,6,Left Back,12.0,{},7556,787,Senegal,94,Left Back,True
+5671,Alfred John Momar N''Diaye,10,Center Defensive Midfield,13.0,{},7556,787,Senegal,64,Center Defensive Midfield,True
+4277,Papa Alioune N''Diaye,13,Right Center Midfield,17.0,{},7556,787,Senegal,80,Right Center Midfield,True
+3436,Idrissa Gana Gueye,15,Left Center Midfield,5.0,{},7556,787,Senegal,94,Left Center Midfield,True
+2941,Ismaïla Sarr,17,Right Wing,18.0,{},7556,787,Senegal,94,Right Wing,True
+3629,Sadio Mané,21,Left Wing,10.0,{},7556,787,Senegal,94,Left Wing,True
+5661,M''Baye Babacar Niang,23,Center Forward,19.0,{},7556,787,Senegal,85,Center Forward,True
+3684,Cheikhou Kouyaté,0,0,0.0,0,7556,787,Senegal,30,,False
+5683,Keisuke Honda,0,0,0.0,0,7556,778,Japan,23,,False
+3810,Shinji Okazaki,0,0,0.0,0,7556,778,Japan,20,,False
+5676,Cheikh N''Doye,0,0,0.0,0,7556,787,Senegal,14,,False
+3603,Mame Biram Diouf,0,0,0.0,0,7556,787,Senegal,9,,False
+6191,Takashi Usami,0,0,0.0,0,7556,778,Japan,8,,False
+5227,Alireza Safar Beiranvand,1,Goalkeeper,1.0,{},7557,797,Iran,100,Goalkeeper,True
+5235,Ramin Rezaeian,2,Right Back,23.0,{},7557,797,Iran,100,Right Back,True
+5220,Morteza Pouraliganji,3,Right Center Back,8.0,{},7557,797,Iran,100,Right Center Back,True
+5228,Seyed Majid Hosseini,5,Left Center Back,19.0,{},7557,797,Iran,100,Left Center Back,True
+5230,Ehsan Hajsafi,6,Left Back,3.0,{},7557,797,Iran,58,Left Back,True
+5722,Saeid Ezatolahi Afagh,10,Center Defensive Midfield,6.0,{},7557,797,Iran,78,Center Defensive Midfield,True
+5239,Alireza Jahanbakhsh,12,Right Midfield,18.0,{},7557,797,Iran,72,Right Midfield,True
+5225,Omid Ebrahimi,13,Right Center Midfield,9.0,{},7557,797,Iran,100,Right Center Midfield,True
+5241,Vahid Amiri,15,Left Center Midfield,11.0,{},7557,797,Iran,100,Left Center Midfield,True
+5226,Mehdi Taremi,16,Left Midfield,17.0,{},7557,797,Iran,100,Left Midfield,True
+5224,Sardar Azmoun,23,Center Forward,20.0,{},7557,797,Iran,100,Center Forward,True
+5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,1.0,{},7557,780,Portugal,100,Goalkeeper,True
+3329,Cédric Ricardo Alves Soares,2,Right Back,21.0,{},7557,780,Portugal,100,Right Back,True
+20016,Kléper Laveran Lima Ferreira,3,Right Center Back,3.0,{},7557,780,Portugal,100,Right Center Back,True
+3960,José Miguel da Rocha Fonte,5,Left Center Back,6.0,{},7557,780,Portugal,100,Left Center Back,True
+5209,Raphaël Adelino José Guerreiro,6,Left Back,5.0,{},7557,780,Portugal,100,Left Back,True
+3707,Adrien Sebastian Perruchet Silva,9,Right Defensive Midfield,23.0,{},7557,780,Portugal,100,Right Defensive Midfield,True
+5214,William Silva de Carvalho,11,Left Defensive Midfield,14.0,{},7557,780,Portugal,100,Left Defensive Midfield,True
+5215,Ricardo Andrade Quaresma Bernardo,12,Right Midfield,20.0,{},7557,780,Portugal,71,Right Midfield,True
+4272,João Mário Naval da Costa Eduardo,16,Left Midfield,10.0,{},7557,780,Portugal,86,Left Midfield,True
+5218,André Miguel Valente Silva,22,Right Center Forward,9.0,{},7557,780,Portugal,97,Right Center Forward,True
+5207,Cristiano Ronaldo dos Santos Aveiro,24,Left Center Forward,7.0,{},7557,780,Portugal,100,Left Center Forward,True
+5720,Milad Mohammadi,0,0,0.0,0,7557,797,Iran,42,,False
+3193,Bernardo Mota Veiga de Carvalho e Silva,0,0,0.0,0,7557,780,Portugal,29,,False
+5240,Saman Ghoddos,0,0,0.0,0,7557,797,Iran,28,,False
+5231,Karim Ansarifard,0,0,0.0,0,7557,797,Iran,22,,False
+3168,João Filipe Iria Santos Moutinho,0,0,0.0,0,7557,780,Portugal,14,,False
+4367,Gonçalo Manuel Ganchinho Guedes,0,0,0.0,0,7557,780,Portugal,3,,False
+5267,Néstor Fernando Muslera Micol,1,Goalkeeper,1.0,{},7558,783,Uruguay,96,Goalkeeper,True
+5248,José Martín Cáceres Silva,2,Right Back,22.0,{},7558,783,Uruguay,96,Right Back,True
+6300,Sebastián Coates Nión,3,Right Center Back,19.0,{},7558,783,Uruguay,96,Right Center Back,True
+5249,Diego Roberto Godín Leal,5,Left Center Back,3.0,{},7558,783,Uruguay,96,Left Center Back,True
+5717,Diego Sebastián Laxalt Suárez,6,Left Back,17.0,{},7558,783,Uruguay,96,Left Back,True
+5266,Lucas Torreira Di Pascua,10,Center Defensive Midfield,14.0,{},7558,783,Uruguay,96,Center Defensive Midfield,True
+5247,Nahitan Michel Nández Acosta,12,Right Midfield,8.0,{},7558,783,Uruguay,73,Right Midfield,True
+5255,Matías Vecino Falero,16,Left Midfield,15.0,{},7558,783,Uruguay,96,Left Midfield,True
+5260,Rodrigo Bentancur Colmán,19,Center Attacking Midfield,6.0,{},7558,783,Uruguay,64,Center Attacking Midfield,True
+4319,Edinson Roberto Cavani Gómez,22,Right Center Forward,21.0,{},7558,783,Uruguay,94,Right Center Forward,True
+5246,Luis Alberto Suárez Díaz,24,Left Center Forward,9.0,{},7558,783,Uruguay,96,Left Center Forward,True
+5172,Igor Akinfeev,1,Goalkeeper,1.0,{},7558,796,Russia,96,Goalkeeper,True
+6298,Igor Smolnikov,2,Right Back,23.0,{},7558,796,Russia,35,Right Back,True
+5175,Ilya Kutepov,3,Right Center Back,3.0,{},7558,796,Russia,96,Right Center Back,True
+5174,Sergei Ignashevich,5,Left Center Back,4.0,{},7558,796,Russia,96,Left Center Back,True
+5677,Fedor Kudryashov,6,Left Back,13.0,{},7558,796,Russia,96,Left Back,True
+5171,Roman Zobnin,9,Right Defensive Midfield,11.0,{},7558,796,Russia,96,Right Defensive Midfield,True
+5181,Yury Gazinskiy,11,Left Defensive Midfield,8.0,{},7558,796,Russia,45,Left Defensive Midfield,True
+5182,Aleksandr Samedov,17,Right Wing,19.0,{},7558,796,Russia,96,Right Wing,True
+6299,Aleksey Miranchuk,19,Center Attacking Midfield,15.0,{},7558,796,Russia,61,Center Attacking Midfield,True
+5186,Denis Cheryshev,21,Left Wing,6.0,{},7558,796,Russia,37,Left Wing,True
+5195,Artem Dzyuba,23,Center Forward,22.0,{},7558,796,Russia,96,Center Forward,True
+5170,Mário Figueira Fernandes,0,0,0.0,0,7558,796,Russia,59,,False
+5179,Daler Kuzyaev,0,0,0.0,0,7558,796,Russia,51,,False
+5194,Fyodor Smolov,0,0,0.0,0,7558,796,Russia,35,,False
+5258,Giorgian Daniel De Arrascaeta Benedetti,0,0,0.0,0,7558,783,Uruguay,32,,False
+5256,Cristian Gabriel Rodríguez Barrotti,0,0,0.0,0,7558,783,Uruguay,23,,False
+6297,Maximiliano Gómez González,0,0,0.0,0,7558,783,Uruguay,2,,False
+6291,Yasser Abdullah Al Mosailem,1,Goalkeeper,21.0,{},7559,799,Saudi Arabia,101,Goalkeeper,True
+5191,Mohammed Al Burayk,2,Right Back,6.0,{},7559,799,Saudi Arabia,101,Right Back,True
+5184,Osama Abdulrezag Hawsawi,3,Right Center Back,3.0,{},7559,799,Saudi Arabia,101,Right Center Back,True
+6290,Motaz Ali Hassan Hawsawi,5,Left Center Back,23.0,{},7559,799,Saudi Arabia,101,Left Center Back,True
+5183,Yasir Gharsan Al Shahrani,6,Left Back,13.0,{},7559,799,Saudi Arabia,101,Left Back,True
+5173,Abdullah Ibrahim Otayf,10,Center Defensive Midfield,14.0,{},7559,799,Saudi Arabia,101,Center Defensive Midfield,True
+5188,Hattan Babhir,12,Right Midfield,9.0,{},7559,799,Saudi Arabia,70,Right Midfield,True
+5716,Hussain Al Mogahwi,13,Right Center Midfield,16.0,{},7559,799,Saudi Arabia,101,Right Center Midfield,True
+5178,Salman Mohammed Al Faraj,15,Left Center Midfield,7.0,{},7559,799,Saudi Arabia,101,Left Center Midfield,True
+5187,Salem Mohammed Al Dawsari,16,Left Midfield,18.0,{},7559,799,Saudi Arabia,101,Left Midfield,True
+5190,Fahad Mosaed Al Muwallad Al Harbi,23,Center Forward,19.0,{},7559,799,Saudi Arabia,84,Center Forward,True
+6292,Essam Kamal Tawfik El Hadary,1,Goalkeeper,1.0,{},7559,774,Egypt,101,Goalkeeper,True
+5250,Ahmed Fathy Abdel Meneim Ibrahim,2,Right Back,7.0,{},7559,774,Egypt,101,Right Back,True
+5254,Ali Gabr,3,Right Center Back,2.0,{},7559,774,Egypt,101,Right Center Back,True
+4063,Ahmed Elsayed Ali Elsayed Hegazy,5,Left Center Back,6.0,{},7559,774,Egypt,101,Left Center Back,True
+5263,Mohamed Abdul Shafy Sayed Abouezeid,6,Left Back,13.0,{},7559,774,Egypt,101,Left Back,True
+3568,Mohamed Naser Elsayed Elneny,13,Right Center Midfield,17.0,{},7559,774,Egypt,101,Right Center Midfield,True
+5262,Tarek Hamed,15,Left Center Midfield,8.0,{},7559,774,Egypt,101,Left Center Midfield,True
+5251,Abdalla Mahmoud El Said Bekhit,17,Right Wing,19.0,{},7559,774,Egypt,57,Right Wing,True
+3531,Mohamed Salah,19,Center Attacking Midfield,10.0,{},7559,774,Egypt,101,Center Attacking Midfield,True
+5261,Mahmoud Ibrahim Hassan,21,Left Wing,21.0,{},7559,774,Egypt,86,Left Wing,True
+5252,Marwan Mohsen,23,Center Forward,9.0,{},7559,774,Egypt,69,Center Forward,True
+5253,Amr Medhat Warda,0,0,0.0,0,7559,774,Egypt,44,,False
+3536,Ramadan Sobhi Ramadan Ahmed,0,0,0.0,0,7559,774,Egypt,32,,False
+5176,Mohanad Aseri Abu Radiah,0,0,0.0,0,7559,799,Saudi Arabia,31,,False
+5192,Yehya Sulaiman Ali Al-Shehri,0,0,0.0,0,7559,799,Saudi Arabia,17,,False
+5257,Mahmoud Abdul Monem Abdelhamid Soliman,0,0,0.0,0,7559,774,Egypt,15,,False
+3333,David de Gea Quintana,1,Goalkeeper,1.0,{},7560,772,Spain,98,Goalkeeper,True
+5721,Daniel Carvajal Ramos,2,Right Back,2.0,{},7560,772,Spain,98,Right Back,True
+5213,Gerard Piqué Bernabéu,3,Right Center Back,3.0,{},7560,772,Spain,98,Right Center Back,True
+5201,Sergio Ramos García,5,Left Center Back,15.0,{},7560,772,Spain,98,Left Center Back,True
+5211,Jordi Alba Ramos,6,Left Back,18.0,{},7560,772,Spain,98,Left Back,True
+5208,Thiago Alcântara do Nascimento,12,Right Midfield,10.0,{},7560,772,Spain,75,Right Midfield,True
+5203,Sergio Busquets i Burgos,14,Center Midfield,5.0,{},7560,772,Spain,98,Center Midfield,True
+5216,Andrés Iniesta Luján,16,Left Midfield,6.0,{},7560,772,Spain,98,Left Midfield,True
+3064,David Josué Jiménez Silva,17,Right Wing,21.0,{},7560,772,Spain,85,Right Wing,True
+4926,Francisco Román Alarcón Suárez,21,Left Wing,22.0,{},7560,772,Spain,98,Left Wing,True
+5198,Diego da Silva Costa,23,Center Forward,19.0,{},7560,772,Spain,75,Center Forward,True
+5233,Munir Mohand Mohamedi,1,Goalkeeper,12.0,{},7560,788,Morocco,98,Goalkeeper,True
+5727,Nabil Dirar,2,Right Back,17.0,{},7560,788,Morocco,98,Right Back,True
+5221,Manuel Marouan da Costa Trinidade,3,Right Center Back,4.0,{},7560,788,Morocco,98,Right Center Back,True
+5219,Romain Saïss,5,Left Center Back,6.0,{},7560,788,Morocco,98,Left Center Back,True
+5245,Achraf Hakimi Mouh,6,Left Back,2.0,{},7560,788,Morocco,98,Left Back,True
+5236,Karim El Ahmadi Al Aroos,10,Center Defensive Midfield,8.0,{},7560,788,Morocco,98,Center Defensive Midfield,True
+3302,Nordin Amrabat,12,Right Midfield,16.0,{},7560,788,Morocco,98,Right Midfield,True
+5232,Mbark Boussoufa,13,Right Center Midfield,14.0,{},7560,788,Morocco,98,Right Center Midfield,True
+5242,Younès Belhanda,15,Left Center Midfield,10.0,{},7560,788,Morocco,64,Left Center Midfield,True
+5237,Hakim Ziyech,16,Left Midfield,7.0,{},7560,788,Morocco,86,Left Midfield,True
+5726,Khalid Boutaïb,23,Center Forward,13.0,{},7560,788,Morocco,72,Center Forward,True
+5724,Fayçal Fajr,0,0,0.0,0,7560,788,Morocco,34,,False
+6301,Youssef En-Nesyri,0,0,0.0,0,7560,788,Morocco,26,,False
+5217,Iago Aspas Juncal,0,0,0.0,0,7560,772,Spain,23,,False
+5719,Marco Asensio Willemsen,0,0,0.0,0,7560,772,Spain,23,,False
+5718,Rodrigo Moreno Machado,0,0,0.0,0,7560,772,Spain,13,,False
+5223,Aziz Bouhaddouz,0,0,0.0,0,7560,788,Morocco,12,,False
+5498,Hannes Þór Halldórsson,1,Goalkeeper,1.0,{},7561,793,Iceland,96,Goalkeeper,True
+5508,Birkir Már Sævarsson,2,Right Back,2.0,{},7561,793,Iceland,96,Right Back,True
+5831,Sverrir Ingi Ingason,3,Right Center Back,5.0,{},7561,793,Iceland,96,Right Center Back,True
+5511,Ragnar Sigurðsson,5,Left Center Back,6.0,{},7561,793,Iceland,71,Left Center Back,True
+5501,Hörður Björgvin Magnússon,6,Left Back,18.0,{},7561,793,Iceland,96,Left Back,True
+5512,Emil Hallfreðsson,9,Right Defensive Midfield,20.0,{},7561,793,Iceland,96,Right Defensive Midfield,True
+5515,Aron Einar Gunnarsson,11,Left Defensive Midfield,17.0,{},7561,793,Iceland,96,Left Defensive Midfield,True
+3720,Johann Berg Guðmunds­son,17,Right Wing,7.0,{},7561,793,Iceland,96,Right Wing,True
+3944,Gylfi Þór Sigurðsson,19,Center Attacking Midfield,10.0,{},7561,793,Iceland,96,Center Attacking Midfield,True
+5509,Birkir Bjarnason,21,Left Wing,8.0,{},7561,793,Iceland,91,Left Wing,True
+5514,Alfreð Finnbogason,23,Center Forward,11.0,{},7561,793,Iceland,86,Center Forward,True
+6311,Lovre Kalinić,1,Goalkeeper,12.0,{},7561,785,Croatia,96,Goalkeeper,True
+6309,Tin Jedvaj,2,Right Back,13.0,{},7561,785,Croatia,96,Right Back,True
+5739,Vedran Ćorluka,3,Right Center Back,5.0,{},7561,785,Croatia,96,Right Center Back,True
+6307,Duje Ćaleta-Car,5,Left Center Back,15.0,{},7561,785,Croatia,96,Left Center Back,True
+6308,Josip Pivarić,6,Left Back,22.0,{},7561,785,Croatia,96,Left Back,True
+6305,Milan Badelj,10,Center Defensive Midfield,19.0,{},7561,785,Croatia,96,Center Defensive Midfield,True
+5463,Luka Modrić,13,Right Center Midfield,10.0,{},7561,785,Croatia,66,Right Center Midfield,True
+5456,Mateo Kovačić,15,Left Center Midfield,8.0,{},7561,785,Croatia,82,Left Center Midfield,True
+5459,Marko Pjaca,17,Right Wing,20.0,{},7561,785,Croatia,71,Right Wing,True
+5474,Ivan Perišić,21,Left Wing,4.0,{},7561,785,Croatia,96,Left Wing,True
+5460,Andrej Kramarić,23,Center Forward,9.0,{},7561,785,Croatia,96,Center Forward,True
+6310,Filip Bradarić,0,0,0.0,0,7561,785,Croatia,30,,False
+3471,Dejan Lovren,0,0,0.0,0,7561,785,Croatia,25,,False
+5500,Björn Bergmann Sigurðarson,0,0,0.0,0,7561,793,Iceland,25,,False
+5470,Ivan Rakitić,0,0,0.0,0,7561,785,Croatia,14,,False
+6306,Albert Gudmundsson,0,0,0.0,0,7561,793,Iceland,10,,False
+6304,Arnór Ingvi Traustason,0,0,0.0,0,7561,793,Iceland,5,,False
+3240,Mathew Ryan,1,Goalkeeper,1.0,{},7562,792,Australia,95,Goalkeeper,True
+5482,Josh Risdon,2,Right Back,19.0,{},7562,792,Australia,95,Right Back,True
+5478,Trent Sainsbury,3,Right Center Back,20.0,{},7562,792,Australia,95,Right Center Back,True
+5488,Mark Milligan,5,Left Center Back,5.0,{},7562,792,Australia,95,Left Center Back,True
+5479,Aziz Eraltay Behich,6,Left Back,16.0,{},7562,792,Australia,95,Left Back,True
+5481,Mathew Leckie,12,Right Midfield,7.0,{},7562,792,Australia,95,Right Midfield,True
+5489,Mile Jedinak,13,Right Center Midfield,15.0,{},7562,792,Australia,95,Right Center Midfield,True
+3281,Aaron Mooy,15,Left Center Midfield,13.0,{},7562,792,Australia,95,Left Center Midfield,True
+5494,Robbie Kruse,16,Left Midfield,10.0,{},7562,792,Australia,58,Left Midfield,True
+5491,Tom Rogić,19,Center Attacking Midfield,23.0,{},7562,792,Australia,72,Center Attacking Midfield,True
+5493,Tomi Jurić,23,Center Forward,9.0,{},7562,792,Australia,53,Center Forward,True
+5528,Pedro David Gallese Quiróz,1,Goalkeeper,1.0,{},7562,784,Peru,95,Goalkeeper,True
+5521,Luis Jan Piers Advíncula Castrillón,2,Right Back,17.0,{},7562,784,Peru,95,Right Back,True
+5530,Christian Guillermo Martín Ramos Garagay,3,Right Center Back,15.0,{},7562,784,Peru,95,Right Center Back,True
+5738,Anderson Santamaría Bardales,5,Left Center Back,4.0,{},7562,784,Peru,95,Left Center Back,True
+5518,Miguel Ángel Trauco Saavedra,6,Left Back,6.0,{},7562,784,Peru,95,Left Back,True
+5523,Renato Fabrizio Tapia Cortijo,9,Right Defensive Midfield,13.0,{},7562,784,Peru,63,Right Defensive Midfield,True
+5529,Víctor Yoshimar Yotún Flores,11,Left Defensive Midfield,19.0,{},7562,784,Peru,45,Left Defensive Midfield,True
+3632,André Martín Carrillo Díaz,12,Right Midfield,18.0,{},7562,784,Peru,78,Right Midfield,True
+5525,Édison Michael Flores Peralta,16,Left Midfield,20.0,{},7562,784,Peru,95,Left Midfield,True
+5519,Christian Alberto Cueva Bravo,19,Center Attacking Midfield,8.0,{},7562,784,Peru,95,Center Attacking Midfield,True
+5535,José Paolo Guerrero Gonzáles,23,Center Forward,9.0,{},7562,784,Peru,95,Center Forward,True
+5526,Pedro Jesús Aquino Sánchez,0,0,0.0,0,7562,784,Peru,50,,False
+6314,Tim Cahill,0,0,0.0,0,7562,792,Australia,42,,False
+5483,Daniel Arzani,0,0,0.0,0,7562,792,Australia,37,,False
+6315,Christopher Paolo César Hurtado Huertas,0,0,0.0,0,7562,784,Peru,32,,False
+5490,Jackson Irvine,0,0,0.0,0,7562,792,Australia,23,,False
+6313,Wilder José Cartagena Mendoza,0,0,0.0,0,7562,784,Peru,17,,False
+3815,Kasper Schmeichel,1,Goalkeeper,1.0,{},7563,776,Denmark,95,Goalkeeper,True
+4763,Henrik Dalsgaard,2,Right Back,14.0,{},7563,776,Denmark,95,Right Back,True
+5534,Simon Thorup Kjær,3,Right Center Back,4.0,{},7563,776,Denmark,95,Right Center Back,True
+3027,Mathias Jattah-Njie Jørgensen,5,Left Center Back,13.0,{},7563,776,Denmark,95,Left Center Back,True
+5524,Jens Stryger Larsen,6,Left Back,17.0,{},7563,776,Denmark,95,Left Back,True
+3959,Andreas Christensen,10,Center Defensive Midfield,6.0,{},7563,776,Denmark,95,Center Defensive Midfield,True
+4447,Martin Braithwaite Christensen,12,Right Midfield,11.0,{},7563,776,Denmark,95,Right Midfield,True
+3043,Christian Dannemann Eriksen,13,Right Center Midfield,10.0,{},7563,776,Denmark,95,Right Center Midfield,True
+5527,Thomas Delaney,15,Left Center Midfield,8.0,{},7563,776,Denmark,93,Left Center Midfield,True
+5516,Pione Sisto Ifolo Emirmija,16,Left Midfield,23.0,{},7563,776,Denmark,61,Left Midfield,True
+5732,Andreas Evald Cornelius,23,Center Forward,21.0,{},7563,776,Denmark,76,Center Forward,True
+3543,Steve Mandanda,1,Goalkeeper,16.0,{},7563,771,France,95,Goalkeeper,True
+3446,Djibril Sidibé,2,Right Back,19.0,{},7563,771,France,95,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},7563,771,France,95,Right Center Back,True
+2999,Presnel Kimpembe,5,Left Center Back,3.0,{},7563,771,France,95,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},7563,771,France,51,Left Back,True
+3961,N''Golo Kanté,9,Right Defensive Midfield,13.0,{},7563,771,France,95,Right Defensive Midfield,True
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,11,Left Defensive Midfield,15.0,{},7563,771,France,95,Left Defensive Midfield,True
+5477,Ousmane Dembélé,17,Right Wing,11.0,{},7563,771,France,79,Right Wing,True
+5487,Antoine Griezmann,19,Center Attacking Midfield,7.0,{},7563,771,France,69,Center Attacking Midfield,True
+3245,Thomas Lemar,21,Left Wing,8.0,{},7563,771,France,95,Left Wing,True
+3604,Olivier Giroud,23,Center Forward,9.0,{},7563,771,France,95,Center Forward,True
+3261,Benjamin Mendy,0,0,0.0,0,7563,771,France,44,,False
+6303,Viktor Fischer,0,0,0.0,0,7563,776,Denmark,34,,False
+2948,Nabil Fekir,0,0,0.0,0,7563,771,France,26,,False
+6302,Kasper Dolberg,0,0,0.0,0,7563,776,Denmark,19,,False
+3009,Kylian Mbappé Lottin,0,0,0.0,0,7563,771,France,16,,False
+3410,Lukas Reiff Lerager,0,0,0.0,0,7563,776,Denmark,2,,False
+5454,Francis Odinaka Uzoho,1,Goalkeeper,23.0,{},7564,775,Nigeria,96,Goalkeeper,True
+5467,Leon Aderemi Balogun,3,Right Center Back,6.0,{},7564,775,Nigeria,96,Right Center Back,True
+5455,William Troost-Ekong,4,Center Back,5.0,{},7564,775,Nigeria,96,Center Back,True
+5830,Kenneth Josiah Omeruo,5,Left Center Back,22.0,{},7564,775,Nigeria,91,Left Center Back,True
+3963,Victor Moses,7,Right Wing Back,11.0,{},7564,775,Nigeria,96,Right Wing Back,True
+5462,Brian Oladapo Idowu,8,Left Wing Back,2.0,{},7564,775,Nigeria,96,Left Wing Back,True
+5475,John Michael Nchekwube Obinna,10,Center Defensive Midfield,10.0,{},7564,775,Nigeria,96,Center Defensive Midfield,True
+3338,Onyinye Wilfred Ndidi,13,Right Center Midfield,4.0,{},7564,775,Nigeria,96,Right Center Midfield,True
+5466,Oghenekaro Etebo,15,Left Center Midfield,8.0,{},7564,775,Nigeria,96,Left Center Midfield,True
+3708,Kelechi Promise Iheanacho,22,Right Center Forward,14.0,{},7564,775,Nigeria,45,Right Center Forward,True
+5473,Ahmed Musa,24,Left Center Forward,7.0,{},7564,775,Nigeria,93,Left Center Forward,True
+6312,Franco Armani,1,Goalkeeper,12.0,{},7564,779,Argentina,96,Goalkeeper,True
+5742,Gabriel Iván Mercado,2,Right Back,2.0,{},7564,779,Argentina,96,Right Back,True
+3090,Nicolás Hernán Otamendi,3,Right Center Back,17.0,{},7564,779,Argentina,96,Right Center Back,True
+3602,Faustino Marcos Alberto Rojo,5,Left Center Back,16.0,{},7564,779,Argentina,96,Left Center Back,True
+5507,Nicolás Alejandro Tagliafico,6,Left Back,3.0,{},7564,779,Argentina,81,Left Back,True
+5506,Javier Alejandro Mascherano,13,Right Center Midfield,14.0,{},7564,779,Argentina,96,Right Center Midfield,True
+5504,Éver Maximiliano David Banega,15,Left Center Midfield,7.0,{},7564,779,Argentina,96,Left Center Midfield,True
+5741,Enzo Nicolás Pérez,17,Right Wing,15.0,{},7564,779,Argentina,62,Right Wing,True
+2995,Ángel Fabián Di María Hernández,21,Left Wing,11.0,{},7564,779,Argentina,73,Left Wing,True
+5503,Lionel Andrés Messi Cuccittini,22,Right Center Forward,10.0,{},7564,779,Argentina,96,Right Center Forward,True
+5497,Gonzalo Gerardo Higuaín,24,Left Center Forward,9.0,{},7564,779,Argentina,96,Left Center Forward,True
+5458,Odion Jude Ighalo,0,0,0.0,0,7564,775,Nigeria,51,,False
+5496,Cristian David Pavón,0,0,0.0,0,7564,779,Argentina,34,,False
+5499,Maximiliano Eduardo Meza,0,0,0.0,0,7564,779,Argentina,23,,False
+3237,Sergio Leonel Agüero del Castillo,0,0,0.0,0,7564,779,Argentina,15,,False
+3647,Alex Iwobi,0,0,0.0,0,7564,775,Nigeria,5,,False
+5464,Simeon Tochukwu Nwankwo,0,0,0.0,0,7564,775,Nigeria,3,,False
+5601,Vladimir Stojković,1,Goalkeeper,1.0,{},7565,786,Serbia,94,Goalkeeper,True
+5588,Antonio Rukavina,2,Right Back,2.0,{},7565,786,Serbia,94,Right Back,True
+5603,Nikola Milenković,3,Right Center Back,15.0,{},7565,786,Serbia,94,Right Center Back,True
+6321,Milos Veljkovic,5,Left Center Back,13.0,{},7565,786,Serbia,94,Left Center Back,True
+5596,Aleksandar Kolarov,6,Left Back,11.0,{},7565,786,Serbia,94,Left Back,True
+5589,Sergej Milinković-Savić,9,Right Defensive Midfield,20.0,{},7565,786,Serbia,94,Right Defensive Midfield,True
+3381,Nemanja Matić,11,Left Defensive Midfield,21.0,{},7565,786,Serbia,94,Left Defensive Midfield,True
+3831,Dušan Tadić,17,Right Wing,10.0,{},7565,786,Serbia,94,Right Wing,True
+5587,Adem Ljajić,19,Center Attacking Midfield,22.0,{},7565,786,Serbia,75,Center Attacking Midfield,True
+5591,Filip Kostić,21,Left Wing,17.0,{},7565,786,Serbia,82,Left Wing,True
+4269,Aleksandar Mitrović,23,Center Forward,9.0,{},7565,786,Serbia,89,Center Forward,True
+5547,Alisson Ramsés Becker,1,Goalkeeper,1.0,{},7565,781,Brazil,94,Goalkeeper,True
+5838,Fágner Conserva Lemos,2,Right Back,22.0,{},7565,781,Brazil,94,Right Back,True
+3295,Thiago Emiliano da Silva,3,Right Center Back,2.0,{},7565,781,Brazil,94,Right Center Back,True
+5551,João Miranda de Souza Filho,5,Left Center Back,3.0,{},7565,781,Brazil,94,Left Center Back,True
+5552,Marcelo Vieira da Silva Júnior,6,Left Back,12.0,{},7565,781,Brazil,9,Left Back,True
+5539,Carlos Henrique Casimiro,10,Center Defensive Midfield,5.0,{},7565,781,Brazil,94,Center Defensive Midfield,True
+5542,José Paulo Bezzera Maciel Júnior,13,Right Center Midfield,15.0,{},7565,781,Brazil,66,Right Center Midfield,True
+3501,Philippe Coutinho Correia,15,Left Center Midfield,11.0,{},7565,781,Brazil,80,Left Center Midfield,True
+3472,Willian Borges da Silva,17,Right Wing,19.0,{},7565,781,Brazil,94,Right Wing,True
+4320,Neymar da Silva Santos Junior,21,Left Wing,10.0,{},7565,781,Brazil,94,Left Wing,True
+3202,Gabriel Fernando de Jesus,23,Center Forward,9.0,{},7565,781,Brazil,94,Center Forward,True
+6320,Filipe Luís Kasmirski,0,0,0.0,0,7565,781,Brazil,85,,False
+3054,Fernando Luiz Rosa,0,0,0.0,0,7565,781,Brazil,28,,False
+6318,Andrija Živković,0,0,0.0,0,7565,786,Serbia,19,,False
+5553,Renato Soares de Oliveira Augusto,0,0,0.0,0,7565,781,Brazil,14,,False
+5833,Nemanja Radonjić,0,0,0.0,0,7565,786,Serbia,12,,False
+6319,Luka Jović,0,0,0.0,0,7565,786,Serbia,5,,False
+5577,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,13.0,{},7566,794,Mexico,96,Goalkeeper,True
+5567,Edson Omar Álvarez Velázquez,2,Right Back,21.0,{},7566,794,Mexico,96,Right Back,True
+5564,Carlos Joel Salcedo Hernández,3,Right Center Back,3.0,{},7566,794,Mexico,96,Right Center Back,True
+5573,Héctor Alfredo Moreno Herrera,5,Left Center Back,15.0,{},7566,794,Mexico,96,Left Center Back,True
+5576,Jesús Daniel Gallardo Vasconcelos,6,Left Back,23.0,{},7566,794,Mexico,66,Left Back,True
+5575,Héctor Miguel Herrera López,9,Right Defensive Midfield,16.0,{},7566,794,Mexico,96,Right Defensive Midfield,True
+5563,José Andrés Guardado Hernández,11,Left Defensive Midfield,18.0,{},7566,794,Mexico,76,Left Defensive Midfield,True
+5556,Miguel Arturo Layún Prado,17,Right Wing,7.0,{},7566,794,Mexico,90,Right Wing,True
+5560,Carlos Alberto Vela Garrido,19,Center Attacking Midfield,11.0,{},7566,794,Mexico,96,Center Attacking Midfield,True
+5571,Hirving Rodrigo Lozano Bahena,21,Left Wing,22.0,{},7566,794,Mexico,96,Left Wing,True
+3058,Javier Hernández Balcázar,23,Center Forward,14.0,{},7566,794,Mexico,96,Center Forward,True
+5622,Robin Olsen,1,Goalkeeper,1.0,{},7566,790,Sweden,96,Goalkeeper,True
+5612,Mikael Lustig,2,Right Back,2.0,{},7566,790,Sweden,96,Right Back,True
+3702,Victor Nilsson Lindelöf,3,Right Center Back,3.0,{},7566,790,Sweden,96,Right Center Back,True
+5607,Andreas Granqvist,5,Left Center Back,4.0,{},7566,790,Sweden,96,Left Center Back,True
+5621,Ludwig Augustinsson,6,Left Back,6.0,{},7566,790,Sweden,96,Left Back,True
+5613,Viktor Claesson,12,Right Midfield,17.0,{},7566,790,Sweden,96,Right Midfield,True
+5617,Sebastian Larsson,13,Right Center Midfield,7.0,{},7566,790,Sweden,58,Right Center Midfield,True
+5624,Albin Ekdal,15,Left Center Midfield,8.0,{},7566,790,Sweden,81,Left Center Midfield,True
+5625,Emil Peter Forsberg,16,Left Midfield,10.0,{},7566,790,Sweden,96,Left Midfield,True
+11098,Marcus Berg,22,Right Center Forward,9.0,{},7566,790,Sweden,69,Right Center Forward,True
+4417,Ola Toivonen,24,Left Center Forward,20.0,{},7566,790,Sweden,96,Left Center Forward,True
+5611,Gustav Svensson,0,0,0.0,0,7566,790,Sweden,38,,False
+6317,Marco Jhonfai Fabián De La Mora,0,0,0.0,0,7566,794,Mexico,30,,False
+5615,Isaac Kiese Thelin,0,0,0.0,0,7566,790,Sweden,27,,False
+5985,Jesús Manuel Corona Ruíz,0,0,0.0,0,7566,794,Mexico,20,,False
+5605,Oscar Hiljemark,0,0,0.0,0,7566,790,Sweden,15,,False
+6316,Oribe Peralta Morones,0,0,0.0,0,7566,794,Mexico,6,,False
+5619,Hyeon-Woo Jo,1,Goalkeeper,23.0,{},7567,791,South Korea,102,Goalkeeper,True
+5608,Yong Lee,2,Right Back,2.0,{},7567,791,South Korea,102,Right Back,True
+6323,Young-Sun Yun,3,Right Center Back,5.0,{},7567,791,South Korea,102,Right Center Back,True
+5604,Young-Gwon Kim,5,Left Center Back,19.0,{},7567,791,South Korea,102,Left Center Back,True
+5986,Chul Hong,6,Left Back,14.0,{},7567,791,South Korea,102,Left Back,True
+5623,Jae-Sung Lee,12,Right Midfield,17.0,{},7567,791,South Korea,102,Right Midfield,True
+5606,Hyun-Soo Jang,13,Right Center Midfield,20.0,{},7567,791,South Korea,102,Right Center Midfield,True
+5618,Woo-Young Jung,15,Left Center Midfield,15.0,{},7567,791,South Korea,102,Left Center Midfield,True
+5989,Seon-Min Moon,16,Left Midfield,18.0,{},7567,791,South Korea,71,Left Midfield,True
+3083,Heung-Min Son,22,Right Center Forward,7.0,{},7567,791,South Korea,102,Right Center Forward,True
+5627,Ja-Cheol Koo,24,Left Center Forward,13.0,{},7567,791,South Korea,58,Left Center Forward,True
+5570,Manuel Neuer,1,Goalkeeper,1.0,{},7567,770,Germany,102,Goalkeeper,True
+5579,Joshua Kimmich,2,Right Back,18.0,{},7567,770,Germany,102,Right Back,True
+6322,Niklas Süle,3,Right Center Back,15.0,{},7567,770,Germany,102,Right Center Back,True
+5572,Mats Hummels,5,Left Center Back,5.0,{},7567,770,Germany,102,Left Center Back,True
+6040,Jonas Hector,6,Left Back,3.0,{},7567,770,Germany,80,Left Back,True
+5566,Sami Khedira,13,Right Center Midfield,6.0,{},7567,770,Germany,60,Right Center Midfield,True
+5574,Toni Kroos,15,Left Center Midfield,8.0,{},7567,770,Germany,102,Left Center Midfield,True
+6324,Leon Goretzka,17,Right Wing,14.0,{},7567,770,Germany,65,Right Wing,True
+3496,Mesut Özil,19,Center Attacking Midfield,10.0,{},7567,770,Germany,102,Center Attacking Midfield,True
+5559,Marco Reus,21,Left Wing,11.0,{},7567,770,Germany,102,Left Wing,True
+5557,Timo Werner,23,Center Forward,9.0,{},7567,770,Germany,102,Center Forward,True
+5620,Hee-Chan Hwang,0,0,0.0,0,7567,791,South Korea,81,,False
+5565,Mario Gómez García,0,0,0.0,0,7567,770,Germany,42,,False
+5562,Thomas Müller,0,0,0.0,0,7567,770,Germany,37,,False
+5988,Se-Jong Ju,0,0,0.0,0,7567,791,South Korea,31,,False
+5555,Julian Brandt,0,0,0.0,0,7567,770,Germany,22,,False
+6325,Yo-Han Go,0,0,0.0,0,7567,791,South Korea,21,,False
+5550,Yann Sommer,1,Goalkeeper,1.0,{},7568,773,Switzerland,96,Goalkeeper,True
+5541,Stephan Lichtsteiner,2,Right Back,2.0,{},7568,773,Switzerland,96,Right Back,True
+5537,Fabian Lukas Schär,3,Right Center Back,22.0,{},7568,773,Switzerland,96,Right Center Back,True
+5549,Manuel Obafemi Akanji,5,Left Center Back,5.0,{},7568,773,Switzerland,96,Left Center Back,True
+5544,Ricardo Iván Rodríguez Araya,6,Left Back,13.0,{},7568,773,Switzerland,96,Left Back,True
+5540,Valon Behrami,9,Right Defensive Midfield,11.0,{},7568,773,Switzerland,60,Right Defensive Midfield,True
+3500,Granit Xhaka,11,Left Defensive Midfield,10.0,{},7568,773,Switzerland,96,Left Defensive Midfield,True
+3533,Xherdan Shaqiri,17,Right Wing,23.0,{},7568,773,Switzerland,81,Right Wing,True
+5554,Blerim Džemaili,19,Center Attacking Midfield,15.0,{},7568,773,Switzerland,96,Center Attacking Midfield,True
+5545,Breel-Donald Embolo,21,Left Wing,7.0,{},7568,773,Switzerland,96,Left Wing,True
+5834,Mario Gavranović,23,Center Forward,18.0,{},7568,773,Switzerland,69,Center Forward,True
+5597,Keylor Navas Gamboa,1,Goalkeeper,1.0,{},7568,795,Costa Rica,96,Goalkeeper,True
+5590,Johnny Acosta Zamora,3,Right Center Back,2.0,{},7568,795,Costa Rica,96,Right Center Back,True
+5584,Giancarlo González Castro,4,Center Back,3.0,{},7568,795,Costa Rica,96,Center Back,True
+6328,Kendall Jamaal Waston Manley,5,Left Center Back,19.0,{},7568,795,Costa Rica,96,Left Center Back,True
+5602,Cristian Gamboa Luna,7,Right Wing Back,16.0,{},7568,795,Costa Rica,93,Right Wing Back,True
+5836,Bryan Oviedo,8,Left Wing Back,8.0,{},7568,795,Costa Rica,96,Left Wing Back,True
+5582,Celso Borges Mora,13,Right Center Midfield,5.0,{},7568,795,Costa Rica,96,Right Center Midfield,True
+5599,David Alberto Guzmán Pérez,15,Left Center Midfield,20.0,{},7568,795,Costa Rica,91,Left Center Midfield,True
+5592,Bryan Ruiz González,17,Right Wing,10.0,{},7568,795,Costa Rica,96,Right Wing,True
+5585,Daniel Colindres Solera,21,Left Wing,9.0,{},7568,795,Costa Rica,80,Left Wing,True
+5581,Joel Nathaniel Campbell Samuels,23,Center Forward,12.0,{},7568,795,Costa Rica,96,Center Forward,True
+5538,Denis Lemi Zakaria Lako Lado,0,0,0.0,0,7568,773,Switzerland,36,,False
+5835,Josip Drmic,0,0,0.0,0,7568,773,Switzerland,27,,False
+6326,Rodney Wallace,0,0,0.0,0,7568,795,Costa Rica,16,,False
+5546,Michael Lang,0,0,0.0,0,7568,773,Switzerland,15,,False
+6327,Rándall Azofeifa Corrales,0,0,0.0,0,7568,795,Costa Rica,5,,False
+6329,Ian Rey Smith Quiros,0,0,0.0,0,7568,795,Costa Rica,3,,False
+5636,Jaime Manuel Penedo Cano,1,Goalkeeper,1.0,{},7569,798,Panama,99,Goalkeeper,True
+6346,Adolfo Abdiel Machado,2,Right Back,13.0,{},7569,798,Panama,99,Right Back,True
+5635,Román Aureliano Torres Morcillo,3,Right Center Back,5.0,{},7569,798,Panama,57,Right Center Back,True
+5638,Fidel Escobar Mendieta,5,Left Center Back,4.0,{},7569,798,Panama,99,Left Center Back,True
+6344,Luis Carlos Ovalle Victoria,6,Left Back,17.0,{},7569,798,Panama,99,Left Back,True
+5640,Gabriel Enrique Gómez Girón,10,Center Defensive Midfield,6.0,{},7569,798,Panama,99,Center Defensive Midfield,True
+5646,Aníbal Cesis Godoy,13,Right Center Midfield,20.0,{},7569,798,Panama,99,Right Center Midfield,True
+6138,Ricardo Guardia Avila,15,Left Center Midfield,19.0,{},7569,798,Panama,82,Left Center Midfield,True
+5628,José Luis Rodríguez Francis,17,Right Wing,21.0,{},7569,798,Panama,99,Right Wing,True
+5637,Edgar Yoel Bárcenas Herrera,21,Left Wing,8.0,{},7569,798,Panama,99,Left Wing,True
+5629,Gabriel Arturo Torres Tejada,23,Center Forward,9.0,{},7569,798,Panama,45,Center Forward,True
+6342,Aymen Mathlouthi,1,Goalkeeper,16.0,{},7569,777,Tunisia,99,Goalkeeper,True
+5936,Hamdi Nagguez,2,Right Back,21.0,{},7569,777,Tunisia,99,Right Back,True
+6345,Rami Bedoui,3,Right Center Back,6.0,{},7569,777,Tunisia,99,Right Center Back,True
+5651,Yassine Meriah,5,Left Center Back,4.0,{},7569,777,Tunisia,99,Left Center Back,True
+3252,Oussama Haddadi,6,Left Back,5.0,{},7569,777,Tunisia,99,Left Back,True
+3767,Ellyes Joris Skhiri,10,Center Defensive Midfield,17.0,{},7569,777,Tunisia,99,Center Defensive Midfield,True
+5654,Fakhreddine Ben Youssef,12,Right Midfield,8.0,{},7569,777,Tunisia,99,Right Midfield,True
+6347,Ghilane Chalali,13,Right Center Midfield,20.0,{},7569,777,Tunisia,99,Right Center Midfield,True
+5650,Ferjani Sassi,15,Left Center Midfield,13.0,{},7569,777,Tunisia,45,Left Center Midfield,True
+3557,Naïm Sliti,16,Left Midfield,23.0,{},7569,777,Tunisia,78,Left Midfield,True
+3196,Wahbi Khazri,23,Center Forward,10.0,{},7569,777,Tunisia,89,Center Forward,True
+6343,Harold Oshkaly Cummings Segura,0,0,0.0,0,7569,798,Panama,54,,False
+5649,Anice Badri,0,0,0.0,0,7569,777,Tunisia,54,,False
+5643,Luis Carlos Tejada Hansell,0,0,0.0,0,7569,798,Panama,42,,False
+6348,Ahmed Khalil,0,0,0.0,0,7569,777,Tunisia,21,,False
+6140,Abdiel Arroyo Molinar,0,0,0.0,0,7569,798,Panama,17,,False
+3226,Bassem Srarfi,0,0,0.0,0,7569,777,Tunisia,10,,False
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},7570,768,England,93,Goalkeeper,True
+3314,Phil Jones,3,Right Center Back,16.0,{},7570,768,England,93,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},7570,768,England,45,Center Back,True
+3645,Gary Cahill,5,Left Center Back,15.0,{},7570,768,England,93,Left Center Back,True
+10956,Eric Dier,10,Center Defensive Midfield,4.0,{},7570,768,England,93,Center Defensive Midfield,True
+3664,Trent Alexander-Arnold,12,Right Midfield,22.0,{},7570,768,England,77,Right Midfield,True
+3594,Danny Rose,16,Left Midfield,3.0,{},7570,768,England,93,Left Midfield,True
+3504,Ruben Loftus-Cheek,18,Right Attacking Midfield,21.0,{},7570,768,England,93,Right Attacking Midfield,True
+4597,Fabian Delph,20,Left Attacking Midfield,17.0,{},7570,768,England,93,Left Attacking Midfield,True
+10960,Jamie Vardy,22,Right Center Forward,11.0,{},7570,768,England,93,Right Center Forward,True
+3318,Marcus Rashford,24,Left Center Forward,19.0,{},7570,768,England,93,Left Center Forward,True
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},7570,782,Belgium,93,Goalkeeper,True
+6331,Leander Dendoncker,3,Right Center Back,23.0,{},7570,782,Belgium,93,Right Center Back,True
+5639,Anga Dedryck Boyata,4,Center Back,20.0,{},7570,782,Belgium,93,Center Back,True
+6332,Thomas Vermaelen,5,Left Center Back,3.0,{},7570,782,Belgium,74,Left Center Back,True
+4831,Nacer Chadli,12,Right Midfield,22.0,{},7570,782,Belgium,93,Right Midfield,True
+3037,Mousa Sidi Yaya Dembélé,13,Right Center Midfield,19.0,{},7570,782,Belgium,93,Right Center Midfield,True
+2954,Youri Tielemans,15,Left Center Midfield,17.0,{},7570,782,Belgium,93,Left Center Midfield,True
+5632,Thorgan Hazard,16,Left Midfield,16.0,{},7570,782,Belgium,93,Left Midfield,True
+3296,Marouane Fellaini-Bakkioui,17,Right Wing,8.0,{},7570,782,Belgium,93,Right Wing,True
+6330,Adnan Januzaj,21,Left Wing,18.0,{},7570,782,Belgium,85,Left Wing,True
+3457,Michy Batshuayi Tunga,23,Center Forward,21.0,{},7570,782,Belgium,93,Center Forward,True
+3336,Harry Maguire,0,0,0.0,0,7570,768,England,48,,False
+3101,Vincent Kompany,0,0,0.0,0,7570,782,Belgium,19,,False
+3569,Daniel Nii Tackie Mensah Welbeck,0,0,0.0,0,7570,768,England,16,,False
+5630,Dries Mertens,0,0,0.0,0,7570,782,Belgium,8,,False
+5659,Khadim N''Diaye,1,Goalkeeper,16.0,{},7571,787,Senegal,143,Goalkeeper,True
+6335,Lamine Gassama,2,Right Back,21.0,{},7571,787,Senegal,143,Right Back,True
+5664,Salif Sané,3,Right Center Back,6.0,{},7571,787,Senegal,143,Right Center Back,True
+5675,Kalidou Koulibaly,5,Left Center Back,3.0,{},7571,787,Senegal,143,Left Center Back,True
+3404,Youssouf Sabaly,6,Left Back,12.0,{},7571,787,Senegal,75,Left Back,True
+3684,Cheikhou Kouyaté,13,Right Center Midfield,8.0,{},7571,787,Senegal,143,Right Center Midfield,True
+3436,Idrissa Gana Gueye,15,Left Center Midfield,5.0,{},7571,787,Senegal,143,Left Center Midfield,True
+2941,Ismaïla Sarr,17,Right Wing,18.0,{},7571,787,Senegal,143,Right Wing,True
+3145,Keita Baldé Diao,21,Left Wing,20.0,{},7571,787,Senegal,81,Left Wing,True
+3629,Sadio Mané,22,Right Center Forward,10.0,{},7571,787,Senegal,143,Right Center Forward,True
+5661,M''Baye Babacar Niang,24,Left Center Forward,19.0,{},7571,787,Senegal,87,Left Center Forward,True
+4276,David Ospina Ramírez,1,Goalkeeper,1.0,{},7571,769,Colombia,143,Goalkeeper,True
+5696,Santiago Arias Naranjo,2,Right Back,4.0,{},7571,769,Colombia,143,Right Back,True
+6196,Yerry Fernando Mina González,3,Right Center Back,13.0,{},7571,769,Colombia,143,Right Center Back,True
+3494,Davinson Sánchez Mina,5,Left Center Back,23.0,{},7571,769,Colombia,143,Left Center Back,True
+5691,Johan Andrés Mojica Palacio,6,Left Back,17.0,{},7571,769,Colombia,143,Left Back,True
+5685,Carlos Alberto Sánchez Moreno,13,Right Center Midfield,6.0,{},7571,769,Colombia,143,Right Center Midfield,True
+6193,Andrés Mateus Uribe Villa,15,Left Center Midfield,15.0,{},7571,769,Colombia,84,Left Center Midfield,True
+5692,Juan Fernando Quintero Paniagua,17,Right Wing,20.0,{},7571,769,Colombia,143,Right Wing,True
+5695,James David Rodríguez Rubio,19,Center Attacking Midfield,10.0,{},7571,769,Colombia,30,Center Attacking Midfield,True
+5689,Juan Guillermo Cuadrado Bello,21,Left Wing,11.0,{},7571,769,Colombia,143,Left Wing,True
+3445,Radamel Falcao García Zárate,23,Center Forward,9.0,{},7571,769,Colombia,90,Center Forward,True
+6334,Luis Fernando Muriel Fruto,0,0,0.0,0,7571,769,Colombia,113,,False
+5674,Moussa Wagué,0,0,0.0,0,7571,787,Senegal,68,,False
+3555,Pape Moussa Konaté,0,0,0.0,0,7571,787,Senegal,62,,False
+5678,Jefferson Andrés Lerma Solís,0,0,0.0,0,7571,769,Colombia,59,,False
+3962,Diafra Sakho,0,0,0.0,0,7571,787,Senegal,56,,False
+6333,Miguel Ángel Borja Hernández,0,0,0.0,0,7571,769,Colombia,53,,False
+3175,Eiji Kawashima,1,Goalkeeper,1.0,{},7572,778,Japan,94,Goalkeeper,True
+3530,Hiroki Sakai,2,Right Back,19.0,{},7572,778,Japan,94,Right Back,True
+3300,Maya Yoshida,3,Right Center Back,22.0,{},7572,778,Japan,94,Right Center Back,True
+6338,Tomoaki Makino,5,Left Center Back,20.0,{},7572,778,Japan,94,Left Center Back,True
+5690,Yuto Nagatomo,6,Left Back,5.0,{},7572,778,Japan,94,Left Back,True
+6339,Gotoku Sakai,12,Right Midfield,21.0,{},7572,778,Japan,94,Right Midfield,True
+5693,Gaku Shibasaki,13,Right Center Midfield,7.0,{},7572,778,Japan,94,Right Center Midfield,True
+5694,Hotaru Yamaguchi,15,Left Center Midfield,16.0,{},7572,778,Japan,94,Left Center Midfield,True
+6191,Takashi Usami,16,Left Midfield,11.0,{},7572,778,Japan,65,Left Midfield,True
+6337,Yoshinori Muto,22,Right Center Forward,13.0,{},7572,778,Japan,82,Right Center Forward,True
+3810,Shinji Okazaki,24,Left Center Forward,9.0,{},7572,778,Japan,47,Left Center Forward,True
+3262,Łukasz Fabiański,1,Goalkeeper,22.0,{},7572,789,Poland,94,Goalkeeper,True
+5673,Bartosz Bereszyński,2,Right Back,18.0,{},7572,789,Poland,94,Right Back,True
+3034,Kamil Glik,3,Right Center Back,15.0,{},7572,789,Poland,94,Right Center Back,True
+4626,Jan Bednarek,5,Left Center Back,5.0,{},7572,789,Poland,94,Left Center Back,True
+4685,Artur Jędrzejczyk,6,Left Back,3.0,{},7572,789,Poland,94,Left Back,True
+3637,Grzegorz Krychowiak,9,Right Defensive Midfield,10.0,{},7572,789,Poland,94,Right Defensive Midfield,True
+6195,Jacek Góralski,11,Left Defensive Midfield,6.0,{},7572,789,Poland,94,Left Defensive Midfield,True
+5667,Kamil Grosicki,17,Right Wing,11.0,{},7572,789,Poland,94,Right Wing,True
+5660,Piotr Zieliński,19,Center Attacking Midfield,19.0,{},7572,789,Poland,79,Center Attacking Midfield,True
+6336,Rafał Kurzawa,21,Left Wing,21.0,{},7572,789,Poland,79,Left Wing,True
+5668,Robert Lewandowski,23,Center Forward,9.0,{},7572,789,Poland,94,Center Forward,True
+5679,Yūya Ōsako,0,0,0.0,0,7572,778,Japan,47,,False
+5687,Takashi Inui,0,0,0.0,0,7572,778,Japan,29,,False
+6194,Łukasz Teodorczyk,0,0,0.0,0,7572,789,Poland,15,,False
+6340,Sławomir Peszko,0,0,0.0,0,7572,789,Poland,15,,False
+5681,Makoto Hasebe,0,0,0.0,0,7572,778,Japan,12,,False
+5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,1.0,{},7576,780,Portugal,94,Goalkeeper,True
+3329,Cédric Ricardo Alves Soares,2,Right Back,21.0,{},7576,780,Portugal,94,Right Back,True
+20016,Kléper Laveran Lima Ferreira,3,Right Center Back,3.0,{},7576,780,Portugal,94,Right Center Back,True
+3960,José Miguel da Rocha Fonte,5,Left Center Back,6.0,{},7576,780,Portugal,94,Left Center Back,True
+5209,Raphaël Adelino José Guerreiro,6,Left Back,5.0,{},7576,780,Portugal,94,Left Back,True
+3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,8.0,{},7576,780,Portugal,94,Right Center Midfield,True
+5214,William Silva de Carvalho,15,Left Center Midfield,14.0,{},7576,780,Portugal,94,Left Center Midfield,True
+5204,Bruno Miguel Borges Fernandes,16,Left Midfield,16.0,{},7576,780,Portugal,67,Left Midfield,True
+3193,Bernardo Mota Veiga de Carvalho e Silva,17,Right Wing,11.0,{},7576,780,Portugal,68,Right Wing,True
+4367,Gonçalo Manuel Ganchinho Guedes,22,Right Center Forward,17.0,{},7576,780,Portugal,79,Right Center Forward,True
+5207,Cristiano Ronaldo dos Santos Aveiro,24,Left Center Forward,7.0,{},7576,780,Portugal,94,Left Center Forward,True
+3333,David de Gea Quintana,1,Goalkeeper,1.0,{},7576,772,Spain,94,Goalkeeper,True
+5202,José Ignacio Fernández Iglesias,2,Right Back,4.0,{},7576,772,Spain,94,Right Back,True
+5213,Gerard Piqué Bernabéu,3,Right Center Back,3.0,{},7576,772,Spain,94,Right Center Back,True
+5201,Sergio Ramos García,5,Left Center Back,15.0,{},7576,772,Spain,94,Left Center Back,True
+5211,Jordi Alba Ramos,6,Left Back,18.0,{},7576,772,Spain,94,Left Back,True
+5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,5.0,{},7576,772,Spain,94,Center Defensive Midfield,True
+5199,Jorge Resurrección Merodio,13,Right Center Midfield,8.0,{},7576,772,Spain,94,Right Center Midfield,True
+5216,Andrés Iniesta Luján,15,Left Center Midfield,6.0,{},7576,772,Spain,69,Left Center Midfield,True
+3064,David Josué Jiménez Silva,17,Right Wing,21.0,{},7576,772,Spain,85,Right Wing,True
+4926,Francisco Román Alarcón Suárez,21,Left Wing,22.0,{},7576,772,Spain,94,Left Wing,True
+5198,Diego da Silva Costa,23,Center Forward,19.0,{},7576,772,Spain,76,Center Forward,True
+4272,João Mário Naval da Costa Eduardo,0,0,0.0,0,7576,780,Portugal,27,,False
+5215,Ricardo Andrade Quaresma Bernardo,0,0,0.0,0,7576,780,Portugal,26,,False
+5208,Thiago Alcântara do Nascimento,0,0,0.0,0,7576,772,Spain,25,,False
+5217,Iago Aspas Juncal,0,0,0.0,0,7576,772,Spain,18,,False
+5218,André Miguel Valente Silva,0,0,0.0,0,7576,780,Portugal,15,,False
+5200,Lucas Vázquez Iglesias,0,0,0.0,0,7576,772,Spain,9,,False
+5233,Munir Mohand Mohamedi,1,Goalkeeper,12.0,{},7577,788,Morocco,98,Goalkeeper,True
+3302,Nordin Amrabat,2,Right Back,16.0,{},7577,788,Morocco,77,Right Back,True
+5244,Medhi Amine El Mouttaqi Benatia,3,Right Center Back,5.0,{},7577,788,Morocco,98,Right Center Back,True
+5219,Romain Saïss,5,Left Center Back,6.0,{},7577,788,Morocco,98,Left Center Back,True
+5245,Achraf Hakimi Mouh,6,Left Back,2.0,{},7577,788,Morocco,98,Left Back,True
+5236,Karim El Ahmadi Al Aroos,13,Right Center Midfield,8.0,{},7577,788,Morocco,98,Right Center Midfield,True
+5232,Mbark Boussoufa,15,Left Center Midfield,14.0,{},7577,788,Morocco,98,Left Center Midfield,True
+5237,Hakim Ziyech,17,Right Wing,7.0,{},7577,788,Morocco,98,Right Wing,True
+5242,Younès Belhanda,19,Center Attacking Midfield,10.0,{},7577,788,Morocco,98,Center Attacking Midfield,True
+5243,Amine Harit,21,Left Wing,18.0,{},7577,788,Morocco,83,Left Wing,True
+5229,Ayoub El Kaabi,23,Center Forward,9.0,{},7577,788,Morocco,78,Center Forward,True
+5227,Alireza Safar Beiranvand,1,Goalkeeper,1.0,{},7577,797,Iran,98,Goalkeeper,True
+5235,Ramin Rezaeian,2,Right Back,23.0,{},7577,797,Iran,98,Right Back,True
+5220,Morteza Pouraliganji,3,Right Center Back,8.0,{},7577,797,Iran,98,Right Center Back,True
+5222,Roozbeh Cheshmi,5,Left Center Back,4.0,{},7577,797,Iran,98,Left Center Back,True
+5230,Ehsan Hajsafi,6,Left Back,3.0,{},7577,797,Iran,98,Left Back,True
+5225,Omid Ebrahimi,10,Center Defensive Midfield,9.0,{},7577,797,Iran,81,Center Defensive Midfield,True
+5239,Alireza Jahanbakhsh,12,Right Midfield,18.0,{},7577,797,Iran,85,Right Midfield,True
+5238,Masoud Shojaei Soleimani,13,Right Center Midfield,7.0,{},7577,797,Iran,69,Right Center Midfield,True
+5241,Vahid Amiri,15,Left Center Midfield,11.0,{},7577,797,Iran,98,Left Center Midfield,True
+5231,Karim Ansarifard,16,Left Midfield,10.0,{},7577,797,Iran,98,Left Midfield,True
+5224,Sardar Azmoun,23,Center Forward,20.0,{},7577,797,Iran,98,Center Forward,True
+5226,Mehdi Taremi,0,0,0.0,0,7577,797,Iran,29,,False
+5234,Sofyan Amrabat,0,0,0.0,0,7577,788,Morocco,21,,False
+5223,Aziz Bouhaddouz,0,0,0.0,0,7577,788,Morocco,20,,False
+5228,Seyed Majid Hosseini,0,0,0.0,0,7577,797,Iran,17,,False
+5221,Manuel Marouan da Costa Trinidade,0,0,0.0,0,7577,788,Morocco,15,,False
+5240,Saman Ghoddos,0,0,0.0,0,7577,797,Iran,13,,False
+5265,Mohamed El Sayed Mohamed El Shenawy Gomaa,1,Goalkeeper,23.0,{},7578,774,Egypt,97,Goalkeeper,True
+5250,Ahmed Fathy Abdel Meneim Ibrahim,2,Right Back,7.0,{},7578,774,Egypt,97,Right Back,True
+5254,Ali Gabr,3,Right Center Back,2.0,{},7578,774,Egypt,97,Right Center Back,True
+4063,Ahmed Elsayed Ali Elsayed Hegazy,5,Left Center Back,6.0,{},7578,774,Egypt,97,Left Center Back,True
+5263,Mohamed Abdul Shafy Sayed Abouezeid,6,Left Back,13.0,{},7578,774,Egypt,97,Left Back,True
+5253,Amr Medhat Warda,12,Right Midfield,22.0,{},7578,774,Egypt,82,Right Midfield,True
+3568,Mohamed Naser Elsayed Elneny,13,Right Center Midfield,17.0,{},7578,774,Egypt,97,Right Center Midfield,True
+5262,Tarek Hamed,15,Left Center Midfield,8.0,{},7578,774,Egypt,50,Left Center Midfield,True
+5261,Mahmoud Ibrahim Hassan,16,Left Midfield,21.0,{},7578,774,Egypt,97,Left Midfield,True
+5251,Abdalla Mahmoud El Said Bekhit,19,Center Attacking Midfield,19.0,{},7578,774,Egypt,97,Center Attacking Midfield,True
+5252,Marwan Mohsen,23,Center Forward,9.0,{},7578,774,Egypt,63,Center Forward,True
+5267,Néstor Fernando Muslera Micol,1,Goalkeeper,1.0,{},7578,783,Uruguay,97,Goalkeeper,True
+5264,Guillermo Varela Olivera,2,Right Back,4.0,{},7578,783,Uruguay,97,Right Back,True
+5259,José María Giménez de Vargas,3,Right Center Back,2.0,{},7578,783,Uruguay,97,Right Center Back,True
+5249,Diego Roberto Godín Leal,5,Left Center Back,3.0,{},7578,783,Uruguay,97,Left Center Back,True
+5248,José Martín Cáceres Silva,6,Left Back,22.0,{},7578,783,Uruguay,97,Left Back,True
+5255,Matías Vecino Falero,13,Right Center Midfield,15.0,{},7578,783,Uruguay,87,Right Center Midfield,True
+5260,Rodrigo Bentancur Colmán,15,Left Center Midfield,6.0,{},7578,783,Uruguay,97,Left Center Midfield,True
+5247,Nahitan Michel Nández Acosta,17,Right Wing,8.0,{},7578,783,Uruguay,58,Right Wing,True
+5258,Giorgian Daniel De Arrascaeta Benedetti,21,Left Wing,10.0,{},7578,783,Uruguay,59,Left Wing,True
+5246,Luis Alberto Suárez Díaz,22,Right Center Forward,9.0,{},7578,783,Uruguay,97,Right Center Forward,True
+4319,Edinson Roberto Cavani Gómez,24,Left Center Forward,21.0,{},7578,783,Uruguay,97,Left Center Forward,True
+3878,Sam Morsy,0,0,0.0,0,7578,774,Egypt,47,,False
+5268,Carlos Andrés Sánchez Arcosa,0,0,0.0,0,7578,783,Uruguay,39,,False
+5256,Cristian Gabriel Rodríguez Barrotti,0,0,0.0,0,7578,783,Uruguay,38,,False
+5257,Mahmoud Abdul Monem Abdelhamid Soliman,0,0,0.0,0,7578,774,Egypt,34,,False
+3536,Ramadan Sobhi Ramadan Ahmed,0,0,0.0,0,7578,774,Egypt,15,,False
+5266,Lucas Torreira Di Pascua,0,0,0.0,0,7578,783,Uruguay,10,,False
+5267,Néstor Fernando Muslera Micol,1,Goalkeeper,1.0,{},7579,783,Uruguay,97,Goalkeeper,True
+5248,José Martín Cáceres Silva,2,Right Back,22.0,{},7579,783,Uruguay,97,Right Back,True
+5249,Diego Roberto Godín Leal,3,Right Center Back,3.0,{},7579,783,Uruguay,97,Right Center Back,True
+5259,José María Giménez de Vargas,5,Left Center Back,2.0,{},7579,783,Uruguay,97,Left Center Back,True
+5717,Diego Sebastián Laxalt Suárez,6,Left Back,17.0,{},7579,783,Uruguay,97,Left Back,True
+5266,Lucas Torreira Di Pascua,10,Center Defensive Midfield,14.0,{},7579,783,Uruguay,97,Center Defensive Midfield,True
+5247,Nahitan Michel Nández Acosta,12,Right Midfield,8.0,{},7579,783,Uruguay,82,Right Midfield,True
+5255,Matías Vecino Falero,16,Left Midfield,15.0,{},7579,783,Uruguay,97,Left Midfield,True
+5260,Rodrigo Bentancur Colmán,19,Center Attacking Midfield,6.0,{},7579,783,Uruguay,64,Center Attacking Midfield,True
+4319,Edinson Roberto Cavani Gómez,22,Right Center Forward,21.0,{},7579,783,Uruguay,75,Right Center Forward,True
+5246,Luis Alberto Suárez Díaz,24,Left Center Forward,9.0,{},7579,783,Uruguay,97,Left Center Forward,True
+5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,1.0,{},7579,780,Portugal,97,Goalkeeper,True
+6352,Ricardo Domingos Barbosa Pereira,2,Right Back,15.0,{},7579,780,Portugal,97,Right Back,True
+20016,Kléper Laveran Lima Ferreira,3,Right Center Back,3.0,{},7579,780,Portugal,97,Right Center Back,True
+3960,José Miguel da Rocha Fonte,5,Left Center Back,6.0,{},7579,780,Portugal,97,Left Center Back,True
+5209,Raphaël Adelino José Guerreiro,6,Left Back,5.0,{},7579,780,Portugal,97,Left Back,True
+3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,11.0,{},7579,780,Portugal,97,Right Midfield,True
+3707,Adrien Sebastian Perruchet Silva,13,Right Center Midfield,23.0,{},7579,780,Portugal,66,Right Center Midfield,True
+5214,William Silva de Carvalho,15,Left Center Midfield,14.0,{},7579,780,Portugal,97,Left Center Midfield,True
+4272,João Mário Naval da Costa Eduardo,16,Left Midfield,10.0,{},7579,780,Portugal,86,Left Midfield,True
+4367,Gonçalo Manuel Ganchinho Guedes,22,Right Center Forward,17.0,{},7579,780,Portugal,74,Right Center Forward,True
+5207,Cristiano Ronaldo dos Santos Aveiro,24,Left Center Forward,7.0,{},7579,780,Portugal,97,Left Center Forward,True
+5256,Cristian Gabriel Rodríguez Barrotti,0,0,0.0,0,7579,783,Uruguay,33,,False
+5215,Ricardo Andrade Quaresma Bernardo,0,0,0.0,0,7579,780,Portugal,31,,False
+5218,André Miguel Valente Silva,0,0,0.0,0,7579,780,Portugal,23,,False
+6351,Cristhian Ricardo Stuani Curbelo,0,0,0.0,0,7579,783,Uruguay,22,,False
+5268,Carlos Andrés Sánchez Arcosa,0,0,0.0,0,7579,783,Uruguay,15,,False
+6350,Manuel Henrique Tavares Fernandes,0,0,0.0,0,7579,780,Portugal,11,,False
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},7580,771,France,143,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},7580,771,France,143,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},7580,771,France,143,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},7580,771,France,143,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},7580,771,France,143,Left Back,True
+5487,Antoine Griezmann,7,Right Wing Back,7.0,{},7580,771,France,83,Right Wing Back,True
+20004,Paul Pogba,9,Right Defensive Midfield,6.0,{},7580,771,France,143,Right Defensive Midfield,True
+3961,N''Golo Kanté,11,Left Defensive Midfield,13.0,{},7580,771,France,143,Left Defensive Midfield,True
+3009,Kylian Mbappé Lottin,17,Right Wing,10.0,{},7580,771,France,89,Right Wing,True
+4375,Blaise Matuidi,21,Left Wing,14.0,{},7580,771,France,75,Left Wing,True
+3604,Olivier Giroud,23,Center Forward,9.0,{},7580,771,France,143,Center Forward,True
+6312,Franco Armani,1,Goalkeeper,12.0,{},7580,779,Argentina,143,Goalkeeper,True
+5742,Gabriel Iván Mercado,2,Right Back,2.0,{},7580,779,Argentina,143,Right Back,True
+3090,Nicolás Hernán Otamendi,3,Right Center Back,17.0,{},7580,779,Argentina,143,Right Center Back,True
+3602,Faustino Marcos Alberto Rojo,5,Left Center Back,16.0,{},7580,779,Argentina,45,Left Center Back,True
+5507,Nicolás Alejandro Tagliafico,6,Left Back,3.0,{},7580,779,Argentina,143,Left Back,True
+5506,Javier Alejandro Mascherano,10,Center Defensive Midfield,14.0,{},7580,779,Argentina,143,Center Defensive Midfield,True
+5741,Enzo Nicolás Pérez,13,Right Center Midfield,15.0,{},7580,779,Argentina,66,Right Center Midfield,True
+5504,Éver Maximiliano David Banega,15,Left Center Midfield,7.0,{},7580,779,Argentina,143,Left Center Midfield,True
+2995,Ángel Fabián Di María Hernández,17,Right Wing,11.0,{},7580,779,Argentina,143,Right Wing,True
+5496,Cristian David Pavón,21,Left Wing,22.0,{},7580,779,Argentina,75,Left Wing,True
+5503,Lionel Andrés Messi Cuccittini,23,Center Forward,10.0,{},7580,779,Argentina,143,Center Forward,True
+6349,Federico Julián Fazio,0,0,0.0,0,7580,779,Argentina,98,,False
+3237,Sergio Leonel Agüero del Castillo,0,0,0.0,0,7580,779,Argentina,77,,False
+5499,Maximiliano Eduardo Meza,0,0,0.0,0,7580,779,Argentina,68,,False
+5480,Corentin Tolisso,0,0,0.0,0,7580,771,France,68,,False
+2948,Nabil Fekir,0,0,0.0,0,7580,771,France,60,,False
+3254,Florian Thauvin,0,0,0.0,0,7580,771,France,54,,False
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},7581,785,Croatia,127,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},7581,785,Croatia,127,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},7581,785,Croatia,127,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},7581,785,Croatia,127,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},7581,785,Croatia,82,Left Back,True
+5469,Marcelo Brozović,10,Center Defensive Midfield,11.0,{},7581,785,Croatia,72,Center Defensive Midfield,True
+5465,Ante Rebić,12,Right Midfield,18.0,{},7581,785,Croatia,127,Right Midfield,True
+5463,Luka Modrić,13,Right Center Midfield,10.0,{},7581,785,Croatia,127,Right Center Midfield,True
+5470,Ivan Rakitić,15,Left Center Midfield,7.0,{},7581,785,Croatia,127,Left Center Midfield,True
+5474,Ivan Perišić,16,Left Midfield,4.0,{},7581,785,Croatia,101,Left Midfield,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},7581,785,Croatia,113,Center Forward,True
+3815,Kasper Schmeichel,1,Goalkeeper,1.0,{},7581,776,Denmark,127,Goalkeeper,True
+4763,Henrik Dalsgaard,2,Right Back,14.0,{},7581,776,Denmark,127,Right Back,True
+5534,Simon Thorup Kjær,3,Right Center Back,4.0,{},7581,776,Denmark,127,Right Center Back,True
+3027,Mathias Jattah-Njie Jørgensen,5,Left Center Back,13.0,{},7581,776,Denmark,127,Left Center Back,True
+6355,Jonas Knudsen,6,Left Back,5.0,{},7581,776,Denmark,127,Left Back,True
+3959,Andreas Christensen,13,Right Center Midfield,6.0,{},7581,776,Denmark,45,Right Center Midfield,True
+5527,Thomas Delaney,15,Left Center Midfield,8.0,{},7581,776,Denmark,102,Left Center Midfield,True
+5536,Yussuf Yurary Poulsen,17,Right Wing,20.0,{},7581,776,Denmark,127,Right Wing,True
+4447,Martin Braithwaite Christensen,21,Left Wing,11.0,{},7581,776,Denmark,110,Left Wing,True
+5732,Andreas Evald Cornelius,23,Center Forward,21.0,{},7581,776,Denmark,67,Center Forward,True
+3043,Christian Dannemann Eriksen,25,Secondary Striker,10.0,{},7581,776,Denmark,127,Secondary Striker,True
+5520,Lasse Schöne,0,0,0.0,0,7581,776,Denmark,82,,False
+5522,Nicolai Jørgensen,0,0,0.0,0,7581,776,Denmark,60,,False
+5456,Mateo Kovačić,0,0,0.0,0,7581,785,Croatia,55,,False
+6308,Josip Pivarić,0,0,0.0,0,7581,785,Croatia,45,,False
+5460,Andrej Kramarić,0,0,0.0,0,7581,785,Croatia,26,,False
+6356,Michael Krohn-Dehli,0,0,0.0,0,7581,776,Denmark,25,,False
+5516,Pione Sisto Ifolo Emirmija,0,0,0.0,0,7581,776,Denmark,17,,False
+6305,Milan Badelj,0,0,0.0,0,7581,785,Croatia,14,,False
+3333,David de Gea Quintana,1,Goalkeeper,1.0,{},7582,772,Spain,128,Goalkeeper,True
+5202,José Ignacio Fernández Iglesias,2,Right Back,4.0,{},7582,772,Spain,71,Right Back,True
+5213,Gerard Piqué Bernabéu,3,Right Center Back,3.0,{},7582,772,Spain,128,Right Center Back,True
+5201,Sergio Ramos García,5,Left Center Back,15.0,{},7582,772,Spain,128,Left Center Back,True
+5211,Jordi Alba Ramos,6,Left Back,18.0,{},7582,772,Spain,128,Left Back,True
+5199,Jorge Resurrección Merodio,9,Right Defensive Midfield,8.0,{},7582,772,Spain,128,Right Defensive Midfield,True
+5203,Sergio Busquets i Burgos,11,Left Defensive Midfield,5.0,{},7582,772,Spain,128,Left Defensive Midfield,True
+5719,Marco Asensio Willemsen,12,Right Midfield,20.0,{},7582,772,Spain,109,Right Midfield,True
+4926,Francisco Román Alarcón Suárez,16,Left Midfield,22.0,{},7582,772,Spain,128,Left Midfield,True
+3064,David Josué Jiménez Silva,19,Center Attacking Midfield,21.0,{},7582,772,Spain,68,Center Attacking Midfield,True
+5198,Diego da Silva Costa,23,Center Forward,19.0,{},7582,772,Spain,81,Center Forward,True
+5172,Igor Akinfeev,1,Goalkeeper,1.0,{},7582,796,Russia,128,Goalkeeper,True
+5175,Ilya Kutepov,3,Right Center Back,3.0,{},7582,796,Russia,128,Right Center Back,True
+5174,Sergei Ignashevich,4,Center Back,4.0,{},7582,796,Russia,128,Center Back,True
+5677,Fedor Kudryashov,5,Left Center Back,13.0,{},7582,796,Russia,128,Left Center Back,True
+5170,Mário Figueira Fernandes,12,Right Midfield,2.0,{},7582,796,Russia,128,Right Midfield,True
+5179,Daler Kuzyaev,13,Right Center Midfield,7.0,{},7582,796,Russia,102,Right Center Midfield,True
+5171,Roman Zobnin,15,Left Center Midfield,11.0,{},7582,796,Russia,128,Left Center Midfield,True
+5193,Yuri Zhirkov,16,Left Midfield,18.0,{},7582,796,Russia,45,Left Midfield,True
+5182,Aleksandr Samedov,22,Right Center Forward,19.0,{},7582,796,Russia,62,Right Center Forward,True
+5195,Artem Dzyuba,23,Center Forward,22.0,{},7582,796,Russia,66,Center Forward,True
+5177,Aleksandr Golovin,24,Left Center Forward,17.0,{},7582,796,Russia,128,Left Center Forward,True
+6353,Vladimir Granat,0,0,0.0,0,7582,796,Russia,83,,False
+5186,Denis Cheryshev,0,0,0.0,0,7582,796,Russia,66,,False
+5194,Fyodor Smolov,0,0,0.0,0,7582,796,Russia,62,,False
+5216,Andrés Iniesta Luján,0,0,0.0,0,7582,772,Spain,60,,False
+5721,Daniel Carvajal Ramos,0,0,0.0,0,7582,772,Spain,57,,False
+5217,Iago Aspas Juncal,0,0,0.0,0,7582,772,Spain,47,,False
+6354,Aleksandr Erokhin,0,0,0.0,0,7582,796,Russia,26,,False
+5718,Rodrigo Moreno Machado,0,0,0.0,0,7582,772,Spain,19,,False
+5547,Alisson Ramsés Becker,1,Goalkeeper,1.0,{},7583,781,Brazil,96,Goalkeeper,True
+5838,Fágner Conserva Lemos,2,Right Back,22.0,{},7583,781,Brazil,96,Right Back,True
+3295,Thiago Emiliano da Silva,3,Right Center Back,2.0,{},7583,781,Brazil,96,Right Center Back,True
+5551,João Miranda de Souza Filho,5,Left Center Back,3.0,{},7583,781,Brazil,96,Left Center Back,True
+6320,Filipe Luís Kasmirski,6,Left Back,6.0,{},7583,781,Brazil,96,Left Back,True
+5539,Carlos Henrique Casimiro,13,Right Center Midfield,5.0,{},7583,781,Brazil,96,Right Center Midfield,True
+5542,José Paulo Bezzera Maciel Júnior,15,Left Center Midfield,15.0,{},7583,781,Brazil,80,Left Center Midfield,True
+3472,Willian Borges da Silva,17,Right Wing,19.0,{},7583,781,Brazil,90,Right Wing,True
+3501,Philippe Coutinho Correia,21,Left Wing,11.0,{},7583,781,Brazil,85,Left Wing,True
+4320,Neymar da Silva Santos Junior,22,Right Center Forward,10.0,{},7583,781,Brazil,96,Right Center Forward,True
+3202,Gabriel Fernando de Jesus,24,Left Center Forward,9.0,{},7583,781,Brazil,96,Left Center Forward,True
+5577,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,13.0,{},7583,794,Mexico,96,Goalkeeper,True
+5567,Edson Omar Álvarez Velázquez,2,Right Back,21.0,{},7583,794,Mexico,54,Right Back,True
+5561,Hugo Ayala Castro,3,Right Center Back,2.0,{},7583,794,Mexico,96,Right Center Back,True
+5564,Carlos Joel Salcedo Hernández,5,Left Center Back,3.0,{},7583,794,Mexico,96,Left Center Back,True
+5576,Jesús Daniel Gallardo Vasconcelos,6,Left Back,23.0,{},7583,794,Mexico,96,Left Back,True
+5575,Héctor Miguel Herrera López,12,Right Midfield,16.0,{},7583,794,Mexico,96,Right Midfield,True
+5558,Rafael Márquez Álvarez,14,Center Midfield,4.0,{},7583,794,Mexico,45,Center Midfield,True
+5563,José Andrés Guardado Hernández,16,Left Midfield,18.0,{},7583,794,Mexico,96,Left Midfield,True
+5571,Hirving Rodrigo Lozano Bahena,17,Right Wing,22.0,{},7583,794,Mexico,96,Right Wing,True
+5560,Carlos Alberto Vela Garrido,21,Left Wing,11.0,{},7583,794,Mexico,96,Left Wing,True
+3058,Javier Hernández Balcázar,23,Center Forward,14.0,{},7583,794,Mexico,59,Center Forward,True
+5556,Miguel Arturo Layún Prado,0,0,0.0,0,7583,794,Mexico,51,,False
+6357,Jonathan dos Santos Ramírez,0,0,0.0,0,7583,794,Mexico,42,,False
+5568,Raúl Alonso Jiménez Rodríguez,0,0,0.0,0,7583,794,Mexico,37,,False
+3054,Fernando Luiz Rosa,0,0,0.0,0,7583,781,Brazil,16,,False
+3535,Roberto Firmino Barbosa de Oliveira,0,0,0.0,0,7583,781,Brazil,11,,False
+4372,Marcos Aoás Corrêa,0,0,0.0,0,7583,781,Brazil,6,,False
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},7584,782,Belgium,96,Goalkeeper,True
+20005,Toby Alderweireld,3,Right Center Back,2.0,{},7584,782,Belgium,96,Right Center Back,True
+3101,Vincent Kompany,4,Center Back,4.0,{},7584,782,Belgium,96,Center Back,True
+3077,Jan Vertonghen,5,Left Center Back,5.0,{},7584,782,Belgium,96,Left Center Back,True
+3176,Thomas Meunier,7,Right Wing Back,15.0,{},7584,782,Belgium,96,Right Wing Back,True
+5633,Yannick Ferreira Carrasco,8,Left Wing Back,11.0,{},7584,782,Belgium,65,Left Wing Back,True
+3089,Kevin De Bruyne,13,Right Center Midfield,7.0,{},7584,782,Belgium,96,Right Center Midfield,True
+5642,Axel Witsel,15,Left Center Midfield,6.0,{},7584,782,Belgium,96,Left Center Midfield,True
+5630,Dries Mertens,18,Right Attacking Midfield,14.0,{},7584,782,Belgium,65,Right Attacking Midfield,True
+3621,Eden Hazard,20,Left Attacking Midfield,10.0,{},7584,782,Belgium,96,Left Attacking Midfield,True
+3289,Romelu Lukaku Menama,23,Center Forward,9.0,{},7584,782,Belgium,96,Center Forward,True
+3175,Eiji Kawashima,1,Goalkeeper,1.0,{},7584,778,Japan,96,Goalkeeper,True
+3530,Hiroki Sakai,2,Right Back,19.0,{},7584,778,Japan,96,Right Back,True
+3300,Maya Yoshida,3,Right Center Back,22.0,{},7584,778,Japan,96,Right Center Back,True
+5682,Gen Shōji,5,Left Center Back,3.0,{},7584,778,Japan,96,Left Center Back,True
+5690,Yuto Nagatomo,6,Left Back,5.0,{},7584,778,Japan,96,Left Back,True
+5681,Makoto Hasebe,9,Right Defensive Midfield,17.0,{},7584,778,Japan,96,Right Defensive Midfield,True
+5693,Gaku Shibasaki,11,Left Defensive Midfield,7.0,{},7584,778,Japan,81,Left Defensive Midfield,True
+5697,Genki Haraguchi,17,Right Wing,8.0,{},7584,778,Japan,81,Right Wing,True
+5684,Shinji Kagawa,19,Center Attacking Midfield,10.0,{},7584,778,Japan,96,Center Attacking Midfield,True
+5687,Takashi Inui,21,Left Wing,14.0,{},7584,778,Japan,96,Left Wing,True
+5679,Yūya Ōsako,23,Center Forward,15.0,{},7584,778,Japan,96,Center Forward,True
+3296,Marouane Fellaini-Bakkioui,0,0,0.0,0,7584,782,Belgium,31,,False
+4831,Nacer Chadli,0,0,0.0,0,7584,782,Belgium,31,,False
+5694,Hotaru Yamaguchi,0,0,0.0,0,7584,778,Japan,15,,False
+5683,Keisuke Honda,0,0,0.0,0,7584,778,Japan,15,,False
+4276,David Ospina Ramírez,1,Goalkeeper,1.0,{},7585,769,Colombia,132,Goalkeeper,True
+5696,Santiago Arias Naranjo,2,Right Back,4.0,{},7585,769,Colombia,126,Right Back,True
+6196,Yerry Fernando Mina González,3,Right Center Back,13.0,{},7585,769,Colombia,132,Right Center Back,True
+3494,Davinson Sánchez Mina,5,Left Center Back,23.0,{},7585,769,Colombia,132,Left Center Back,True
+5691,Johan Andrés Mojica Palacio,6,Left Back,17.0,{},7585,769,Colombia,132,Left Back,True
+5686,Wílmar Enrique Barrios Terán,10,Center Defensive Midfield,5.0,{},7585,769,Colombia,132,Center Defensive Midfield,True
+5685,Carlos Alberto Sánchez Moreno,13,Right Center Midfield,6.0,{},7585,769,Colombia,82,Right Center Midfield,True
+5678,Jefferson Andrés Lerma Solís,15,Left Center Midfield,16.0,{},7585,769,Colombia,65,Left Center Midfield,True
+5692,Juan Fernando Quintero Paniagua,19,Center Attacking Midfield,20.0,{},7585,769,Colombia,91,Center Attacking Midfield,True
+5689,Juan Guillermo Cuadrado Bello,22,Right Center Forward,11.0,{},7585,769,Colombia,132,Right Center Forward,True
+3445,Radamel Falcao García Zárate,24,Left Center Forward,9.0,{},7585,769,Colombia,132,Left Center Forward,True
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},7585,768,England,132,Goalkeeper,True
+3205,Kyle Walker,3,Right Center Back,2.0,{},7585,768,England,123,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},7585,768,England,132,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},7585,768,England,132,Left Center Back,True
+3532,Jordan Brian Henderson,10,Center Defensive Midfield,8.0,{},7585,768,England,132,Center Defensive Midfield,True
+3308,Kieran Trippier,12,Right Midfield,12.0,{},7585,768,England,132,Right Midfield,True
+3612,Ashley Young,16,Left Midfield,18.0,{},7585,768,England,111,Left Midfield,True
+3293,Jesse Lingard,18,Right Attacking Midfield,7.0,{},7585,768,England,132,Right Attacking Midfield,True
+3094,Bamidele Alli,20,Left Attacking Midfield,20.0,{},7585,768,England,84,Left Attacking Midfield,True
+3233,Raheem Sterling,22,Right Center Forward,10.0,{},7585,768,England,91,Right Center Forward,True
+10955,Harry Kane,24,Left Center Forward,9.0,{},7585,768,England,132,Left Center Forward,True
+5688,Carlos Arturo Bacca Ahumada,0,0,0.0,0,7585,769,Colombia,67,,False
+6193,Andrés Mateus Uribe Villa,0,0,0.0,0,7585,769,Colombia,50,,False
+10956,Eric Dier,0,0,0.0,0,7585,768,England,48,,False
+10960,Jamie Vardy,0,0,0.0,0,7585,768,England,41,,False
+6334,Luis Fernando Muriel Fruto,0,0,0.0,0,7585,769,Colombia,41,,False
+3594,Danny Rose,0,0,0.0,0,7585,768,England,21,,False
+3318,Marcus Rashford,0,0,0.0,0,7585,768,England,9,,False
+6360,Cristian Eduardo Zapata Valencia,0,0,0.0,0,7585,769,Colombia,6,,False
+5622,Robin Olsen,1,Goalkeeper,1.0,{},7586,790,Sweden,97,Goalkeeper,True
+5612,Mikael Lustig,2,Right Back,2.0,{},7586,790,Sweden,82,Right Back,True
+3702,Victor Nilsson Lindelöf,3,Right Center Back,3.0,{},7586,790,Sweden,97,Right Center Back,True
+5607,Andreas Granqvist,5,Left Center Back,4.0,{},7586,790,Sweden,97,Left Center Back,True
+5621,Ludwig Augustinsson,6,Left Back,6.0,{},7586,790,Sweden,97,Left Back,True
+5611,Gustav Svensson,13,Right Center Midfield,13.0,{},7586,790,Sweden,97,Right Center Midfield,True
+5624,Albin Ekdal,15,Left Center Midfield,8.0,{},7586,790,Sweden,97,Left Center Midfield,True
+5625,Emil Peter Forsberg,16,Left Midfield,10.0,{},7586,790,Sweden,81,Left Midfield,True
+5613,Viktor Claesson,17,Right Wing,17.0,{},7586,790,Sweden,97,Right Wing,True
+11098,Marcus Berg,22,Right Center Forward,9.0,{},7586,790,Sweden,91,Right Center Forward,True
+4417,Ola Toivonen,24,Left Center Forward,20.0,{},7586,790,Sweden,97,Left Center Forward,True
+5550,Yann Sommer,1,Goalkeeper,1.0,{},7586,773,Switzerland,97,Goalkeeper,True
+5546,Michael Lang,2,Right Back,6.0,{},7586,773,Switzerland,93,Right Back,True
+6359,Johan Danon Djourou-Gbadjere,3,Right Center Back,20.0,{},7586,773,Switzerland,97,Right Center Back,True
+5549,Manuel Obafemi Akanji,5,Left Center Back,5.0,{},7586,773,Switzerland,97,Left Center Back,True
+5544,Ricardo Iván Rodríguez Araya,6,Left Back,13.0,{},7586,773,Switzerland,97,Left Back,True
+5540,Valon Behrami,13,Right Center Midfield,11.0,{},7586,773,Switzerland,97,Right Center Midfield,True
+3500,Granit Xhaka,15,Left Center Midfield,10.0,{},7586,773,Switzerland,97,Left Center Midfield,True
+3533,Xherdan Shaqiri,17,Right Wing,23.0,{},7586,773,Switzerland,97,Right Wing,True
+5554,Blerim Džemaili,19,Center Attacking Midfield,15.0,{},7586,773,Switzerland,73,Center Attacking Midfield,True
+5548,Steven Zuber,21,Left Wing,14.0,{},7586,773,Switzerland,73,Left Wing,True
+5835,Josip Drmic,23,Center Forward,19.0,{},7586,773,Switzerland,97,Center Forward,True
+5545,Breel-Donald Embolo,0,0,0.0,0,7586,773,Switzerland,24,,False
+5543,Haris Seferović,0,0,0.0,0,7586,773,Switzerland,24,,False
+3576,Martin Olsson,0,0,0.0,0,7586,790,Sweden,16,,False
+6358,Emil Krafth,0,0,0.0,0,7586,790,Sweden,15,,False
+5615,Isaac Kiese Thelin,0,0,0.0,0,7586,790,Sweden,6,,False
+5267,Néstor Fernando Muslera Micol,1,Goalkeeper,1.0,{},8649,783,Uruguay,96,Goalkeeper,True
+5248,José Martín Cáceres Silva,2,Right Back,22.0,{},8649,783,Uruguay,96,Right Back,True
+5259,José María Giménez de Vargas,3,Right Center Back,2.0,{},8649,783,Uruguay,96,Right Center Back,True
+5249,Diego Roberto Godín Leal,5,Left Center Back,3.0,{},8649,783,Uruguay,96,Left Center Back,True
+5717,Diego Sebastián Laxalt Suárez,6,Left Back,17.0,{},8649,783,Uruguay,96,Left Back,True
+5266,Lucas Torreira Di Pascua,10,Center Defensive Midfield,14.0,{},8649,783,Uruguay,96,Center Defensive Midfield,True
+5247,Nahitan Michel Nández Acosta,13,Right Center Midfield,8.0,{},8649,783,Uruguay,74,Right Center Midfield,True
+5255,Matías Vecino Falero,15,Left Center Midfield,15.0,{},8649,783,Uruguay,96,Left Center Midfield,True
+5260,Rodrigo Bentancur Colmán,19,Center Attacking Midfield,6.0,{},8649,783,Uruguay,60,Center Attacking Midfield,True
+5246,Luis Alberto Suárez Díaz,22,Right Center Forward,9.0,{},8649,783,Uruguay,96,Right Center Forward,True
+6351,Cristhian Ricardo Stuani Curbelo,24,Left Center Forward,11.0,{},8649,783,Uruguay,60,Left Center Forward,True
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},8649,771,France,96,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},8649,771,France,96,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},8649,771,France,96,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},8649,771,France,96,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},8649,771,France,96,Left Back,True
+3961,N''Golo Kanté,13,Right Center Midfield,13.0,{},8649,771,France,96,Right Center Midfield,True
+20004,Paul Pogba,15,Left Center Midfield,6.0,{},8649,771,France,96,Left Center Midfield,True
+3009,Kylian Mbappé Lottin,17,Right Wing,10.0,{},8649,771,France,89,Right Wing,True
+5487,Antoine Griezmann,19,Center Attacking Midfield,7.0,{},8649,771,France,94,Center Attacking Midfield,True
+5480,Corentin Tolisso,21,Left Wing,12.0,{},8649,771,France,81,Left Wing,True
+3604,Olivier Giroud,23,Center Forward,9.0,{},8649,771,France,96,Center Forward,True
+6297,Maximiliano Gómez González,0,0,0.0,0,8649,783,Uruguay,36,,False
+5256,Cristian Gabriel Rodríguez Barrotti,0,0,0.0,0,8649,783,Uruguay,36,,False
+6426,Jonathan Matías Urretaviscaya da Luz,0,0,0.0,0,8649,783,Uruguay,22,,False
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,0,0,0.0,0,8649,771,France,15,,False
+5477,Ousmane Dembélé,0,0,0.0,0,8649,771,France,7,,False
+2948,Nabil Fekir,0,0,0.0,0,8649,771,France,2,,False
+5547,Alisson Ramsés Becker,1,Goalkeeper,1.0,{},8650,781,Brazil,96,Goalkeeper,True
+5838,Fágner Conserva Lemos,2,Right Back,22.0,{},8650,781,Brazil,96,Right Back,True
+3295,Thiago Emiliano da Silva,3,Right Center Back,2.0,{},8650,781,Brazil,96,Right Center Back,True
+5551,João Miranda de Souza Filho,5,Left Center Back,3.0,{},8650,781,Brazil,96,Left Center Back,True
+5552,Marcelo Vieira da Silva Júnior,6,Left Back,12.0,{},8650,781,Brazil,96,Left Back,True
+5542,José Paulo Bezzera Maciel Júnior,12,Right Midfield,15.0,{},8650,781,Brazil,73,Right Midfield,True
+3054,Fernando Luiz Rosa,14,Center Midfield,17.0,{},8650,781,Brazil,96,Center Midfield,True
+3501,Philippe Coutinho Correia,16,Left Midfield,11.0,{},8650,781,Brazil,96,Left Midfield,True
+3472,Willian Borges da Silva,17,Right Wing,19.0,{},8650,781,Brazil,45,Right Wing,True
+4320,Neymar da Silva Santos Junior,21,Left Wing,10.0,{},8650,781,Brazil,96,Left Wing,True
+3202,Gabriel Fernando de Jesus,23,Center Forward,9.0,{},8650,781,Brazil,58,Center Forward,True
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},8650,782,Belgium,96,Goalkeeper,True
+3176,Thomas Meunier,2,Right Back,15.0,{},8650,782,Belgium,96,Right Back,True
+20005,Toby Alderweireld,3,Right Center Back,2.0,{},8650,782,Belgium,96,Right Center Back,True
+3101,Vincent Kompany,5,Left Center Back,4.0,{},8650,782,Belgium,96,Left Center Back,True
+3077,Jan Vertonghen,6,Left Back,5.0,{},8650,782,Belgium,96,Left Back,True
+3296,Marouane Fellaini-Bakkioui,13,Right Center Midfield,8.0,{},8650,782,Belgium,96,Right Center Midfield,True
+5642,Axel Witsel,14,Center Midfield,6.0,{},8650,782,Belgium,96,Center Midfield,True
+4831,Nacer Chadli,15,Left Center Midfield,22.0,{},8650,782,Belgium,83,Left Center Midfield,True
+3289,Romelu Lukaku Menama,17,Right Wing,9.0,{},8650,782,Belgium,87,Right Wing,True
+3621,Eden Hazard,21,Left Wing,10.0,{},8650,782,Belgium,96,Left Wing,True
+3089,Kevin De Bruyne,25,Secondary Striker,7.0,{},8650,782,Belgium,96,Secondary Striker,True
+3535,Roberto Firmino Barbosa de Oliveira,0,0,0.0,0,8650,781,Brazil,51,,False
+5837,Douglas Costa de Souza,0,0,0.0,0,8650,781,Brazil,38,,False
+5553,Renato Soares de Oliveira Augusto,0,0,0.0,0,8650,781,Brazil,23,,False
+6332,Thomas Vermaelen,0,0,0.0,0,8650,782,Belgium,13,,False
+2954,Youri Tielemans,0,0,0.0,0,8650,782,Belgium,9,,False
+5622,Robin Olsen,1,Goalkeeper,1.0,{},8651,790,Sweden,96,Goalkeeper,True
+6358,Emil Krafth,2,Right Back,16.0,{},8651,790,Sweden,85,Right Back,True
+3702,Victor Nilsson Lindelöf,3,Right Center Back,3.0,{},8651,790,Sweden,96,Right Center Back,True
+5607,Andreas Granqvist,5,Left Center Back,4.0,{},8651,790,Sweden,96,Left Center Back,True
+5621,Ludwig Augustinsson,6,Left Back,6.0,{},8651,790,Sweden,96,Left Back,True
+5617,Sebastian Larsson,13,Right Center Midfield,7.0,{},8651,790,Sweden,96,Right Center Midfield,True
+5624,Albin Ekdal,15,Left Center Midfield,8.0,{},8651,790,Sweden,96,Left Center Midfield,True
+5613,Viktor Claesson,17,Right Wing,17.0,{},8651,790,Sweden,96,Right Wing,True
+5625,Emil Peter Forsberg,21,Left Wing,10.0,{},8651,790,Sweden,65,Left Wing,True
+11098,Marcus Berg,22,Right Center Forward,9.0,{},8651,790,Sweden,96,Right Center Forward,True
+4417,Ola Toivonen,24,Left Center Forward,20.0,{},8651,790,Sweden,65,Left Center Forward,True
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},8651,768,England,96,Goalkeeper,True
+3205,Kyle Walker,3,Right Center Back,2.0,{},8651,768,England,96,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},8651,768,England,96,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},8651,768,England,96,Left Center Back,True
+3532,Jordan Brian Henderson,10,Center Defensive Midfield,8.0,{},8651,768,England,84,Center Defensive Midfield,True
+3308,Kieran Trippier,12,Right Midfield,12.0,{},8651,768,England,96,Right Midfield,True
+3612,Ashley Young,16,Left Midfield,18.0,{},8651,768,England,96,Left Midfield,True
+3293,Jesse Lingard,18,Right Attacking Midfield,7.0,{},8651,768,England,96,Right Attacking Midfield,True
+3094,Bamidele Alli,20,Left Attacking Midfield,20.0,{},8651,768,England,77,Left Attacking Midfield,True
+3233,Raheem Sterling,22,Right Center Forward,10.0,{},8651,768,England,91,Right Center Forward,True
+10955,Harry Kane,24,Left Center Forward,9.0,{},8651,768,England,96,Left Center Forward,True
+3576,Martin Olsson,0,0,0.0,0,8651,790,Sweden,31,,False
+6038,John Guidetti,0,0,0.0,0,8651,790,Sweden,31,,False
+4597,Fabian Delph,0,0,0.0,0,8651,768,England,19,,False
+10956,Eric Dier,0,0,0.0,0,8651,768,England,12,,False
+4709,Pontus Jansson,0,0,0.0,0,8651,790,Sweden,11,,False
+3318,Marcus Rashford,0,0,0.0,0,8651,768,England,5,,False
+5172,Igor Akinfeev,1,Goalkeeper,1.0,{},8652,796,Russia,130,Goalkeeper,True
+5170,Mário Figueira Fernandes,2,Right Back,2.0,{},8652,796,Russia,130,Right Back,True
+5175,Ilya Kutepov,3,Right Center Back,3.0,{},8652,796,Russia,130,Right Center Back,True
+5174,Sergei Ignashevich,5,Left Center Back,4.0,{},8652,796,Russia,130,Left Center Back,True
+5677,Fedor Kudryashov,6,Left Back,13.0,{},8652,796,Russia,130,Left Back,True
+5179,Daler Kuzyaev,13,Right Center Midfield,7.0,{},8652,796,Russia,130,Right Center Midfield,True
+5171,Roman Zobnin,15,Left Center Midfield,11.0,{},8652,796,Russia,130,Left Center Midfield,True
+5182,Aleksandr Samedov,17,Right Wing,19.0,{},8652,796,Russia,55,Right Wing,True
+5177,Aleksandr Golovin,19,Center Attacking Midfield,17.0,{},8652,796,Russia,108,Center Attacking Midfield,True
+5186,Denis Cheryshev,21,Left Wing,6.0,{},8652,796,Russia,68,Left Wing,True
+5195,Artem Dzyuba,23,Center Forward,22.0,{},8652,796,Russia,80,Center Forward,True
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},8652,785,Croatia,130,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},8652,785,Croatia,103,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},8652,785,Croatia,130,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},8652,785,Croatia,130,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},8652,785,Croatia,75,Left Back,True
+5463,Luka Modrić,9,Right Defensive Midfield,10.0,{},8652,785,Croatia,130,Right Defensive Midfield,True
+5470,Ivan Rakitić,11,Left Defensive Midfield,7.0,{},8652,785,Croatia,130,Left Defensive Midfield,True
+5465,Ante Rebić,17,Right Wing,18.0,{},8652,785,Croatia,130,Right Wing,True
+5460,Andrej Kramarić,19,Center Attacking Midfield,9.0,{},8652,785,Croatia,89,Center Attacking Midfield,True
+5474,Ivan Perišić,21,Left Wing,4.0,{},8652,785,Croatia,64,Left Wing,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},8652,785,Croatia,130,Center Forward,True
+6354,Aleksandr Erokhin,0,0,0.0,0,8652,796,Russia,75,,False
+5469,Marcelo Brozović,0,0,0.0,0,8652,785,Croatia,66,,False
+5194,Fyodor Smolov,0,0,0.0,0,8652,796,Russia,62,,False
+6308,Josip Pivarić,0,0,0.0,0,8652,785,Croatia,55,,False
+5181,Yury Gazinskiy,0,0,0.0,0,8652,796,Russia,50,,False
+5456,Mateo Kovačić,0,0,0.0,0,8652,785,Croatia,41,,False
+5739,Vedran Ćorluka,0,0,0.0,0,8652,785,Croatia,27,,False
+5180,Alan Dzagoev,0,0,0.0,0,8652,796,Russia,22,,False
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},8655,771,France,97,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},8655,771,France,97,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},8655,771,France,97,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},8655,771,France,97,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},8655,771,France,97,Left Back,True
+3961,N''Golo Kanté,9,Right Defensive Midfield,13.0,{},8655,771,France,97,Right Defensive Midfield,True
+20004,Paul Pogba,11,Left Defensive Midfield,6.0,{},8655,771,France,97,Left Defensive Midfield,True
+3009,Kylian Mbappé Lottin,17,Right Wing,10.0,{},8655,771,France,97,Right Wing,True
+5487,Antoine Griezmann,19,Center Attacking Midfield,7.0,{},8655,771,France,97,Center Attacking Midfield,True
+4375,Blaise Matuidi,21,Left Wing,14.0,{},8655,771,France,86,Left Wing,True
+3604,Olivier Giroud,23,Center Forward,9.0,{},8655,771,France,85,Center Forward,True
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},8655,782,Belgium,97,Goalkeeper,True
+4831,Nacer Chadli,2,Right Back,22.0,{},8655,782,Belgium,91,Right Back,True
+20005,Toby Alderweireld,3,Right Center Back,2.0,{},8655,782,Belgium,97,Right Center Back,True
+3101,Vincent Kompany,5,Left Center Back,4.0,{},8655,782,Belgium,97,Left Center Back,True
+3077,Jan Vertonghen,6,Left Back,5.0,{},8655,782,Belgium,97,Left Back,True
+5642,Axel Witsel,13,Right Center Midfield,6.0,{},8655,782,Belgium,97,Right Center Midfield,True
+3037,Mousa Sidi Yaya Dembélé,15,Left Center Midfield,19.0,{},8655,782,Belgium,60,Left Center Midfield,True
+3089,Kevin De Bruyne,17,Right Wing,7.0,{},8655,782,Belgium,97,Right Wing,True
+3296,Marouane Fellaini-Bakkioui,19,Center Attacking Midfield,8.0,{},8655,782,Belgium,80,Center Attacking Midfield,True
+3621,Eden Hazard,21,Left Wing,10.0,{},8655,782,Belgium,97,Left Wing,True
+3289,Romelu Lukaku Menama,23,Center Forward,9.0,{},8655,782,Belgium,97,Center Forward,True
+5630,Dries Mertens,0,0,0.0,0,8655,782,Belgium,37,,False
+5633,Yannick Ferreira Carrasco,0,0,0.0,0,8655,782,Belgium,17,,False
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,0,0,0.0,0,8655,771,France,12,,False
+5480,Corentin Tolisso,0,0,0.0,0,8655,771,France,11,,False
+3457,Michy Batshuayi Tunga,0,0,0.0,0,8655,782,Belgium,6,,False
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},8656,785,Croatia,131,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},8656,785,Croatia,131,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},8656,785,Croatia,131,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},8656,785,Croatia,131,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},8656,785,Croatia,98,Left Back,True
+5469,Marcelo Brozović,14,Center Midfield,11.0,{},8656,785,Croatia,131,Center Midfield,True
+5465,Ante Rebić,17,Right Wing,18.0,{},8656,785,Croatia,104,Right Wing,True
+5463,Luka Modrić,18,Right Attacking Midfield,10.0,{},8656,785,Croatia,124,Right Attacking Midfield,True
+5470,Ivan Rakitić,20,Left Attacking Midfield,7.0,{},8656,785,Croatia,131,Left Attacking Midfield,True
+5474,Ivan Perišić,21,Left Wing,4.0,{},8656,785,Croatia,131,Left Wing,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},8656,785,Croatia,121,Center Forward,True
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},8656,768,England,131,Goalkeeper,True
+3205,Kyle Walker,3,Right Center Back,2.0,{},8656,768,England,118,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},8656,768,England,131,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},8656,768,England,131,Left Center Back,True
+3308,Kieran Trippier,7,Right Wing Back,12.0,{},8656,768,England,131,Right Wing Back,True
+3612,Ashley Young,8,Left Wing Back,18.0,{},8656,768,England,91,Left Wing Back,True
+3532,Jordan Brian Henderson,10,Center Defensive Midfield,8.0,{},8656,768,England,100,Center Defensive Midfield,True
+3293,Jesse Lingard,13,Right Center Midfield,7.0,{},8656,768,England,131,Right Center Midfield,True
+3094,Bamidele Alli,15,Left Center Midfield,20.0,{},8656,768,England,131,Left Center Midfield,True
+10955,Harry Kane,22,Right Center Forward,9.0,{},8656,768,England,131,Right Center Forward,True
+3233,Raheem Sterling,24,Left Center Forward,10.0,{},8656,768,England,74,Left Center Forward,True
+3318,Marcus Rashford,0,0,0.0,0,8656,768,England,57,,False
+3594,Danny Rose,0,0,0.0,0,8656,768,England,40,,False
+6308,Josip Pivarić,0,0,0.0,0,8656,785,Croatia,33,,False
+10956,Eric Dier,0,0,0.0,0,8656,768,England,31,,False
+5460,Andrej Kramarić,0,0,0.0,0,8656,785,Croatia,27,,False
+10960,Jamie Vardy,0,0,0.0,0,8656,768,England,13,,False
+5739,Vedran Ćorluka,0,0,0.0,0,8656,785,Croatia,10,,False
+6305,Milan Badelj,0,0,0.0,0,8656,785,Croatia,7,,False
+3509,Thibaut Courtois,1,Goalkeeper,1.0,{},8657,782,Belgium,95,Goalkeeper,True
+20005,Toby Alderweireld,3,Right Center Back,2.0,{},8657,782,Belgium,95,Right Center Back,True
+3101,Vincent Kompany,4,Center Back,4.0,{},8657,782,Belgium,95,Center Back,True
+3077,Jan Vertonghen,5,Left Center Back,5.0,{},8657,782,Belgium,95,Left Center Back,True
+3176,Thomas Meunier,7,Right Wing Back,15.0,{},8657,782,Belgium,95,Right Wing Back,True
+4831,Nacer Chadli,8,Left Wing Back,22.0,{},8657,782,Belgium,38,Left Wing Back,True
+2954,Youri Tielemans,9,Right Defensive Midfield,17.0,{},8657,782,Belgium,79,Right Defensive Midfield,True
+5642,Axel Witsel,11,Left Defensive Midfield,6.0,{},8657,782,Belgium,95,Left Defensive Midfield,True
+3089,Kevin De Bruyne,17,Right Wing,7.0,{},8657,782,Belgium,95,Right Wing,True
+3621,Eden Hazard,21,Left Wing,10.0,{},8657,782,Belgium,95,Left Wing,True
+3289,Romelu Lukaku Menama,23,Center Forward,9.0,{},8657,782,Belgium,61,Center Forward,True
+3468,Jordan Pickford,1,Goalkeeper,1.0,{},8657,768,England,95,Goalkeeper,True
+3314,Phil Jones,3,Right Center Back,16.0,{},8657,768,England,95,Right Center Back,True
+3244,John Stones,4,Center Back,5.0,{},8657,768,England,95,Center Back,True
+3336,Harry Maguire,5,Left Center Back,6.0,{},8657,768,England,95,Left Center Back,True
+3308,Kieran Trippier,7,Right Wing Back,12.0,{},8657,768,England,95,Right Wing Back,True
+3594,Danny Rose,8,Left Wing Back,3.0,{},8657,768,England,45,Left Wing Back,True
+10956,Eric Dier,10,Center Defensive Midfield,4.0,{},8657,768,England,95,Center Defensive Midfield,True
+3504,Ruben Loftus-Cheek,13,Right Center Midfield,21.0,{},8657,768,England,85,Right Center Midfield,True
+4597,Fabian Delph,15,Left Center Midfield,17.0,{},8657,768,England,95,Left Center Midfield,True
+10955,Harry Kane,22,Right Center Forward,9.0,{},8657,768,England,95,Right Center Forward,True
+3233,Raheem Sterling,24,Left Center Forward,10.0,{},8657,768,England,45,Left Center Forward,True
+6332,Thomas Vermaelen,0,0,0.0,0,8657,782,Belgium,57,,False
+3293,Jesse Lingard,0,0,0.0,0,8657,768,England,50,,False
+3318,Marcus Rashford,0,0,0.0,0,8657,768,England,50,,False
+5630,Dries Mertens,0,0,0.0,0,8657,782,Belgium,34,,False
+3037,Mousa Sidi Yaya Dembélé,0,0,0.0,0,8657,782,Belgium,16,,False
+3094,Bamidele Alli,0,0,0.0,0,8657,768,England,10,,False
+3099,Hugo Lloris,1,Goalkeeper,1.0,{},8658,771,France,98,Goalkeeper,True
+5476,Benjamin Pavard,2,Right Back,2.0,{},8658,771,France,98,Right Back,True
+5485,Raphaël Varane,3,Right Center Back,4.0,{},8658,771,France,98,Right Center Back,True
+5492,Samuel Yves Umtiti,5,Left Center Back,5.0,{},8658,771,France,98,Left Center Back,True
+5484,Lucas Hernández Pi,6,Left Back,21.0,{},8658,771,France,98,Left Back,True
+20004,Paul Pogba,9,Right Defensive Midfield,6.0,{},8658,771,France,98,Right Defensive Midfield,True
+3961,N''Golo Kanté,11,Left Defensive Midfield,13.0,{},8658,771,France,57,Left Defensive Midfield,True
+3009,Kylian Mbappé Lottin,12,Right Midfield,10.0,{},8658,771,France,98,Right Midfield,True
+4375,Blaise Matuidi,16,Left Midfield,14.0,{},8658,771,France,75,Left Midfield,True
+5487,Antoine Griezmann,22,Right Center Forward,7.0,{},8658,771,France,98,Right Center Forward,True
+3604,Olivier Giroud,24,Left Center Forward,9.0,{},8658,771,France,83,Left Center Forward,True
+3444,Danijel Subašić,1,Goalkeeper,23.0,{},8658,785,Croatia,98,Goalkeeper,True
+5461,Šime Vrsaljko,2,Right Back,2.0,{},8658,785,Croatia,98,Right Back,True
+3471,Dejan Lovren,3,Right Center Back,6.0,{},8658,785,Croatia,98,Right Center Back,True
+5468,Domagoj Vida,5,Left Center Back,21.0,{},8658,785,Croatia,98,Left Center Back,True
+5457,Ivan Strinić,6,Left Back,3.0,{},8658,785,Croatia,83,Left Back,True
+5469,Marcelo Brozović,10,Center Defensive Midfield,11.0,{},8658,785,Croatia,98,Center Defensive Midfield,True
+5463,Luka Modrić,13,Right Center Midfield,10.0,{},8658,785,Croatia,98,Right Center Midfield,True
+5470,Ivan Rakitić,15,Left Center Midfield,7.0,{},8658,785,Croatia,98,Left Center Midfield,True
+5465,Ante Rebić,17,Right Wing,18.0,{},8658,785,Croatia,73,Right Wing,True
+5474,Ivan Perišić,21,Left Wing,4.0,{},8658,785,Croatia,98,Left Wing,True
+5472,Mario Mandžukić,23,Center Forward,17.0,{},8658,785,Croatia,98,Center Forward,True
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,0,0,0.0,0,8658,771,France,41,,False
+5460,Andrej Kramarić,0,0,0.0,0,8658,785,Croatia,25,,False
+5480,Corentin Tolisso,0,0,0.0,0,8658,771,France,23,,False
+5459,Marko Pjaca,0,0,0.0,0,8658,785,Croatia,15,,False
+2948,Nabil Fekir,0,0,0.0,0,8658,771,France,15,,False
