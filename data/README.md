@@ -1,8 +1,7 @@
-# Data Directory
+# Data
 
-This project separates inputs from derived outputs.
+[StatsBomb Open Data](https://github.com/hudl/open-data) provides event and lineup records for the 2018 men's FIFA World Cup, competition 43 and season 3.
 
-- `raw/` is for source files, downloaded event data, and untouched extracts.
-- `processed/` is for cleaned tables, model-ready action data, and exported summaries.
+The main notebook reads the match-context SPADL action coordinates in `processed/actions_xt.csv` and player minutes from `processed/player_appearances.csv`. It rotates away-team coordinates, fits a new xT surface, and computes player and team summaries. The preexisting xT columns in the action CSV are historical. The notebook ignores those columns.
 
-Keep raw files immutable where possible. If a transformation is needed, write the result into `processed/` and document the step in code rather than editing source files by hand.
+The other processed tables and raw cache belong to an earlier pipeline. Reproduce the current published figures from the notebook.
