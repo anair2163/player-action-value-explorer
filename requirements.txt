@@ -1,5 +1,5 @@
 pandas>=2.2
-numpy>=1.26
+numpy>=1.26,<2
 plotly>=5.24
 kaleido>=0.2.1
 pyarrow>=16.1
@@ -10,4 +10,4 @@ notebook>=7.2
 ipykernel>=6.29
 nbformat>=5.10
 statsbombpy>=1.13
-socceraction>=1.5
+socceraction==1.5.3
